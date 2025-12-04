@@ -1,1 +1,31 @@
-
+{
+  "name": "@udir/grep-sdk",
+  "version": "0.1.0",
+  "description": "Offisiell SDK for Grep (KL06) – databasen for Kunnskapsløftet.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "generate": "python3 scripts/builder.py"
+  },
+  "keywords": [
+    "udir",
+    "grep",
+    "lk20",
+    "kunnskapsløftet",
+    "sdk"
+  ],
+  "author": "Utdanningsdirektoratet",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0" 
+  }
+}
