@@ -1,0 +1,256 @@
+{
+    "id": "uuid:9be1fd43-58bd-4094-bc8e-46902368ab43",
+    "kode": "DHMED2----",
+    "uri": "http://psi.udir.no/kl06/DHMED2----",
+    "url-data": "https://data.udir.no/kl06/v201906/programomraader/DHMED2----",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Medieproduksjon vg2"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Media production upper secondary level 2 (vg 2)"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Medieproduksjon vg2"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Medieproduksjon vg2"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Mediabuvttadeapmi jo2"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2021-11-11T08:49:04.248068",
+    "merkelapper": [],
+    "utdanningsprogram-referanse": [
+        {
+            "kode": "DH",
+            "uri": "http://psi.udir.no/kl06/DH",
+            "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/DH",
+            "tittel": "Design og håndverk",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "http://psi.udir.no/ontologi/utdanningsprogram/design_haandverksfag",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Medieproduksjon"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Media production"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Medieproduksjon"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Medieproduksjon"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Mediabuvttadeapmi"
+        }
+    ],
+    "landslinje": false,
+    "landsdekkende-linje": false,
+    "programomraade-type": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Skole(Elev)"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Skole(Elev)"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/programomraadetype_skole",
+        "url-data": "https://data.udir.no/kl06/v201906/programomraadetype/programomraadetype_skole",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/programomraadetype"
+    },
+    "aarstimer": "982",
+    "aarstimer-samisk": "988",
+    "aarstimer-doeve-og-tunghoerte": "982",
+    "aarstimer-formgivningsfag": null,
+    "tilleggsopplysninger": [
+        {
+            "spraak": "default",
+            "verdi": "Informasjon om overgangen fra medier og kommunikasjon (yrkesfaglig utdanningsprogram): http://www.udir.no/laring-og-trivsel/lareplanverket/forsok-og-pagaende-arbeid/MK-blir-studieforberedende/"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Informasjon om overgangen fra medier og kommunikasjon (yrkesfaglig utdanningsprogram): http://www.udir.no/laring-og-trivsel/lareplanverket/forsok-og-pagaende-arbeid/MK-blir-studieforberedende/"
+        }
+    ],
+    "foerste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Høst 2017"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Høst 2017"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_hoest_2017",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2017",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "siste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Vår 2021"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Vår 2021"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_vaar_2021",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2021",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "aarstrinn": {
+        "kode": "vg2",
+        "uri": "http://psi.udir.no/kl06/vg2",
+        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg2",
+        "tittel": "Videregående trinn 2",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/laereplan/aarstrinn/vg2",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "bygger-paa-programomraade": [
+        {
+            "kode": "DHMED1----",
+            "uri": "http://psi.udir.no/kl06/DHMED1----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/DHMED1----",
+            "tittel": "Medieproduksjon vg1",
+            "gyldighet": {
+                "gyldig-fra": "2007-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:bf2e98ae-fd3c-4321-8e06-85699ad04856",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+            "loepstype": null
+        },
+        {
+            "kode": "MKMED1----",
+            "uri": "http://psi.udir.no/kl06/MKMED1----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/MKMED1----",
+            "tittel": "Medier og kommunikasjon vg1",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:d0692059-48f7-4170-b047-e56f2dac211a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+            "loepstype": null
+        },
+        {
+            "kode": "STUSP1----",
+            "uri": "http://psi.udir.no/kl06/STUSP1----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/STUSP1----",
+            "tittel": "Studiespesialisering",
+            "gyldighet": {
+                "gyldig-fra": "2018-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:7763aae6-7662-4ff0-9e77-9a659e155796",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+            "loepstype": {
+                "beskrivelse": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Kryssløp"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Kryssløp"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Kryssløp"
+                    }
+                ],
+                "uri": "http://psi.udir.no/kl06/loepstype_kryssloep",
+                "url-data": "https://data.udir.no/kl06/v201906/loepstype/loepstype_kryssloep",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/loepstype"
+            }
+        }
+    ],
+    "erstatter": [
+        {
+            "kode": "MKMED2----",
+            "uri": "http://psi.udir.no/kl06/MKMED2----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/MKMED2----",
+            "tittel": "Medier og kommunikasjon vg2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:9829bfae-cb8b-4e55-9125-6361c6f3654c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "erstattes-av": [
+        {
+            "kode": "IMMED2----",
+            "uri": "http://psi.udir.no/kl06/IMMED2----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/IMMED2----",
+            "tittel": "Medieproduksjon",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:1fd1272a-c03f-4dec-b073-5937b6d4fd83",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "yrkestittel": [],
+    "opplaeringssted": [
+        {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Skole"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Skole"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/opplaeringssted_skole",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringssted/opplaeringssted_skole",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringssted"
+        }
+    ],
+    "sluttkompetanse": [],
+    "opplaeringstid": "1,00",
+    "verdiskapingstid": null
+}

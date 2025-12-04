@@ -1,0 +1,216 @@
+{
+    "id": "uuid:82afbe68-bb08-4522-ba8a-1dbb5b9d09bc",
+    "kode": "VMM24",
+    "uri": "http://psi.udir.no/kl06/VMM24",
+    "url-data": "https://data.udir.no/kl06/v201906/merknader/VMM24",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Opplæringsløp over fire år i kombinasjon med ordinær treårig videregående opplæring og idrettsutøving, jf. forskriften § 3-40 siste ledd."
+        },
+        {
+            "spraak": "eng",
+            "verdi": "A four-year educational program combined with a standard three-year upper secondary education course and sports & athletics activities cf. the Regulation § 3-40 last paragraph."
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Opplæringsløp over fire år i kombinasjon med ordinær treårig vidaregåande opplæring og idrettsutøving, jf. forskrifta § 3-40 siste ledd."
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Opplæringsløp over fire år i kombinasjon med ordinær treårig videregående opplæring og idrettsutøving, jf. forskriften § 3-40 siste ledd."
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Njealje jagi oahppomannolat lotnolasat dábálaš golmmajagáš joatkkaoahppuin ja valáštallamiin, vrd. § 3-40 láhkaásahusa maŋimuš lađđasa."
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/merknad",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2021-01-13T11:48:55.8790132",
+    "relaterte-aarstrinn": [
+        {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg1",
+            "tittel": "Videregående trinn 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/vg1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "vg2",
+            "uri": "http://psi.udir.no/kl06/vg2",
+            "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg2",
+            "tittel": "Videregående trinn 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/vg2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "vg3",
+            "uri": "http://psi.udir.no/kl06/vg3",
+            "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+            "tittel": "Videregående trinn 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_videregaaende",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+            "tittel": "Videregående opplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Opplæringsløp over fire år i kombinasjon med ordinær treårig videregående opplæring og idrettsutøving, jf. forskriften § 3-40 siste ledd."
+        },
+        {
+            "spraak": "eng",
+            "verdi": "A four-year educational program combined with a standard three-year upper secondary education course and sports & athletics activities cf. the Regulation § 3-40 last paragraph."
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Opplæringsløp over fire år i kombinasjon med ordinær treårig vidaregåande opplæring og idrettsutøving, jf. forskrifta § 3-40 siste ledd."
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Opplæringsløp over fire år i kombinasjon med ordinær treårig videregående opplæring og idrettsutøving, jf. forskriften § 3-40 siste ledd."
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Njealje jagi oahppomannolat lotnolasat dábálaš golmmajagáš joatkkaoahppuin ja valáštallamiin, vrd. § 3-40 láhkaásahusa maŋimuš lađđasa."
+        }
+    ],
+    "merknads-type": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Vitnemålsmerknad"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Vitnemålsmerknad"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/merknadstype_vitnemaalsmerknad",
+        "url-data": "https://data.udir.no/kl06/v201906/merknadstype/merknadstype_vitnemaalsmerknad",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/merknadstype"
+    },
+    "dokumenttype": [
+        {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vitnemål"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Vitnemål"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vitnemål"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/dokumenttype_vitnemaal",
+            "url-data": "https://data.udir.no/kl06/v201906/dokumenttype/dokumenttype_vitnemaal",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/dokumenttype"
+        }
+    ],
+    "relaterte-fag": [],
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid from"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raejeste"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rájes"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rájes"
+                }
+            ],
+            "dato": null
+        },
+        "gyldig-til": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid to"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raaajan"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rádjái"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rádjáj"
+                }
+            ],
+            "dato": null
+        }
+    },
+    "krav-om-vedlegg": false,
+    "merknad-bruksomraade": null
+}

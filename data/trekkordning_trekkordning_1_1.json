@@ -1,0 +1,23 @@
+{
+    "id": "http://psi.udir.no/kl06/trekkordning_1",
+    "kode": "trekkordning_1",
+    "uri": "http://psi.udir.no/kl06/trekkordning_1",
+    "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Ingen eksamen"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Ingen eksamen"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2016-08-19T09:53:58.982602",
+    "kortform": [],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

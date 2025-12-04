@@ -1,0 +1,43 @@
+{
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "<p>Å styre eller styring betyr i elektro et system uten tilbakemelding (åpen sløyfe)</p>"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "<p>Å styre eller styring betyr i elektro et system uten tilbakemelding (åpen sløyfe)</p>"
+        }
+    ],
+    "id": "fc78ac41-42da-416d-83f3-db1c0c7d6518",
+    "kode": "OF5",
+    "uri": "http://psi.udir.no/kl06/OF5",
+    "url-data": "https://data.udir.no/kl06/v201906/ordforklaringer-lk20/OF5",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Styre"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Styre"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/ordforklaring_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2019-11-17T19:21:16.8341181",
+    "tilhoerer-laereplan": {
+        "kode": "ELE01-03",
+        "uri": "http://psi.udir.no/kl06/ELE01-03",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ELE01-03",
+        "tittel": "Læreplan i Vg1 elektro og datateknologi",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "19a845ed-4e60-4b5f-ac53-52f35fabcedb",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "rekkefoelge": 1
+}

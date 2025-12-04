@@ -1,0 +1,16 @@
+# .npmignore
+# Vi ignorerer kildekode og verktøy, brukeren trenger bare 'dist' mappen
+src/
+scripts/
+data/
+test_sdk.ts
+test_bypass.js
+tsconfig.json
+.gitignore
+builder.py
+
+# ...men vi MÅ beholde disse:
+!dist/
+!package.json
+!README.md
+!LICENSE

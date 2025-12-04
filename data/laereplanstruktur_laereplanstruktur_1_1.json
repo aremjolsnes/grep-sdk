@@ -1,0 +1,32 @@
+{
+    "id": "uuid:3e031575-0a7f-44bb-8e3f-8da55879f90d",
+    "kode": "laereplanstruktur_1",
+    "uri": "http://psi.udir.no/kl06/laereplanstruktur_1",
+    "url-data": "https://data.udir.no/kl06/v201906/semester/laereplanstruktur_1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Vanlig"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Vanlig"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2023-11-15T09:26:52.4870139",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Vanlig"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Vanlig"
+        }
+    ],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

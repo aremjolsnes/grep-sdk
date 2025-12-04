@@ -1,0 +1,931 @@
+{
+    "id": "eb6fa8c5-72a4-48aa-b31b-e933a0d37547",
+    "kode": "BET05-01",
+    "uri": "http://psi.udir.no/kl06/BET05-01",
+    "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/BET05-01",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Læreplan i betongfaget – modulstrukturert opplæring for voksne"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Læreplan i betongfaget – modulstrukturert opplæring for vaksne"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Læreplan i betongfaget – modulstrukturert opplæring for voksne"
+            }
+        ],
+        "forskrift": true
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Betongfaget – modulstrukturert opplæring for voksne"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Betongfaget – modulstrukturert opplæring for vaksne"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Betongfaget – modulstrukturert opplæring for voksne"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2025-09-10T11:09:50.6059016",
+    "laereplanstruktur": {
+        "kode": "laereplanstruktur_2",
+        "uri": "http://psi.udir.no/kl06/laereplanstruktur_2",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplanstruktur/laereplanstruktur_2",
+        "tittel": "Modulstrukturert",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "uuid:dd3dc435-d047-4984-b3af-aae1778a24dd",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "fastsettelsesinformasjon": {
+        "fastsatt-dato": "2024-05-30T00:00:00",
+        "fastsettelsestekst": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 30. mai 2024  etter delegasjon i brev av 13. september 2013 fra Kunnskapsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Fastsett som forskrift av Utdanningsdirektoratet 30. mai 2024 etter delegasjon i brev av 13. september 2013 frå Kunnskapsdepartementet med heimel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 30. mai 2024  etter delegasjon i brev av 13. september 2013 fra Kunnskapsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+            }
+        ],
+        "fastsatt-spraak": {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        "fastsatt-dato-overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Established"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Fastsett"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Vihtiestamme"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Mearriduvvon"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Mierreduvvam"
+            }
+        ]
+    },
+    "fagtype": [
+        {
+            "kode": "fagtype_felles_programfag",
+            "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
+            "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
+            "tittel": "Felles programfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/felles_programfag",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilgjengelige-spraak": [
+        {
+            "kode": "nno",
+            "uri": "http://psi.udir.no/kl06/nno",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nno",
+            "tittel": "Nynorsk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nno",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_videregaaende",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+            "tittel": "Videregående opplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "ordforklaringer": [],
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid from"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raejeste"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rájes"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rájes"
+                }
+            ],
+            "dato": "2024-08-01T00:00:00"
+        },
+        "gyldig-til": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid to"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raaajan"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rádjái"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rádjáj"
+                }
+            ],
+            "dato": null
+        }
+    },
+    "erstatter": [],
+    "erstattes-av": [],
+    "siste-eksamen": null,
+    "merkelapper": [
+        {
+            "kode": "for_voksenopplaering",
+            "uri": "http://psi.udir.no/kl06/for_voksenopplaering",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/for_voksenopplaering",
+            "tittel": "For voksenopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/kl06/merkelapp_for_voksenopplaering",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "laerling",
+            "uri": "http://psi.udir.no/kl06/laerling",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/laerling",
+            "tittel": "Lærlingplan",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/merkelapp/laerling",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "om-faget-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Om faget"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Om faget"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Om faget"
+                }
+            ],
+            "forskrift": true
+        },
+        "fagets-relevans-og-verdier": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Fagets relevans og sentrale verdier"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Fagrelevans og sentrale verdiar"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Fagets relevans og sentrale verdier"
+                    }
+                ],
+                "forskrift": true
+            },
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Vg3 betongfaget handler om å forskale, armere og støpe nye bygg- og anleggskonstruksjoner og vedlikeholde eksisterende bygningsmasser. Faget skal sette lærlingene i stand til å bygge boliger, næringsbygg, skoler, broer, tunneler, kaier, damanlegg og annen infrastruktur i betong. Faget bidrar til samfunnet gjennom å utdanne yrkesutøvere som kan oppføre nye betongkonstruksjoner og vedlikeholde eksisterende konstruksjoner. Faget handler også om å sikre kvalitet og levetid ved oppføring av bygninger og konstruksjoner.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Vg3 betongfaget handlar om å forskale, armere og støype nye bygg- og anleggskonstruksjonar og halde eksisterande bygningsmassar ved like. Faget skal setje lærlingane i stand til å byggje bustader, næringsbygg, skular, bruer, tunnelar, kaiar, damanlegg og annan infrastruktur i betong. Faget bidreg til samfunnet gjennom å utdanne yrkesutøvarar som kan føre opp nye betongkonstruksjonar og halde eksisterande konstruksjonar ved like. Faget handlar òg om å sikre kvalitet og levetid ved oppføring av bygningar og konstruksjonar.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Vg3 betongfaget handler om å forskale, armere og støpe nye bygg- og anleggskonstruksjoner og vedlikeholde eksisterende bygningsmasser. Faget skal sette lærlingene i stand til å bygge boliger, næringsbygg, skoler, broer, tunneler, kaier, damanlegg og annen infrastruktur i betong. Faget bidrar til samfunnet gjennom å utdanne yrkesutøvere som kan oppføre nye betongkonstruksjoner og vedlikeholde eksisterende konstruksjoner. Faget handler også om å sikre kvalitet og levetid ved oppføring av bygninger og konstruksjoner.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Alle fag skal bidra til å realisere verdigrunnlaget for opplæringen. Vg3 betongfaget skal bidra til engasjement ved at lærlingene bygger og vedlikeholder bygningsmasser med varige miljø- og energieffektive kvaliteter. Faget fremmer evne til kritisk tenkning og etisk bevissthet ved å utfordre lærlingene til å velge bærekraftige materialer, verktøy og arbeidsmetoder. Effektiv og miljøvennlig ressursutnyttelse vil også bidra til å fremme respekt for naturen og miljøet. Faget skal bidra til å gi lærlingene kunnskap om arbeidsgivers og arbeidstakers plikter og rettigheter og om trepartssamarbeidet, der arbeidsgiveren, arbeidstakeren og myndighetene jobber sammen for å utvikle et bedre arbeidsliv. Faget fremmer forståelse av hvilken verdi kulturelt mangfold har i bygg- og anleggsbransjen, gjennom at lærlingene deltar i dialog og reflekterer om krav og forventninger til et likeverdig og inkluderende yrkesfellesskap.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Alle fag skal bidra til å realisere verdigrunnlaget for opplæringa. Vg3 betongfaget skal bidra til engasjement ved at lærlingane byggjer og held ved like bygningsmassar med varige miljø- og energieffektive kvalitetar. Faget fremjar evne til kritisk tenking og etisk medvit ved å utfordre lærlingane til å velje berekraftige materiale, verktøy og arbeidsmetodar. Effektiv og miljøvennleg ressursutnytting vil òg bidra til å fremje respekt for naturen og miljøet. Faget skal bidra til å gi lærlingane kunnskap om pliktene og rettane til arbeidsgivaren og arbeidstakaren og om trepartssamarbeidet, der arbeidsgivaren, arbeidstakaren og myndigheitene jobbar saman for å utvikle eit betre arbeidsliv. Faget fremjar forståing av kva verdi kulturelt mangfald har i bygg- og anleggsbransjen, gjennom at lærlingane deltek i dialog om og reflekterer over krav og forventningar til eit likeverdig og inkluderande yrkesfellesskap.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Alle fag skal bidra til å realisere verdigrunnlaget for opplæringen. Vg3 betongfaget skal bidra til engasjement ved at lærlingene bygger og vedlikeholder bygningsmasser med varige miljø- og energieffektive kvaliteter. Faget fremmer evne til kritisk tenkning og etisk bevissthet ved å utfordre lærlingene til å velge bærekraftige materialer, verktøy og arbeidsmetoder. Effektiv og miljøvennlig ressursutnyttelse vil også bidra til å fremme respekt for naturen og miljøet. Faget skal bidra til å gi lærlingene kunnskap om arbeidsgivers og arbeidstakers plikter og rettigheter og om trepartssamarbeidet, der arbeidsgiveren, arbeidstakeren og myndighetene jobber sammen for å utvikle et bedre arbeidsliv. Faget fremmer forståelse av hvilken verdi kulturelt mangfold har i bygg- og anleggsbransjen, gjennom at lærlingene deltar i dialog og reflekterer om krav og forventninger til et likeverdig og inkluderende yrkesfellesskap.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        },
+        "kjerneelementer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Kjerneelementer"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Kjerneelement"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Kjerneelementer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "kjerneelementer": [
+                {
+                    "kode": "KE1456",
+                    "uri": "http://psi.udir.no/kl06/KE1456",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1456",
+                    "tittel": "Armering",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "bdfd3e88-98ff-48fa-a96d-f2cd72080b01",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                {
+                    "kode": "KE1457",
+                    "uri": "http://psi.udir.no/kl06/KE1457",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1457",
+                    "tittel": "Forskaling",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "c3b385e2-d5da-488d-b633-179d995618f3",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                {
+                    "kode": "KE1458",
+                    "uri": "http://psi.udir.no/kl06/KE1458",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1458",
+                    "tittel": "Betong og utstøping",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "c9385108-ceb6-42e7-ba20-fe261104ad3f",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                {
+                    "kode": "KE1459",
+                    "uri": "http://psi.udir.no/kl06/KE1459",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1459",
+                    "tittel": "Helse, miljø og sikkerhet",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "57e21a58-37d6-48ac-9c3d-bb3c741a4080",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                }
+            ]
+        },
+        "tverrfaglige-temaer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Tverrfaglige temaer"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Tverrfaglege tema"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Tverrfaglige temaer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "tverrfaglige-temaer": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Bærekraftig utvikling"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Berekraftig utvikling"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Bærekraftig utvikling"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Vg3 betongfaget handler det tverrfaglige temaet bærekraftig utvikling om å velge energieffektive konstruksjoner og løsninger og om materialvalg, avfallshåndtering og gjenbruk. Det handler om å vurdere produkter, materialer og konstruksjoner kritisk i et lokalt og globalt perspektiv og om å bli bevisst på sammenhengene mellom de økonomiske, miljømessige og sosiale dimensjonene ved bærekraftig utvikling.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>I vg3 betongfaget handlar det tverrfaglege temaet berekraftig utvikling om å velje energieffektive konstruksjonar og løysingar og om materialval, avfallshandtering og gjenbruk. Det handlar om å vurdere produkt, materiale og konstruksjonar kritisk i eit lokalt og globalt perspektiv og om å bli medviten om samanhengane mellom dei økonomiske, miljømessige og sosiale dimensjonane ved berekraftig utvikling.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Vg3 betongfaget handler det tverrfaglige temaet bærekraftig utvikling om å velge energieffektive konstruksjoner og løsninger og om materialvalg, avfallshåndtering og gjenbruk. Det handler om å vurdere produkter, materialer og konstruksjoner kritisk i et lokalt og globalt perspektiv og om å bli bevisst på sammenhengene mellom de økonomiske, miljømessige og sosiale dimensjonene ved bærekraftig utvikling.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT3",
+                        "uri": "http://psi.udir.no/kl06/TT3",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
+                        "tittel": "Bærekraftig utvikling",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "e95e45b3-1b14-46b7-81b4-98968a9f67bf",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        },
+        "grunnleggende-ferdigheter-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Grunnleggende ferdigheter"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Grunnleggjande ferdigheiter"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Grunnleggende ferdigheter"
+                    }
+                ],
+                "forskrift": true
+            },
+            "grunnleggende-ferdigheter": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Muntlige ferdigheter"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Munnlege ferdigheiter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Muntlige ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Muntlige ferdigheter i vg3 betongfaget innebærer å lytte til og gi respons i spontan og forberedt samtale. Det innebærer også å bruke fagterminologi i kommunikasjon med andre, å reflektere over og drøfte mulige valg og løsninger og å tilpasse kommunikasjonen til mottaker og formål.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Munnlege ferdigheiter i vg3 betongfaget inneber å lytte til og gi respons i spontan og førebudd samtale. Det inneber òg å bruke fagterminologi i kommunikasjon med andre, å reflektere over og drøfte moglege val og løysingar og å tilpasse kommunikasjonen til mottakar og formål.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Muntlige ferdigheter i vg3 betongfaget innebærer å lytte til og gi respons i spontan og forberedt samtale. Det innebærer også å bruke fagterminologi i kommunikasjon med andre, å reflektere over og drøfte mulige valg og løsninger og å tilpasse kommunikasjonen til mottaker og formål.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF1",
+                        "uri": "http://psi.udir.no/kl06/GF1",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
+                        "tittel": "Muntlige ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4c7259cf-0623-4cd3-8745-e02d7bb3ee4b",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne skrive"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Å kunne skrive"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne skrive"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne skrive i vg3 betongfaget innebærer å bruke fagterminologi til å utforme tekster tilpasset mottaker og formål. Det innebærer også å utforske og reflektere over faglige emner og problemstillinger og å rapportere og dokumentere arbeid.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Å kunne skrive i vg3 betongfaget inneber å bruke fagterminologi til å utforme tekstar tilpassa mottakar og formål. Det inneber òg å utforske og reflektere over faglege emne og problemstillingar og å rapportere og dokumentere arbeid.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne skrive i vg3 betongfaget innebærer å bruke fagterminologi til å utforme tekster tilpasset mottaker og formål. Det innebærer også å utforske og reflektere over faglige emner og problemstillinger og å rapportere og dokumentere arbeid.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF2",
+                        "uri": "http://psi.udir.no/kl06/GF2",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
+                        "tittel": "Å kunne skrive",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "3dd652b3-5531-4daa-917e-5119d42a20ca",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne lese"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Å kunne lese"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne lese"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne lese i vg3 betongfaget innebærer å finne og vurdere informasjon i ulike tekster, arbeidsbeskrivelser, tegninger, bruksanvisninger, standarder og toleransestandarder og regelverk. Det innebærer også å sammenligne og tolke informasjon og å trekke faglige slutninger ut fra kjent og ukjent fagstoff.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Å kunne lese i vg3 betongfaget inneber å finne og vurdere informasjon i ulike tekstar, arbeidsbeskrivingar, teikningar, brukarrettleiingar, standardar og toleransestandardar og regelverk. Det inneber òg å samanlikne og tolke informasjon og trekkje faglege slutningar ut frå kjent og ukjent fagstoff.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne lese i vg3 betongfaget innebærer å finne og vurdere informasjon i ulike tekster, arbeidsbeskrivelser, tegninger, bruksanvisninger, standarder og toleransestandarder og regelverk. Det innebærer også å sammenligne og tolke informasjon og å trekke faglige slutninger ut fra kjent og ukjent fagstoff.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF3",
+                        "uri": "http://psi.udir.no/kl06/GF3",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
+                        "tittel": "Å kunne lese",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4fbb0383-5b71-449c-963b-6bfe36c99d9f",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne regne"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Å kunne rekne"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne regne"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne regne i vg3 betongfaget innebærer å hente ut, beskrive og tolke informasjon fra et tallmateriale. Videre innebærer det å beregne lengde, areal, volum og vekt knyttet til arbeidsoperasjonen. Det innebærer også å beregne radier, vinkler og fall og å foreta økonomiske beregninger i forbindelse med drift og pristilbud.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Å kunne rekne i vg3 betongfaget inneber å hente ut, beskrive og tolke informasjon frå eit talmateriale. Vidare inneber det å berekne lengd, areal, volum og vekt knytt til arbeidsoperasjonen. Det inneber òg å berekne radiusar, vinklar og fall og å gjere økonomiske berekningar i samband med drift og pristilbod.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne regne i vg3 betongfaget innebærer å hente ut, beskrive og tolke informasjon fra et tallmateriale. Videre innebærer det å beregne lengde, areal, volum og vekt knyttet til arbeidsoperasjonen. Det innebærer også å beregne radier, vinkler og fall og å foreta økonomiske beregninger i forbindelse med drift og pristilbud.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF4",
+                        "uri": "http://psi.udir.no/kl06/GF4",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF4",
+                        "tittel": "Å kunne regne",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "dbd3352b-f99e-4725-bc17-02d4d52bd6b4",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Digitale ferdigheter"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Digitale ferdigheiter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Digitale ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Digitale ferdigheter i vg3 betongfaget innebærer å bruke digitale ressurser til å drive prosjekter, rapportere, dokumentere og kommunisere. Videre innebærer det å søke etter og innhente informasjon og å vurdere troverdigheten til informasjonen. Det innebærer også å vurdere og reflektere over egen rolle på nett og utøve god digital dømmekraft.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Digitale ferdigheiter i vg3 betongfaget inneber å bruke digitale ressursar til å drive prosjekt, rapportere, dokumentere og kommunisere. Videre inneber det å søkje etter og innhente informasjon og å vurdere kor truverdig informasjonen er. Det inneber òg å vurdere og reflektere over si eiga rolle på nett og utøve god digital dømmekraft.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Digitale ferdigheter i vg3 betongfaget innebærer å bruke digitale ressurser til å drive prosjekter, rapportere, dokumentere og kommunisere. Videre innebærer det å søke etter og innhente informasjon og å vurdere troverdigheten til informasjonen. Det innebærer også å vurdere og reflektere over egen rolle på nett og utøve god digital dømmekraft.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF5",
+                        "uri": "http://psi.udir.no/kl06/GF5",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF5",
+                        "tittel": "Digitale ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "c4dec77c-afed-49c8-ab49-ee36f40d218c",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        }
+    },
+    "kompetansemaal-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Kompetansemål og vurdering"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Kompetansemål og vurdering"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Kompetansemål og vurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "kompetansemaalsett": [
+            {
+                "kode": "KV794",
+                "uri": "http://psi.udir.no/kl06/KV794",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV794",
+                "tittel": "Kompetansemål og vurdering helse, miljø og sikkerhet og arbeidsliv",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "1fd20f22-df45-4a4c-8b16-3fcd0d4386ab",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            {
+                "kode": "KV795",
+                "uri": "http://psi.udir.no/kl06/KV795",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV795",
+                "tittel": "Kompetansemål og vurdering forskaling",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "93ffd6a9-529f-421e-bc98-75782d68215d",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            {
+                "kode": "KV796",
+                "uri": "http://psi.udir.no/kl06/KV796",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV796",
+                "tittel": "Kompetansemål og vurdering armering",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "13342091-9a9f-43d6-93bc-7bdb5550605f",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            {
+                "kode": "KV797",
+                "uri": "http://psi.udir.no/kl06/KV797",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV797",
+                "tittel": "Kompetansemål og vurdering betongteknologi og utstøping",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "1f59bcb5-2961-4cc7-a2e7-88ac943abca1",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            }
+        ]
+    },
+    "vurderingsordning-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [],
+            "forskrift": true
+        },
+        "forklaring": []
+    },
+    "vurderingsordninger-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "vurderingsordninger": [
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Sluttvurdering"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "Sluttvurdering"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Sluttvurdering"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Før fagprøven må alle ha bestått en skriftlig eksamen som er laget ut fra læreplanen i vg3 betongfaget. Eksamen blir utarbeidet sentralt og sensurert lokalt. Eksamen skal ikke ha forberedelsedel.</p><p>Opplæringen i vg3 betongfaget skal avsluttes med en fagprøve. Fagprøven lages ut fra læreplanen i vg3 betongfaget. Alle skal opp til fagprøven som skal gjennomføres over fem virkedager.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Før fagprøva må alle ha bestått ein skriftleg eksamen som er laga ut frå læreplanen i vg3 betongfaget. Eksamen blir utarbeidd sentralt og sensurert lokalt. Eksamen skal ikkje ha førebuingsdel.</p><p>Opplæringa i vg3 betongfaget skal avsluttast med ein fagprøve. Fagprøven lagast ut frå læreplanen i vg3 betongfaget. Alle skal opp til fagprøva som skal gjennomførast over minst fem vyrkedagar.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Før fagprøven må alle ha bestått en skriftlig eksamen som er laget ut fra læreplanen i vg3 betongfaget. Eksamen blir utarbeidet sentralt og sensurert lokalt. Eksamen skal ikke ha forberedelsedel.</p><p>Opplæringen i vg3 betongfaget skal avsluttes med en fagprøve. Fagprøven lages ut fra læreplanen i vg3 betongfaget. Alle skal opp til fagprøven som skal gjennomføres over fem virkedager.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        ]
+    },
+    "tilleggsopplysninger": [],
+    "opprinnelige-planer": [
+        {
+            "kode": "BET03-02",
+            "uri": "http://psi.udir.no/kl06/BET03-02",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/BET03-02",
+            "tittel": "Læreplan i vg3 betongfaget",
+            "id": "d616f9bf-9f45-4f8f-bd28-11758f1fda94",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ]
+}

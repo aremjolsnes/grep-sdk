@@ -1,0 +1,23 @@
+{
+    "id": "http://psi.udir.no/ontologi/status/publisert",
+    "kode": "status_publisert",
+    "uri": "http://psi.udir.no/kl06/status_publisert",
+    "url-data": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Publisert"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Publisert"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/status",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2015-09-17T11:06:57.582544",
+    "kortform": [],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 3
+}

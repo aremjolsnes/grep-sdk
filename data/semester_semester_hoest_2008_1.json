@@ -1,0 +1,32 @@
+{
+    "id": "http://psi.udir.no/ontologi/semester/host_2008",
+    "kode": "semester_hoest_2008",
+    "uri": "http://psi.udir.no/kl06/semester_hoest_2008",
+    "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2008",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Høst 2008"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Høst 2008"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/semester",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2005-08-01T00:00:00",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "H08"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "H08"
+        }
+    ],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 5
+}

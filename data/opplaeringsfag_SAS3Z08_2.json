@@ -1,0 +1,213 @@
+{
+    "id": "uuid:159e9963-76f9-43b0-be40-0a361c12fe35",
+    "kode": "SAS3Z08",
+    "uri": "http://psi.udir.no/kl06/SAS3Z08",
+    "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/SAS3Z08",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Samisk som andrespråk, samisk 3, nivå 2, 5. trinn"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Samisk som andrespråk, samisk 3, nivå 2, 5. trinn"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Samisk som andrespråk, samisk 3, nivå 2, 5. trinn"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2020-06-10T11:01:22.1186656",
+    "merkelapper": [
+        {
+            "kode": "kunnskapsloftet_samisk",
+            "uri": "http://psi.udir.no/kl06/kunnskapsloftet_samisk",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/kunnskapsloftet_samisk",
+            "tittel": "Kunnskapsløftet samisk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/merkelapp/kunnskapsloftet_samisk",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "programomraader-referanse": [],
+    "laereplan-referanse": [
+        {
+            "tilhoerende-kompetansemaalsett": [
+                {
+                    "kode": "KV221",
+                    "uri": "http://psi.udir.no/kl06/KV221",
+                    "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV221",
+                    "tittel": "Gealbomihttomearit ja árvvoštallan 2. dássi ",
+                    "gyldighet": {
+                        "gyldig-fra": "2020-08-01T00:00:00",
+                        "gyldig-til": null
+                    },
+                    "id": "c04a1e1f-cd6a-4eaf-8191-49110ded38ac",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                }
+            ],
+            "kode": "SAS03-01",
+            "uri": "http://psi.udir.no/kl06/SAS03-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/SAS03-01",
+            "tittel": "Oahppoplána – sámegiella nubbingiellan, sámegiella 3",
+            "gyldighet": {
+                "gyldig-fra": "2020-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "72d143b1-6bed-4a8b-a852-b569bbf620cf",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "fagkode-referanser": [
+        {
+            "kode": "SAS0044",
+            "uri": "http://psi.udir.no/kl06/SAS0044",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAS0044",
+            "tittel": "Samisk som andrespråk, samisk 3, nordsamisk, 5. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2020-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:2482bae6-abeb-4403-bc5b-3f7b7a2d5ac7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAS0057",
+            "uri": "http://psi.udir.no/kl06/SAS0057",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAS0057",
+            "tittel": "Samisk som andrespråk, samisk 3, sørsamisk, 5. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2020-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:fd98e640-4ccc-4dce-bd9d-e21731b5a4a5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAS0070",
+            "uri": "http://psi.udir.no/kl06/SAS0070",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAS0070",
+            "tittel": "Samisk som andrespråk, samisk 3, lulesamisk, 5. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2020-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:0f82105a-9026-4a2c-b82f-1012b5000057",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "fagomraade-referanser": [
+        {
+            "kode": "FOMR408",
+            "uri": "http://psi.udir.no/kl06/FOMR408",
+            "url-data": "https://data.udir.no/kl06/v201906/fagomraader/FOMR408",
+            "tittel": "Samisk som andrespråk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:cd8c0355-dea7-4d3a-8174-072f2cffbdbc",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "fortsetter-opplaering-i-samme-kompetansemaalsett-som": [],
+    "fagtype": {
+        "kode": "fagtype_grunnskolefag",
+        "uri": "http://psi.udir.no/kl06/fagtype_grunnskolefag",
+        "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_grunnskolefag",
+        "tittel": "Grunnskolefag",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/grunnskolefag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "opplaeringsnivaa": {
+        "kode": "opplaeringsnivaa_grunnskole",
+        "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
+        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_grunnskole",
+        "tittel": "Grunnskole",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_grunnskole",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "tilleggsopplysninger": [],
+    "bygger-paa-fag": [
+        {
+            "kode": "SAS3Z02",
+            "uri": "http://psi.udir.no/kl06/SAS3Z02",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/SAS3Z02",
+            "tittel": "Samisk som andrespråk, samisk 3, nivå 1, 4. trinn",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:9ee00835-a776-4d82-9051-f9b48d4a9604",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "for-aarstrinn": [
+        {
+            "kode": "aarstrinn5",
+            "uri": "http://psi.udir.no/kl06/aarstrinn5",
+            "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/aarstrinn5",
+            "tittel": "Femte årstrinn",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/aarstrinn5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Samisk 3, nivå 2, 5. trinn"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Samisk 3, nivå 2, 5. trinn"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Samisk 3, nivå 2, 5. trinn"
+        }
+    ],
+    "erstatter": [
+        {
+            "kode": "SAS1Z47",
+            "uri": "http://psi.udir.no/kl06/SAS1Z47",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/SAS1Z47",
+            "tittel": "Samisk som andrespråk, samisk 3, nivå 2b, 1. år",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5286d4d7-67ad-4594-a120-1b9b4465c99a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "erstattes-av": []
+}

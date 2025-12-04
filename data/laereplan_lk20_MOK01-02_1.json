@@ -1,0 +1,966 @@
+{
+    "id": "1a2eca0d-2288-47c1-84c0-59d680bcacb5",
+    "kode": "MOK01-02",
+    "uri": "http://psi.udir.no/kl06/MOK01-02",
+    "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MOK01-02",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Læreplan i mediesamfunnet"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Læreplan i mediesamfunnet"
+            }
+        ],
+        "forskrift": true
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Mediesamfunnet"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Mediesamfunnet"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2024-12-19T23:41:02.6885147",
+    "laereplanstruktur": {
+        "kode": "laereplanstruktur_1",
+        "uri": "http://psi.udir.no/kl06/laereplanstruktur_1",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplanstruktur/laereplanstruktur_1",
+        "tittel": "Vanlig",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "uuid:3e031575-0a7f-44bb-8e3f-8da55879f90d",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "fastsettelsesinformasjon": {
+        "fastsatt-dato": "2020-04-01T00:00:00",
+        "fastsettelsestekst": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 2. april 2020 etter delegasjon i brev av 13. september 2013 fra Kunnskapsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 2. april 2020 etter delegasjon i brev av 13. september 2013 fra Kunnskapsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+            }
+        ],
+        "fastsatt-spraak": {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        "fastsatt-dato-overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Established"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Fastsett"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Vihtiestamme"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Mearriduvvon"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Mierreduvvam"
+            }
+        ]
+    },
+    "fagtype": [
+        {
+            "kode": "fagtype_felles_programfag",
+            "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
+            "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
+            "tittel": "Felles programfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/felles_programfag",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilgjengelige-spraak": [
+        {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_videregaaende",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+            "tittel": "Videregående opplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "ordforklaringer": [
+        {
+            "kode": "OF14",
+            "uri": "http://psi.udir.no/kl06/OF14",
+            "url-data": "https://data.udir.no/kl06/v201906/ordforklaringer-lk20/OF14",
+            "tittel": "Medietekster",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "79f57e91-845f-428e-8e1b-845cca8d231a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/ordforklaring_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid from"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raejeste"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rájes"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rájes"
+                }
+            ],
+            "dato": "2020-08-01T00:00:00"
+        },
+        "gyldig-til": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid to"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raaajan"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rádjái"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rádjáj"
+                }
+            ],
+            "dato": "2024-12-31T00:00:00"
+        }
+    },
+    "erstatter": [
+        {
+            "kode": "MOK1-01",
+            "uri": "http://psi.udir.no/kl06/MOK1-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/MOK1-01",
+            "tittel": "Læreplan i mediesamfunnet - felles programfag i utdanningsprogram for medier og kommunikasjon",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:6726809b-2389-498c-909c-43929aa30704",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "erstattes-av": [
+        {
+            "kode": "MOK01-03",
+            "uri": "http://psi.udir.no/kl06/MOK01-03",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MOK01-03",
+            "tittel": "Læreplan i mediesamfunnet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "8d650270-a4fa-4fa6-80ba-82e03ede9c16",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "siste-eksamen": "2024-12-31T00:00:00",
+    "merkelapper": [],
+    "om-faget-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Om fagene"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Om fagene"
+                }
+            ],
+            "forskrift": true
+        },
+        "fagets-relevans-og-verdier": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Fagenes relevans og sentrale verdier"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Fagenes relevans og sentrale verdier"
+                    }
+                ],
+                "forskrift": true
+            },
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Faget mediesamfunnet handler om kommunikasjon, kritisk tenkning og innholdsproduksjon innenfor ulike mediesjangre. Faget skal gi elevene praktisk erfaring med hvordan mediebudskap produseres og brukes, og forståelse av hvordan mediene kan påvirke individ og samfunnsutvikling. Mediesamfunnet ruster elevene til å bli deltakere på sentrale arenaer for meningsutveksling og demokratiske ytringer. Faget forbereder elevene på et arbeidsliv der bred kompetanse innenfor skriftlig, muntlig, visuell og auditiv kommunikasjon har stor betydning.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Faget mediesamfunnet handler om kommunikasjon, kritisk tenkning og innholdsproduksjon innenfor ulike mediesjangre. Faget skal gi elevene praktisk erfaring med hvordan mediebudskap produseres og brukes, og forståelse av hvordan mediene kan påvirke individ og samfunnsutvikling. Mediesamfunnet ruster elevene til å bli deltakere på sentrale arenaer for meningsutveksling og demokratiske ytringer. Faget forbereder elevene på et arbeidsliv der bred kompetanse innenfor skriftlig, muntlig, visuell og auditiv kommunikasjon har stor betydning.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Alle fag skal bidra til å realisere verdigrunnlaget for opplæringen. Mediesamfunnet skal bidra til å gi elevene en etisk bevissthet og være med på å gjøre dem til reflekterte og ansvarlige mennesker. Det innebærer å forstå og verdsette grunnleggende demokratiske verdier. I mediesamfunnet skal elevene utvikle evnen til å tenke kritisk om hvordan kilder brukes, både i egne arbeider og i mediene. Gjennom arbeid med aktuelle medietekster skal elevene bli bevisste på en stadig skiftende mediehverdag og få kjennskap til hvordan mediene spiller en viktig rolle i offentligheten.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Alle fag skal bidra til å realisere verdigrunnlaget for opplæringen. Mediesamfunnet skal bidra til å gi elevene en etisk bevissthet og være med på å gjøre dem til reflekterte og ansvarlige mennesker. Det innebærer å forstå og verdsette grunnleggende demokratiske verdier. I mediesamfunnet skal elevene utvikle evnen til å tenke kritisk om hvordan kilder brukes, både i egne arbeider og i mediene. Gjennom arbeid med aktuelle medietekster skal elevene bli bevisste på en stadig skiftende mediehverdag og få kjennskap til hvordan mediene spiller en viktig rolle i offentligheten.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        },
+        "kjerneelementer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Kjerneelementer"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Kjerneelementer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "kjerneelementer": [
+                {
+                    "kode": "KE276",
+                    "uri": "http://psi.udir.no/kl06/KE276",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE276",
+                    "tittel": "Mediedeltakelse og medborgerskap",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "86c40f51-a473-4f29-a1ad-c8b0bc761adc",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                },
+                {
+                    "kode": "KE277",
+                    "uri": "http://psi.udir.no/kl06/KE277",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE277",
+                    "tittel": "Mediebevissthet",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "a6bd147b-964c-42b6-821e-cdcd2dcdafd3",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                },
+                {
+                    "kode": "KE278",
+                    "uri": "http://psi.udir.no/kl06/KE278",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE278",
+                    "tittel": "Argumentasjon",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "58cb8725-6c01-43f8-b5bf-19ad94f6876c",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                },
+                {
+                    "kode": "KE279",
+                    "uri": "http://psi.udir.no/kl06/KE279",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE279",
+                    "tittel": "Tekst- og kildeferdighet",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "3c9e59c9-1406-473c-bbab-5409b19371cf",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                },
+                {
+                    "kode": "KE280",
+                    "uri": "http://psi.udir.no/kl06/KE280",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE280",
+                    "tittel": "Innholdsproduksjon",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "2b912ecb-780b-42df-85d7-72fba3a79d20",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                }
+            ]
+        },
+        "tverrfaglige-temaer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Tverrfaglige temaer"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Tverrfaglige temaer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "tverrfaglige-temaer": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Folkehelse og livsmestring"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Folkehelse og livsmestring"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I mediesamfunnet handler det tverrfaglige temaet folkehelse og livsmestring om å vise etisk bevissthet rundt egen og andres mediebruk og om å kommunisere ansvarlig i sosiale medier. Videre handler det om hvordan ytringer, framstillinger og representasjon i medier og kommunikasjon påvirker mellommenneskelige relasjoner, holdninger og oppfatninger i samfunnet.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I mediesamfunnet handler det tverrfaglige temaet folkehelse og livsmestring om å vise etisk bevissthet rundt egen og andres mediebruk og om å kommunisere ansvarlig i sosiale medier. Videre handler det om hvordan ytringer, framstillinger og representasjon i medier og kommunikasjon påvirker mellommenneskelige relasjoner, holdninger og oppfatninger i samfunnet.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT1",
+                        "uri": "http://psi.udir.no/kl06/TT1",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
+                        "tittel": "Folkehelse og livsmestring",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4fbd99bd-0e3f-48b7-9de2-86086c50d5fc",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Demokrati og medborgerskap"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Demokrati og medborgerskap"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I mediesamfunnet handler det tverrfaglige temaet demokrati og medborgerskap om kunnskap som kan gi elevene grunnlag for å bli velinformerte og aktive medborgere i en lokal, nasjonal og global medievirkelighet. Videre handler det om etisk bevissthet, samfunnsansvar og sentrale demokratiske verdier som ytringsfrihet og pressefrihet.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I mediesamfunnet handler det tverrfaglige temaet demokrati og medborgerskap om kunnskap som kan gi elevene grunnlag for å bli velinformerte og aktive medborgere i en lokal, nasjonal og global medievirkelighet. Videre handler det om etisk bevissthet, samfunnsansvar og sentrale demokratiske verdier som ytringsfrihet og pressefrihet.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT2",
+                        "uri": "http://psi.udir.no/kl06/TT2",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
+                        "tittel": "Demokrati og medborgerskap",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "18db0afa-5d3d-4719-9e48-4bcc10489238",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Bærekraftig utvikling"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Bærekraftig utvikling"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I mediesamfunnet handler det tverrfaglige temaet bærekraftig utvikling om sammenhenger mellom sosiale, økonomiske og miljømessige forhold i utvikling og bruk av moderne medieteknologi. Videre handler det om hvordan digitale skiller er med på å hemme eller fremme deltakelse på sentrale arenaer. </p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I mediesamfunnet handler det tverrfaglige temaet bærekraftig utvikling om sammenhenger mellom sosiale, økonomiske og miljømessige forhold i utvikling og bruk av moderne medieteknologi. Videre handler det om hvordan digitale skiller er med på å hemme eller fremme deltakelse på sentrale arenaer. </p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT3",
+                        "uri": "http://psi.udir.no/kl06/TT3",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
+                        "tittel": "Bærekraftig utvikling",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "e95e45b3-1b14-46b7-81b4-98968a9f67bf",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        },
+        "grunnleggende-ferdigheter-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Grunnleggende ferdigheter"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Grunnleggende ferdigheter"
+                    }
+                ],
+                "forskrift": true
+            },
+            "grunnleggende-ferdigheter": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Muntlige ferdigheter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Muntlige ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Muntlige ferdigheter i mediesamfunnet innebærer å redegjøre for mediefaglige temaer og problemstillinger i presentasjoner og muntlige sjangre. Det innebærer også å kunne delta i diskusjoner og samtaler, kommunisere ideer og argumentere for egne meninger ved hjelp av fagterminologi.  </p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Muntlige ferdigheter i mediesamfunnet innebærer å redegjøre for mediefaglige temaer og problemstillinger i presentasjoner og muntlige sjangre. Det innebærer også å kunne delta i diskusjoner og samtaler, kommunisere ideer og argumentere for egne meninger ved hjelp av fagterminologi.  </p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF1",
+                        "uri": "http://psi.udir.no/kl06/GF1",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
+                        "tittel": "Muntlige ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4c7259cf-0623-4cd3-8745-e02d7bb3ee4b",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne skrive"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne skrive"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne skrive i mediesamfunnet innebærer å redegjøre skriftlig for mediefaglige temaer og problemstillinger og forklare prosessen bak en medieproduksjon ved å bruke relevant fagterminologi. Videre innebærer det å kunne uttrykke seg skriftlig i ulike informerende, argumenterende, underholdene og journalistiske sjangre.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne skrive i mediesamfunnet innebærer å redegjøre skriftlig for mediefaglige temaer og problemstillinger og forklare prosessen bak en medieproduksjon ved å bruke relevant fagterminologi. Videre innebærer det å kunne uttrykke seg skriftlig i ulike informerende, argumenterende, underholdene og journalistiske sjangre.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF2",
+                        "uri": "http://psi.udir.no/kl06/GF2",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
+                        "tittel": "Å kunne skrive",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "3dd652b3-5531-4daa-917e-5119d42a20ca",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne lese"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne lese"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne lese i mediesamfunnet innebærer å sette seg inn i nyhetsbilder av ulik kompleksitet og forstå meningsutveksling i den offentlige debatten. Det innebærer også å kunne kritisk vurdere sammensatte tekster, og å drøfte deres funksjon og betydning i relasjon til andre tekster og samfunnet. </p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne lese i mediesamfunnet innebærer å sette seg inn i nyhetsbilder av ulik kompleksitet og forstå meningsutveksling i den offentlige debatten. Det innebærer også å kunne kritisk vurdere sammensatte tekster, og å drøfte deres funksjon og betydning i relasjon til andre tekster og samfunnet. </p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF3",
+                        "uri": "http://psi.udir.no/kl06/GF3",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
+                        "tittel": "Å kunne lese",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4fbb0383-5b71-449c-963b-6bfe36c99d9f",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne regne"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne regne"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne regne i mediesamfunnet innebærer å kunne tolke, vurdere og bearbeide tallmateriale og vurdere visuelle framstillinger av statistikk.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne regne i mediesamfunnet innebærer å kunne tolke, vurdere og bearbeide tallmateriale og vurdere visuelle framstillinger av statistikk.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF4",
+                        "uri": "http://psi.udir.no/kl06/GF4",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF4",
+                        "tittel": "Å kunne regne",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "dbd3352b-f99e-4725-bc17-02d4d52bd6b4",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Digitale ferdigheter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Digitale ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Digitale ferdigheter i mediesamfunnet innebærer å utvikle digital dømmekraft gjennom gode strategier for nettsøk og annen nettbruk. Det innebærer også å utforske, produsere og publisere medieprodukter ved hjelp av digitale verktøy. </p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Digitale ferdigheter i mediesamfunnet innebærer å utvikle digital dømmekraft gjennom gode strategier for nettsøk og annen nettbruk. Det innebærer også å utforske, produsere og publisere medieprodukter ved hjelp av digitale verktøy. </p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF5",
+                        "uri": "http://psi.udir.no/kl06/GF5",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF5",
+                        "tittel": "Digitale ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "c4dec77c-afed-49c8-ab49-ee36f40d218c",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        }
+    },
+    "kompetansemaal-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Kompetansemål og vurdering"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Kompetansemål og vurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "kompetansemaalsett": [
+            {
+                "kode": "KV266",
+                "uri": "http://psi.udir.no/kl06/KV266",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV266",
+                "tittel": "Kompetansemål og vurdering mediesamfunnet 1",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "ff7ac8e8-af6b-45c2-973e-178ae50af80d",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+            },
+            {
+                "kode": "KV267",
+                "uri": "http://psi.udir.no/kl06/KV267",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV267",
+                "tittel": "Kompetansemål og vurdering mediesamfunnet 2",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "178c8acd-2b02-4db7-97d2-a1b753179ee6",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+            },
+            {
+                "kode": "KV268",
+                "uri": "http://psi.udir.no/kl06/KV268",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV268",
+                "tittel": "Kompetansemål og vurdering mediesamfunnet 3",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "18bd62fb-e4e1-441a-adc5-acd50f2a6bb1",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+            }
+        ]
+    },
+    "vurderingsordning-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p><strong>Standpunktvurdering</strong></p><p>Mediesamfunnet 1: Eleven skal ha én standpunktkarakter.<br>Mediesamfunnet 2: Eleven skal ha én standpunktkarakter.<br>Mediesamfunnet 3: Eleven skal ha én standpunktkarakter.</p><p><strong>Eksamen for elever</strong></p><p>Mediesamfunnet 1: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.<br>Mediesamfunnet 2: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.<br>Mediesamfunnet 3: Eleven kan trekkes ut til skriftlig eksamen eller praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ikke ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Praktisk eksamen skal ha forberedelsesdel.</p><p><strong>Eksamen for privatister</strong></p><p>Mediesamfunnet 1: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.<br>Mediesamfunnet 2: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.<br>Mediesamfunnet 3: Privatisten skal opp til skriftlig eksamen og praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ikke ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "<p><strong>Standpunktvurdering</strong></p><p>Mediesamfunnet 1: Eleven skal ha én standpunktkarakter.<br>Mediesamfunnet 2: Eleven skal ha én standpunktkarakter.<br>Mediesamfunnet 3: Eleven skal ha én standpunktkarakter.</p><p><strong>Eksamen for elever</strong></p><p>Mediesamfunnet 1: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.<br>Mediesamfunnet 2: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.<br>Mediesamfunnet 3: Eleven kan trekkes ut til skriftlig eksamen eller praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ikke ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Praktisk eksamen skal ha forberedelsesdel.</p><p><strong>Eksamen for privatister</strong></p><p>Mediesamfunnet 1: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.<br>Mediesamfunnet 2: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.<br>Mediesamfunnet 3: Privatisten skal opp til skriftlig eksamen og praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ikke ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p>"
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": []
+    },
+    "vurderingsordninger-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "vurderingsordninger": [
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Standpunktvurdering"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Standpunktvurdering"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Mediesamfunnet 1: Eleven skal ha én standpunktkarakter.</p><p>Mediesamfunnet 2: Eleven skal ha én standpunktkarakter.</p><p>Mediesamfunnet 3: Eleven skal ha én standpunktkarakter.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Mediesamfunnet 1: Eleven skal ha én standpunktkarakter.</p><p>Mediesamfunnet 2: Eleven skal ha én standpunktkarakter.</p><p>Mediesamfunnet 3: Eleven skal ha én standpunktkarakter.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Eksamen for elever"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Eksamen for elever"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Mediesamfunnet 1: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.</p><p>Mediesamfunnet 2: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.</p><p>Mediesamfunnet 3: Eleven kan trekkes ut til skriftlig eksamen eller praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Praktisk eksamen skal ha forberedelsesdel.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Mediesamfunnet 1: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.</p><p>Mediesamfunnet 2: Eleven kan trekkes ut til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsesdel.</p><p>Mediesamfunnet 3: Eleven kan trekkes ut til skriftlig eksamen eller praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Praktisk eksamen skal ha forberedelsesdel.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Eksamen for privatister"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Eksamen for privatister"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Mediesamfunnet 1: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p><p>Mediesamfunnet 2: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p><p>Mediesamfunnet 3: Privatisten skal opp til skriftlig eksamen og praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Mediesamfunnet 1: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p><p>Mediesamfunnet 2: Privatisten skal opp til praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p><p>Mediesamfunnet 3: Privatisten skal opp til skriftlig eksamen og praktisk eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Skriftlig eksamen skal ha forberedelsesdel. Praktisk eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel ved lokalt gitt eksamen.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        ]
+    },
+    "tilleggsopplysninger": [],
+    "opprinnelige-planer": []
+}

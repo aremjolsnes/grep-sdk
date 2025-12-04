@@ -1,0 +1,372 @@
+{
+    "id": "uuid:436694a9-2b02-4a3e-b443-10bacffa85de",
+    "kode": "SPR3024",
+    "uri": "http://psi.udir.no/kl06/SPR3024",
+    "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SPR3024",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Gresk 2"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Greek 2"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Gresk 2"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Gresk 2"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Greikkagiella 2"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2025-06-30T14:17:13.286763",
+    "merkelapper": [],
+    "vurderingsordning": [
+        {
+            "trekkordning": {
+                "kode": "trekkordning_3",
+                "uri": "http://psi.udir.no/kl06/trekkordning_3",
+                "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_3",
+                "tittel": "Obligatorisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/trekkordning_3",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "type-eksamensordning": {
+                "kode": "eksamensordning_19",
+                "uri": "http://psi.udir.no/kl06/eksamensordning_19",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_19",
+                "tittel": "Skriftlig og muntlig",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/eksamensordning_19",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "vurderingsuttrykk": {
+                "kode": "vurderingsuttrykk_tall",
+                "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_tall",
+                "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_tall",
+                "tittel": "Tall",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/vurderingsform/tall",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "eksamensform-paa-vitnemaalet": {
+                "kode": "eksamensform_2",
+                "uri": "http://psi.udir.no/kl06/eksamensform_2",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_2",
+                "tittel": "Skriftlig",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/eksamensform/vitnemaal/skriftlig",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "elevtype": "http://psi.udir.no/ontologi/eksamen_vurdering_privatist",
+            "standpunktvurdering": false,
+            "modulvurdering": false,
+            "halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO": false,
+            "hoeyeste-nivaa": false
+        },
+        {
+            "trekkordning": {
+                "kode": "trekkordning_2",
+                "uri": "http://psi.udir.no/kl06/trekkordning_2",
+                "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_2",
+                "tittel": "Trekkfag",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/trekkordning_2",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "type-eksamensordning": {
+                "kode": "eksamensordning_6",
+                "uri": "http://psi.udir.no/kl06/eksamensordning_6",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_6",
+                "tittel": "Skriftlig eller muntlig",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/eksamensordning_6",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "vurderingsuttrykk": {
+                "kode": "vurderingsuttrykk_tall",
+                "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_tall",
+                "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_tall",
+                "tittel": "Tall",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/vurderingsform/tall",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "eksamensform-paa-vitnemaalet": {
+                "kode": "eksamensform_2",
+                "uri": "http://psi.udir.no/kl06/eksamensform_2",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_2",
+                "tittel": "Skriftlig",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/eksamensform/vitnemaal/skriftlig",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "elevtype": "http://psi.udir.no/ontologi/eksamen_vurdering_elev",
+            "standpunktvurdering": true,
+            "modulvurdering": false,
+            "halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO": false,
+            "hoeyeste-nivaa": false
+        }
+    ],
+    "opplaeringsfag": [
+        {
+            "kode": "ASK3Z02",
+            "uri": "http://psi.udir.no/kl06/ASK3Z02",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/ASK3Z02",
+            "tittel": "Gresk 2",
+            "gyldighet": {
+                "gyldig-fra": "2022-08-01T00:00:00",
+                "gyldig-til": "2026-12-31T00:00:00"
+            },
+            "id": "uuid:152ea232-a42c-49e4-89b0-a72a1373918c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilleggseksamen-ikke-normalt-loep": [],
+    "benyttes-sammen-med": [],
+    "spraaknivaa": null,
+    "erstatter": [
+        {
+            "kode": "SPR3003",
+            "uri": "http://psi.udir.no/kl06/SPR3003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SPR3003",
+            "tittel": "Gresk 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:00524594-e946-4e26-9677-a8053317f501",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "erstattes-av": [],
+    "omfang-totalt": "140",
+    "omfang-vitnemaal": "140",
+    "omfang-til-naa": null,
+    "naar-kan-man-ta-eksamen": {
+        "foerste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vår 2023"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vår 2023"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_vaar_2023",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2023",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        },
+        "siste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Høst 2026"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Høst 2026"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_hoest_2026",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2026",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        }
+    },
+    "naar-gis-det-undervisning": {
+        "foerste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Høst 2022"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Høst 2022"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_hoest_2022",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2022",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        },
+        "siste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vår 2025"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vår 2025"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_vaar_2025",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2025",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        }
+    },
+    "sensur": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Sentral"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Sentral"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/sensur_sentral",
+        "url-data": "https://data.udir.no/kl06/v201906/sensur/sensur_sentral",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/sensur"
+    },
+    "oppgave": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Sentral"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Sentral"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/oppgave_sentral",
+        "url-data": "https://data.udir.no/kl06/v201906/oppgave/oppgave_sentral",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/oppgave"
+    },
+    "tilleggsopplysninger": [
+        {
+            "spraak": "default",
+            "verdi": "Faget bygger på gresk 1."
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Faget bygger på gresk 1."
+        }
+    ],
+    "bygger-paa-fag": [
+        {
+            "kode": "SPR3002",
+            "uri": "http://psi.udir.no/kl06/SPR3002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SPR3002",
+            "tittel": "Gresk 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:960070e3-e828-4635-8cb3-f022e786148b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SPR3023",
+            "uri": "http://psi.udir.no/kl06/SPR3023",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SPR3023",
+            "tittel": "Gresk 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e19cd345-0f51-47c8-a0a9-ce8f8c53d0ac",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "gyldig-fra": "2022-08-01T00:00:00",
+    "gyldig-til": "2026-12-31T00:00:00",
+    "iso-639-2-kode": null,
+    "fagtype": {
+        "kode": "fagtype_valgfritt_programfag",
+        "uri": "http://psi.udir.no/kl06/fagtype_valgfritt_programfag",
+        "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_valgfritt_programfag",
+        "tittel": "Valgfritt programfag",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/valgfritt_programfag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "opplaeringsnivaa": {
+        "kode": "opplaeringsnivaa_videregaaende",
+        "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+        "tittel": "Videregående opplæring",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Gresk 2"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Greek 2"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Gresk 2"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Gresk 2"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Greikkagiella 2"
+        }
+    ]
+}

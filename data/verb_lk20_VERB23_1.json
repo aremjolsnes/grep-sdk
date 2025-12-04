@@ -1,0 +1,68 @@
+{
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "<p>Å lytte vil si å sanse, oppfatte og gi mening til noe som blir uttrykt auditivt, visuelt eller taktil i muntlig samhandling med andre, enten i direkte kommunikasjon eller gjennom digitale medier.</p>"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "<p>Listening means to sense, notice and apply meaning to expressions made auditorily, visually, tactilely or in oral communication with others, either in direct communcation or through digital media.</p>"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "<p>Å lytte vil seie å sanse, oppfatte og gi meining til noko som blir uttrykt auditivt, visuelt eller taktilt i munnleg samhandling med andre, anten i direkte kommunikasjon eller gjennom digitale medium.</p>"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "<p>Å lytte vil si å sanse, oppfatte og gi mening til noe som blir uttrykt auditivt, visuelt eller taktil i muntlig samhandling med andre, enten i direkte kommunikasjon eller gjennom digitale medier.</p>"
+        },
+        {
+            "spraak": "smj",
+            "verdi": "<p>Gulldalit merkaj ájttsat, dádjadit ja tjadnat juojddá juosik mij åvddånbuvteduvvá auditijva, visuála jali taktijla njálmálasj guládallamin, juogu de njuolgga guládallamin jali digitála medijáj baktu.</p>"
+        }
+    ],
+    "globalt-verb": false,
+    "id": "154e6268-de5b-4893-9ee4-eb8e71e55978",
+    "kode": "VERB23",
+    "uri": "http://psi.udir.no/kl06/VERB23",
+    "url-data": "https://data.udir.no/kl06/v201906/verb-lk20/VERB23",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Lytte"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Listening"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Lytte"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Lytte"
+        },
+        {
+            "spraak": "smj",
+            "verdi": "Gulldalit"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2022-11-02T13:21:45.1659147",
+    "tilhoerer-laereplan": {
+        "kode": "ENG01-04",
+        "uri": "http://psi.udir.no/kl06/ENG01-04",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ENG01-04",
+        "tittel": "Læreplan i engelsk",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "281f75ed-d950-4641-99ab-ef0348e82ac8",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+    },
+    "rekkefoelge": 1
+}

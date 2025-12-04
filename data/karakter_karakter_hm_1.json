@@ -1,0 +1,40 @@
+{
+    "id": "uuid:3d45f0a4-e168-4cac-bf27-116435b8cd32",
+    "kode": "karakter_hm",
+    "uri": "http://psi.udir.no/kl06/karakter_hm",
+    "url-data": "https://data.udir.no/kl06/v201906/karakterer/karakter_hm",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Høy måloppnåelse"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Høg måloppnåing"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Høy måloppnåelse"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/karakter",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2024-07-02T10:06:49.9356391",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "HM"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "HM"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "HM"
+        }
+    ],
+    "gyldig-fra": "2024-08-01T00:00:00",
+    "gyldig-til": null,
+    "rekkefoelge": 19
+}

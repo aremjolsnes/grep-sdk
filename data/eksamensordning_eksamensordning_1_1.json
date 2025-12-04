@@ -1,0 +1,27 @@
+{
+    "id": "http://psi.udir.no/kl06/eksamensordning_1",
+    "kode": "eksamensordning_1",
+    "uri": "http://psi.udir.no/kl06/eksamensordning_1",
+    "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Ingen eksamen"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Ingen eksamen"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Ingen eksamen"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2024-02-12T11:42:14.1588007",
+    "kortform": [],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 12
+}

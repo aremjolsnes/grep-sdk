@@ -1,0 +1,44 @@
+{
+    "id": "6e2f0db7-db1e-466c-bcd3-125559d36ba8",
+    "kode": "tidligere_navn_3",
+    "uri": "http://psi.udir.no/kl06/tidligere_navn_3",
+    "url-data": "https://data.udir.no/kl06/v201906/tidligere-navn/tidligere_navn_3",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Elektrofag"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Oversettelse mangler"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Elektrofag"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Elektrofag"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Elektrofágat"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/tidligere_navn",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2022-10-31T10:16:47.3847021",
+    "tidligere-navn-for": {
+        "kode": "EL",
+        "uri": "http://psi.udir.no/kl06/EL",
+        "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/EL",
+        "tittel": "Elektro og datateknologi",
+        "gyldighet": {
+            "gyldig-fra": "2006-08-01T00:00:00",
+            "gyldig-til": "2020-07-31T00:00:00"
+        },
+        "id": "http://psi.udir.no/ontologi/utdanningsprogram/elektrofag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    }
+}

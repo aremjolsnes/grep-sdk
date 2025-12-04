@@ -1,0 +1,98 @@
+{
+    "id": "http://psi.udir.no/ontologi/utdanningsprogram/elektrofag",
+    "kode": "EL",
+    "uri": "http://psi.udir.no/kl06/EL",
+    "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/EL",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Elektro og datateknologi"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Electrical engineering and computer technology"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Elektro og datateknologi"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Elektro og datateknologi"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Elektro ja dihtorteknologiija"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "tidligere-navn": [
+        {
+            "kode": "tidligere_navn_3",
+            "url-data": "https://data.udir.no/kl06/v201906/tidligere-navn/tidligere_navn_3",
+            "uri": "http://psi.udir.no/kl06/tidligere_navn_3",
+            "gyldighet": {
+                "gyldig-fra": "2006-08-01T00:00:00",
+                "gyldig-til": "2020-07-31T00:00:00"
+            }
+        }
+    ],
+    "sist-endret": "2022-12-05T12:33:35.0821619",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Elektro og datateknologi"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Electrical eng. & comp. tech."
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Elektro og datateknologi"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Elektro og datateknologi"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Elektro ja dihtorteknologiija"
+        }
+    ],
+    "type-utdanningsprogram": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Yrkesfaglig utdanningsprogram"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Yrkesfaglig utdanningsprogram"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/utdanningsprogramtype_yrkesfaglig",
+        "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogramtype/utdanningsprogramtype_yrkesfaglig",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogramtype"
+    },
+    "tilleggsopplysninger": [],
+    "erstatter": [],
+    "erstattes-av": [],
+    "foerste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Høst 2006"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Høst 2006"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_hoest_2006",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2006",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "siste-semester": null
+}

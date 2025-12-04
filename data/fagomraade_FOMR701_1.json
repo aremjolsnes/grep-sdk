@@ -1,0 +1,38 @@
+{
+    "id": "uuid:8ca59463-9943-46d1-ae7f-48f5f328d81d",
+    "kode": "FOMR701",
+    "uri": "http://psi.udir.no/kl06/FOMR701",
+    "url-data": "https://data.udir.no/kl06/v201906/fagomraader/FOMR701",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Antikkens språk og kultur"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Antikkens språk og kultur"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Antikkens språk og kultur"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/fagomraade",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2005-08-01T00:00:00",
+    "fagkategori": [
+        {
+            "kode": "FKAT700",
+            "uri": "http://psi.udir.no/kl06/FKAT700",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkategorier/FKAT700",
+            "tittel": "Språkfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:7bba36be-1b9f-4640-b74d-4eae09a8ea05",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkategori",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ]
+}

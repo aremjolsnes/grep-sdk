@@ -1,0 +1,67 @@
+{
+    "rekkefoelge": 2,
+    "id": "6db37c0e-57df-44ab-8aea-0b0e3b6cc0e5",
+    "kode": "KE1120",
+    "uri": "http://psi.udir.no/kl06/KE1120",
+    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1120",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Geavatlaš boazodoallu"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Praktisk reindrift"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Geavatlaš boazodoallu"
+            }
+        ],
+        "forskrift": true
+    },
+    "beskrivelse": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "<p>Guovddášelemeanttas geavatlaš boazodoallu lea sáhka árbevirolašmáhtus, fágagielas, doallovugiin, doaimmaheamis ja etihkas. Geavatlaš boazodoallu addá gealbbu boazodoallobargguin geavahit árbevirolaš ja ođđaáiggi teknologiija. Guovddášelemeanta bidjá fuomášumi movt áŋgiruššan váikkuha loahppabohtosiidda ja ođđa buktagiid ja bálvalusaid ovdánahttimii boazodoalus.</p>"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p>Kjerneelementet praktisk reindrift handler om samisk tradisjonell kunnskap, fagspråk, driftsmetoder, praksis og etikk. Praktisk reindrift gir kompetanse i å bruke tradisjonell og moderne teknologi for arbeid i reindriften. Kjerneelementet retter oppmerksomheten mot sammenhenger mellom innsatsfaktorer og sluttresultater og mot utvikling av nye produkter og tjenester innenfor reindrifta.</p>"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "<p>Guovddášelemeanttas geavatlaš boazodoallu lea sáhka árbevirolašmáhtus, fágagielas, doallovugiin, doaimmaheamis ja etihkas. Geavatlaš boazodoallu addá gealbbu boazodoallobargguin geavahit árbevirolaš ja ođđaáiggi teknologiija. Guovddášelemeanta bidjá fuomášumi movt áŋgiruššan váikkuha loahppabohtosiidda ja ođđa buktagiid ja bálvalusaid ovdánahttimii boazodoalus.</p>"
+            }
+        ],
+        "forskrift": true
+    },
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+    "forklaring": [
+        {
+            "spraak": "default",
+            "verdi": "<p>árbevierromáhttu= tradisjonskunnskap</p>"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "<p>árbevierromáhttu= tradisjonskunnskap</p>"
+        }
+    ],
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2021-06-21T18:58:16.9938079",
+    "tilhoerer-laereplan": {
+        "kode": "REI03-02",
+        "uri": "http://psi.udir.no/kl06/REI03-02",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/REI03-02",
+        "tittel": "Oahppoplána – Jo3 boazodoallofága",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "3304abfd-cf38-4052-b3bd-7aea2ffed561",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    }
+}

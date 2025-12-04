@@ -1,0 +1,1634 @@
+{
+    "id": "uuid:b5687900-d0fd-43d5-8409-78a521deac58",
+    "kode": "AMM3-02",
+    "uri": "http://psi.udir.no/kl06/AMM3-02",
+    "url-data": "https://data.udir.no/kl06/v201906/laereplaner/AMM3-02",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Læreplan i anleggsmaskinmekanikerfaget Vg3 / opplæring i skole"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Curriculum for Construction and production machinery mechanic Vg3 / in-service training at a training establishment"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Læreplan i anleggsmaskinmekanikerfaget Vg3 / opplæring i skole"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2022-08-18T16:18:56.1429908",
+    "merkelapper": [
+        {
+            "kode": "laerling",
+            "uri": "http://psi.udir.no/kl06/laerling",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/laerling",
+            "tittel": "Lærlingplan",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/merkelapp/laerling",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "programfag-kapittel": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Beskrivelse av programfagene"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Description of the programme subjects"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Omtale av programfaga"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Beskrivelse av programfagene"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Prográmmafágaid válddahus"
+            }
+        ],
+        "programfag": [
+            {
+                "id": "uuid:78085ca0-5d55-4caa-a3b9-1bf54e720027",
+                "kode": "PF445",
+                "uri": "http://psi.udir.no/kl06/PF445",
+                "url-data": "https://data.udir.no/kl06/v201906/programfag/PF445",
+                "tittel": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Feilsøking og diagnose"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "Troubleshooting and diagnosi"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Feilsøking og diagnose"
+                    }
+                ],
+                "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+                "rekkefoelge": 1,
+                "beskrivelse": [
+                    {
+                        "spraak": "default",
+                        "verdi": "<p class=\"grep\">Programfaget omfatter feilsøking og diagnose. Bruk av teknisk litteratur og digitale hjelpemidler inngår i arbeidet. Programfaget omfatter også vurdering av kostnad og lønnsomhet ved en reparasjon, planlegging av arbeidet og valg av verktøy.</p>"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "<p class=\"grep\">The programme subject covers troubleshooting and diagnosis techniques. Use of technical literature and digital tools is included in the work. The programme subject also covers assessment of cost and profitability of a repair, planning work and selecting tools.</p>"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "<p class=\"grep\">Programfaget omfatter feilsøking og diagnose. Bruk av teknisk litteratur og digitale hjelpemidler inngår i arbeidet. Programfaget omfatter også vurdering av kostnad og lønnsomhet ved en reparasjon, planlegging av arbeidet og valg av verktøy.</p>"
+                    }
+                ],
+                "underliggende-hovedomraader": []
+            },
+            {
+                "id": "uuid:650c61de-1f09-4cfb-8b0c-09d98ddc3e77",
+                "kode": "PF444",
+                "uri": "http://psi.udir.no/kl06/PF444",
+                "url-data": "https://data.udir.no/kl06/v201906/programfag/PF444",
+                "tittel": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Reparasjon og vedlikehold"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "Repairs and maintenance"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Reparasjon og vedlikehold"
+                    }
+                ],
+                "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+                "rekkefoelge": 2,
+                "beskrivelse": [
+                    {
+                        "spraak": "default",
+                        "verdi": "<p class=\"grep\">Programfaget omfatter reparasjon med bruk av reparasjonshåndbok og annen nødvendig teknisk litteratur, verktøy og måleinstrumenter. Veiledning av brukere i vedlikehold av anleggsmaskiner inngår i programfaget. Helse, miljø og sikkerhet står sentralt.</p>"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "<p class=\"grep\">The programme subject covers repair work using repair manuals and other necessary technical literature, tools and measuring instruments. Guiding users in construction vehicle maintenance is included in the programme subject. Environment, health and safety are central themes of this subject.</p>"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "<p class=\"grep\">Programfaget omfatter reparasjon med bruk av reparasjonshåndbok og annen nødvendig teknisk litteratur, verktøy og måleinstrumenter. Veiledning av brukere i vedlikehold av anleggsmaskiner inngår i programfaget. Helse, miljø og sikkerhet står sentralt.</p>"
+                    }
+                ],
+                "underliggende-hovedomraader": []
+            },
+            {
+                "id": "uuid:47afffdc-3e85-497f-8f4a-66f35bb38e08",
+                "kode": "PF446",
+                "uri": "http://psi.udir.no/kl06/PF446",
+                "url-data": "https://data.udir.no/kl06/v201906/programfag/PF446",
+                "tittel": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Dokumentasjon og kvalitet"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "Documentation and quality"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Dokumentasjon og kvalitet"
+                    }
+                ],
+                "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+                "rekkefoelge": 3,
+                "beskrivelse": [
+                    {
+                        "spraak": "default",
+                        "verdi": "<p class=\"grep\">Programfaget omfatter bruk av lover og forskrifter, utarbeidelse av arbeidsrapporter og dokumentasjon av utført arbeid. Registrering og rapportering av avvik inngår også. Videre dreier det seg om kommunikasjon med kunder og kollegaer.</p>"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "<p class=\"grep\">The programme subject covers the application of laws and regulations, writing work and progress reports and documentating finished work. Registering and reporting deviations is also included. Furthermore, this subject deals with communicating with customers and colleagues.</p>"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "<p class=\"grep\">Programfaget omfatter bruk av lover og forskrifter, utarbeidelse av arbeidsrapporter og dokumentasjon av utført arbeid. Registrering og rapportering av avvik inngår også. Videre dreier det seg om kommunikasjon med kunder og kollegaer.</p>"
+                    }
+                ],
+                "underliggende-hovedomraader": []
+            }
+        ]
+    },
+    "hovedomraade-kapittel": null,
+    "kompetansemaal-kapittel": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Kompetansemål"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Competence aims"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Kompetansemål"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Kompetansemål"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Maahtaldahkeulmieh"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Gelbbolašvuođamihttomearit"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Máhtudakmihto"
+            }
+        ],
+        "innledning": [],
+        "kompetansemaalsett": [
+            {
+                "id": "uuid:3e468064-5756-4337-b890-2ff3a14f2d81",
+                "kode": "KMS1333",
+                "uri": "http://psi.udir.no/kl06/KMS1333",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett/KMS1333",
+                "tittel": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Feilsøking og diagnose"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "Troubleshooting and diagnosis"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Feilsøking og diagnose"
+                    }
+                ],
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+                "maal-for-kompetansemaalene-overskrift": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Mål for opplæringen er at lærlingen skal kunne"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "The aims of the training are to enable the apprentice to"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Mål for opplæringa er at lærlingen skal kunne"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Mål for opplæringen er at lærlingen skal kunne"
+                    }
+                ],
+                "rekkefoelge": 1,
+                "etter-aarstrinn": [
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+                        "tittel": "Videregående trinn 3",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "benyttes-paa-aarstrinn": [
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+                        "tittel": "Videregående trinn 3",
+                        "gyldighet": {
+                            "gyldig-fra": "2018-08-01T00:00:00",
+                            "gyldig-til": "2022-07-31T00:00:00"
+                        },
+                        "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "etter-fag": [
+                    {
+                        "kode": "AMM3Z01",
+                        "uri": "http://psi.udir.no/kl06/AMM3Z01",
+                        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/AMM3Z01",
+                        "tittel": "Feilsøking og diagnose",
+                        "gyldighet": {
+                            "gyldig-fra": "2018-08-01T00:00:00",
+                            "gyldig-til": "2022-07-31T00:00:00"
+                        },
+                        "id": "uuid:47b14006-c696-42e1-844e-51a3c8214769",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "programfag": {
+                    "kode": "PF445",
+                    "uri": "http://psi.udir.no/kl06/PF445",
+                    "url-data": "https://data.udir.no/kl06/v201906/programfag/PF445",
+                    "tittel": "Feilsøking og diagnose",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "uuid:78085ca0-5d55-4caa-a3b9-1bf54e720027",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                "hovedomraader-i-kontekst-av-kompetansemaalsett": [],
+                "kompetansemaal": [
+                    {
+                        "rekkefoelge": 1,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K51",
+                        "uri": "http://psi.udir.no/kl06/K51",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K51",
+                        "tittel": "feilsøke og diagnostisere på systemer og komponenter der det er registrert funksjonsavvik",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:d87d0343-5edd-411a-9961-23ca28fae7fd",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 2,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K52",
+                        "uri": "http://psi.udir.no/kl06/K52",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K52",
+                        "tittel": "planlegge arbeidet og velge verktøy på bakgrunn av diagnose",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:1a8d41b5-f5b4-4197-88e1-0313dc372d6a",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 3,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K53",
+                        "uri": "http://psi.udir.no/kl06/K53",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K53",
+                        "tittel": "vurdere og beskrive reparasjonsbehov på komponenter med registrert funksjonsavvik",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:58efce6a-d422-4a7d-a0e4-1c758db6dfb7",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 4,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K54",
+                        "uri": "http://psi.udir.no/kl06/K54",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K54",
+                        "tittel": "vurdere reparasjonsoppdrag i forhold til kostnader og lønnsomhet og drøfte alternative løsninger",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:b0f15f6f-ac8e-446e-977f-630e694075db",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 5,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K55",
+                        "uri": "http://psi.udir.no/kl06/K55",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K55",
+                        "tittel": "bruke teknisk litteratur og digitale hjelpemidler i feilsøkingsarbeidet",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:7d6390fc-ab72-49cc-bcfd-3e8a7251c449",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ]
+            },
+            {
+                "id": "uuid:f8375a3e-d9de-42ce-add7-9ff0ef05e15b",
+                "kode": "KMS1334",
+                "uri": "http://psi.udir.no/kl06/KMS1334",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett/KMS1334",
+                "tittel": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Reparasjon og vedlikehold"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "Repairs and maintenance"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Reparasjon og vedlikehold"
+                    }
+                ],
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+                "maal-for-kompetansemaalene-overskrift": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Mål for opplæringen er at lærlingen skal kunne"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "The aims of the training are to enable the apprentice to"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Mål for opplæringa er at lærlingen skal kunne"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Mål for opplæringen er at lærlingen skal kunne"
+                    }
+                ],
+                "rekkefoelge": 2,
+                "etter-aarstrinn": [
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+                        "tittel": "Videregående trinn 3",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "benyttes-paa-aarstrinn": [
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+                        "tittel": "Videregående trinn 3",
+                        "gyldighet": {
+                            "gyldig-fra": "2018-08-01T00:00:00",
+                            "gyldig-til": "2022-07-31T00:00:00"
+                        },
+                        "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "etter-fag": [
+                    {
+                        "kode": "AMM3Z02",
+                        "uri": "http://psi.udir.no/kl06/AMM3Z02",
+                        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/AMM3Z02",
+                        "tittel": "Reparasjon og vedlikehold",
+                        "gyldighet": {
+                            "gyldig-fra": "2018-08-01T00:00:00",
+                            "gyldig-til": "2022-07-31T00:00:00"
+                        },
+                        "id": "uuid:a0d0e12c-85c8-4cd1-bcc1-900244474c54",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "programfag": {
+                    "kode": "PF444",
+                    "uri": "http://psi.udir.no/kl06/PF444",
+                    "url-data": "https://data.udir.no/kl06/v201906/programfag/PF444",
+                    "tittel": "Reparasjon og vedlikehold",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "uuid:650c61de-1f09-4cfb-8b0c-09d98ddc3e77",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                "hovedomraader-i-kontekst-av-kompetansemaalsett": [],
+                "kompetansemaal": [
+                    {
+                        "rekkefoelge": 1,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K56",
+                        "uri": "http://psi.udir.no/kl06/K56",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K56",
+                        "tittel": "bruke reparasjonshåndbøker og teknisk litteratur i reparasjonsarbeidet",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:7b770217-5f23-4c04-ac33-f60d8519ad0f",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 2,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K57",
+                        "uri": "http://psi.udir.no/kl06/K57",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K57",
+                        "tittel": "bruke måleinstrumenter og vurdere måleresultater",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:1a812375-74bf-4349-9ff5-302d65429490",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 3,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K58",
+                        "uri": "http://psi.udir.no/kl06/K58",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K58",
+                        "tittel": "utføre reparasjon og vedlikehold på to- og firetakts forbrenningsmotorer",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:311dbd0e-1d5f-4b28-9aa3-34a8be44f6b2",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 4,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K59",
+                        "uri": "http://psi.udir.no/kl06/K59",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K59",
+                        "tittel": "utføre reparasjon og vedlikehold på transmisjoner og drivverk",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:a61160da-81de-4654-87b3-2baea92adc6a",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 5,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K60",
+                        "uri": "http://psi.udir.no/kl06/K60",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K60",
+                        "tittel": "utføre reparasjon og vedlikehold på ramme-, grave- og lasteutstyr",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:58cf9f73-0277-4c4c-932d-f2fa8c133e13",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 6,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K61",
+                        "uri": "http://psi.udir.no/kl06/K61",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K61",
+                        "tittel": "utføre reparasjon og vedlikehold på bremser, styring, belter og understell",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:0f06c160-023e-4d17-97ab-2469d6de394e",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 7,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K62",
+                        "uri": "http://psi.udir.no/kl06/K62",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K62",
+                        "tittel": "vurdere og vedlikeholde dekk og hjulutrustning",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:a45c6b78-24fa-4a04-a214-f497c2bfafd9",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 8,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K63",
+                        "uri": "http://psi.udir.no/kl06/K63",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K63",
+                        "tittel": "utføre reparasjon og vedlikehold på hydrauliske og pneumatiske systemer",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:1e2cc727-1748-41f8-9127-86ef5ec56a2d",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 9,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K64",
+                        "uri": "http://psi.udir.no/kl06/K64",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K64",
+                        "tittel": "utføre reparasjon og vedlikehold på elektriske og elektroniske systemer ",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:75bcced7-d0c1-4601-b98a-f371c553ce28",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 10,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K65",
+                        "uri": "http://psi.udir.no/kl06/K65",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K65",
+                        "tittel": "utføre reparasjon og vedlikehold på kontroll og varslingssystemer",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:9d9282da-0d43-4d3d-bfbd-03a7dbbb4154",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 11,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K66",
+                        "uri": "http://psi.udir.no/kl06/K66",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K66",
+                        "tittel": "utføre reparasjon og vedlikehold på digitale styringer for motor og hydraulikk",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:27f1648b-71b6-498c-946f-f1ae68dbdbcb",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 12,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K67",
+                        "uri": "http://psi.udir.no/kl06/K67",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K67",
+                        "tittel": "utføre reparasjon og vedlikehold på arbeidsutstyr for bygg-, anlegg og veivedlikehold",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:736fa021-a5d1-4d21-89bf-08e8ed10887d",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 13,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K68",
+                        "uri": "http://psi.udir.no/kl06/K68",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K68",
+                        "tittel": "utføre reparasjon og vedlikehold på komfort- og klimaanlegg",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:8abb3c63-baf7-4868-91f1-eb7acebb451a",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 14,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K69",
+                        "uri": "http://psi.udir.no/kl06/K69",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K69",
+                        "tittel": "utføre reparasjon og vedlikehold på digitale maskinstyringssystemer ",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:9ac23d58-bbde-4e83-9089-b6179a348064",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 15,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K70",
+                        "uri": "http://psi.udir.no/kl06/K70",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K70",
+                        "tittel": "utføre periodisk vedlikehold på anleggsmaskiner og tilhørende utstyr og redskaper i tråd med fabrikantens spesifikasjoner ",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:cb8c7c23-f1e7-4191-bd1d-13667f575251",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 16,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K71",
+                        "uri": "http://psi.udir.no/kl06/K71",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K71",
+                        "tittel": "veilede brukere i nødvendig vedlikehold på anleggsmaskiner, utstyr og redskaper",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:96189fc5-2128-4cd8-bd36-4c072741ce9a",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 17,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K72",
+                        "uri": "http://psi.udir.no/kl06/K72",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K72",
+                        "tittel": "velge smøremidler og væsker i samsvar med produsentens spesifikasjoner",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:63a0190e-5b41-46c8-96bc-97c4df354504",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 18,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K73",
+                        "uri": "http://psi.udir.no/kl06/K73",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K73",
+                        "tittel": "utføre arbeidet i tråd med gjeldende regelverk for helse, miljø og sikkerhet",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:21f1179d-a062-4a97-9846-48fb196aa5c9",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ]
+            },
+            {
+                "id": "uuid:0d70a02e-3ba4-40c9-a40c-707e0289cb37",
+                "kode": "KMS1332",
+                "uri": "http://psi.udir.no/kl06/KMS1332",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett/KMS1332",
+                "tittel": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Dokumentasjon og kvalitet"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "Documentation and quality"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Dokumentasjon og kvalitet"
+                    }
+                ],
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+                "maal-for-kompetansemaalene-overskrift": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Mål for opplæringen er at lærlingen skal kunne"
+                    },
+                    {
+                        "spraak": "eng",
+                        "verdi": "The aims of the training are to enable the apprentice to"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Mål for opplæringa er at lærlingen skal kunne"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Mål for opplæringen er at lærlingen skal kunne"
+                    }
+                ],
+                "rekkefoelge": 3,
+                "etter-aarstrinn": [
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+                        "tittel": "Videregående trinn 3",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "benyttes-paa-aarstrinn": [
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+                        "tittel": "Videregående trinn 3",
+                        "gyldighet": {
+                            "gyldig-fra": "2018-08-01T00:00:00",
+                            "gyldig-til": "2022-07-31T00:00:00"
+                        },
+                        "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "etter-fag": [
+                    {
+                        "kode": "AMM3Z03",
+                        "uri": "http://psi.udir.no/kl06/AMM3Z03",
+                        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/AMM3Z03",
+                        "tittel": "Dokumentasjon og kvalitet",
+                        "gyldighet": {
+                            "gyldig-fra": "2018-08-01T00:00:00",
+                            "gyldig-til": "2022-07-31T00:00:00"
+                        },
+                        "id": "uuid:63ea4284-deff-48eb-bd54-6a538a35bd48",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ],
+                "programfag": {
+                    "kode": "PF446",
+                    "uri": "http://psi.udir.no/kl06/PF446",
+                    "url-data": "https://data.udir.no/kl06/v201906/programfag/PF446",
+                    "tittel": "Dokumentasjon og kvalitet",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "uuid:47afffdc-3e85-497f-8f4a-66f35bb38e08",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                "hovedomraader-i-kontekst-av-kompetansemaalsett": [],
+                "kompetansemaal": [
+                    {
+                        "rekkefoelge": 1,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K74",
+                        "uri": "http://psi.udir.no/kl06/K74",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K74",
+                        "tittel": "innhente og bruke data fra leverandører i reparasjonsarbeidet",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:983b6ab9-13b2-4049-84a8-9a391eadea15",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 2,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K75",
+                        "uri": "http://psi.udir.no/kl06/K75",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K75",
+                        "tittel": "kommunisere med kunder og kolleger om faglige løsninger og arbeidsoppdragets omfang",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:ef4c77b0-f416-46cb-9d63-379278a1b6a2",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 3,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K76",
+                        "uri": "http://psi.udir.no/kl06/K76",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K76",
+                        "tittel": "skrive arbeidsrapporter og følge bedriftens internkontrollsystem for rapportering",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:0f864b4d-8f15-4698-9acd-55658b66d5fc",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 4,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K77",
+                        "uri": "http://psi.udir.no/kl06/K77",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K77",
+                        "tittel": "gjøre rede for forskrifter og regler for kontroll og sertifisering",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:2d2e5c4a-c3f3-4127-b46c-563d37c4795e",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 5,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K78",
+                        "uri": "http://psi.udir.no/kl06/K78",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K78",
+                        "tittel": "registrere og rapportere avvik",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:88d981ab-8955-40a1-9f54-306298dcf7a3",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    },
+                    {
+                        "rekkefoelge": 6,
+                        "tilhoerer-hovedomraade": null,
+                        "kode": "K79",
+                        "uri": "http://psi.udir.no/kl06/K79",
+                        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K79",
+                        "tittel": "håndtere og sortere avfall i tråd med gjeldende regelverk",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:a1eef8d0-ed21-4e19-826b-6c940f2f9f68",
+                        "grep-type": "kompetansemaal",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                ]
+            }
+        ]
+    },
+    "fastsettelsesinformasjon": {
+        "fastsatt-dato": "2007-12-14T00:00:00",
+        "fastsettelsestekst": [
+            {
+                "spraak": "default",
+                "verdi": "<p class=\"grep\">Fastsatt som forskrift av Utdanningsdirektoratet 14. desember 2007 etter delegasjon i brev av 26. september 2005 fra Utdannings- og forskningsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd.</p>"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "<p class=\"grep\">Laid down as a regulation by the Norwegian Directorate for Education and Training on 14 February 2007 as delegated in a letter of 26 September 2005 from the Ministry of Education and Research pursuant to the Act of 17 July 1998 no. 61 relating to primary and secondary education (Education Act) Section 3-4 first paragraph.</p>"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p class=\"grep\">Fastsatt som forskrift av Utdanningsdirektoratet 14. desember 2007 etter delegasjon i brev av 26. september 2005 fra Utdannings- og forskningsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd.</p>"
+            }
+        ],
+        "fastsatt-spraak": {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        "fastsatt-dato-overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Established"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Fastsett"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Vihtiestamme"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Mearriduvvon"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Mierreduvvam"
+            }
+        ]
+    },
+    "fagtype": [
+        {
+            "kode": "fagtype_felles_programfag",
+            "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
+            "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
+            "tittel": "Felles programfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/felles_programfag",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilgjengelige-spraak": [
+        {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "eng",
+            "uri": "http://psi.udir.no/kl06/eng",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/eng",
+            "tittel": "Engelsk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#eng",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_videregaaende",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+            "tittel": "Videregående opplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid from"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raejeste"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rájes"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rájes"
+                }
+            ],
+            "dato": "2018-08-01T00:00:00"
+        },
+        "gyldig-til": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid to"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raaajan"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rádjái"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rádjáj"
+                }
+            ],
+            "dato": "2022-07-31T00:00:00"
+        }
+    },
+    "erstatter": [
+        {
+            "kode": "AMM3-01",
+            "uri": "http://psi.udir.no/kl06/AMM3-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/AMM3-01",
+            "tittel": "Læreplan i anleggsmaskinmekanikerfaget Vg3 / opplæring i skole",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:01b784dd-aebc-46ec-9dfd-a0ad38fe8225",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "erstattes-av": [
+        {
+            "kode": "AMM03-03",
+            "uri": "http://psi.udir.no/kl06/AMM03-03",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/AMM03-03",
+            "tittel": "Læreplan i vg3 anleggsmaskinmekanikerfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "5b8df602-bb00-46f9-93fa-284b729ce8e7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "formaal-kapittel": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Formål"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Purpose"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Føremål"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Formål"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Ulmie"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Ulbmil"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Ulmme"
+            }
+        ],
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "<p class=\"grep\">Anleggsmaskinmekanikerfaget skal bidra til å utvikle kompetanse innenfor reparasjon og vedlikehold av anleggsmaskiner, utstyr og redskaper. Videre skal faget bidra til sikker drift av maskiner og redskaper gjennom vektlegging av helse, miljø og sikkerhet. Faget skal bidra til å ivareta krav om reduksjon av utslipp av miljøfarlige væsker og gasser.   </p><p class=\"grep\">Opplæringen skal bidra at lærlingen utvikler kompetanse i feilsøking, diagnose, reparasjon og vedlikehold av alt maskinelt utstyr som benyttes i bygge- og anleggsvirksomhet. Videre skal opplæringen bidra til at lærlingen utvikler evne til selvstendig tenking og vurdering. Opplæringen skal fremme evne til faglig utvikling og fleksibilitet og bidra til at den enkelte utvikler forståelse for helheten i faget. Opplæringen skal også fremme samarbeidsevne og kommunikasjonsferdigheter.   </p><p class=\"grep\">Opplæringen skal legge til rette for trening i planlegging, gjennomføring, dokumentasjon og kvalitetsarbeid. Videre skal opplæringen legge til rette for arbeid på anleggsmaskiner og ulike typer utstyr og redskaper for bygge- og anleggsvirksomhet. Respekt for maskiner, mennesker og miljø skal stå sentralt.   </p><p class=\"grep\">Fullført og bestått opplæring fører fram til fagbrev. Yrkestittel er anleggsmaskinmekaniker.</p>"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "<p class=\"grep\">The subject Construction and production machinery mechanic shall contribute to developing competence in repairs and maintenance of construction vehicles, equipment and tools. Furthermore, the subject shall contribute to safe operation of machines and tools by emphasising environment, health and safety. The subject shall contribute to complying with requirements for reduction of emissions of environmentally hazardous liquids and gases. </p><p class=\"grep\">Learning in the subject shall contribute to the apprentice developing competence in troubleshooting, diagnosing, repairing and maintenance of all machine equipment used in construction and civil engineering. Furthermore, learning in the subject shall contribute to the apprentice developing the ability to think independently and make reasonable assessments. Learning in the subject shall promote professional development and flexibility, and contribute to the individual developing an understanding of the trade as a whole. Learning in the subject shall also promote interpersonal and communication skills.</p><p class=\"grep\">Learning in the subject shall arrange for training in planning, execution, documentation and high-quality workmanship. Furthermore, learning in the subject shall prepare the apprentice to work on construction vehicles and different types of equipment and tools for construction and civil engineering. Respect for machines, humans and the environment shall be central themes in the subject. </p><p class=\"grep\">Training completed and passed in the subject will lead to a Trade Certificate. The professional title is Construction and Production Machinery Mechanic.</p>"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p class=\"grep\">Anleggsmaskinmekanikerfaget skal bidra til å utvikle kompetanse innenfor reparasjon og vedlikehold av anleggsmaskiner, utstyr og redskaper. Videre skal faget bidra til sikker drift av maskiner og redskaper gjennom vektlegging av helse, miljø og sikkerhet. Faget skal bidra til å ivareta krav om reduksjon av utslipp av miljøfarlige væsker og gasser.   </p><p class=\"grep\">Opplæringen skal bidra at lærlingen utvikler kompetanse i feilsøking, diagnose, reparasjon og vedlikehold av alt maskinelt utstyr som benyttes i bygge- og anleggsvirksomhet. Videre skal opplæringen bidra til at lærlingen utvikler evne til selvstendig tenking og vurdering. Opplæringen skal fremme evne til faglig utvikling og fleksibilitet og bidra til at den enkelte utvikler forståelse for helheten i faget. Opplæringen skal også fremme samarbeidsevne og kommunikasjonsferdigheter.   </p><p class=\"grep\">Opplæringen skal legge til rette for trening i planlegging, gjennomføring, dokumentasjon og kvalitetsarbeid. Videre skal opplæringen legge til rette for arbeid på anleggsmaskiner og ulike typer utstyr og redskaper for bygge- og anleggsvirksomhet. Respekt for maskiner, mennesker og miljø skal stå sentralt.   </p><p class=\"grep\">Fullført og bestått opplæring fører fram til fagbrev. Yrkestittel er anleggsmaskinmekaniker.</p>"
+            }
+        ]
+    },
+    "timetall-kapittel": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Timetall"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Teaching hours"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Timetal"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Timetall"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Man gellie tæjmoeh"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Diibmolohku"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Tijmmalåhko"
+            }
+        ],
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "<p class=\"grep\">Timetall er oppgitt i 60 minutters enheter.    </p><p class=\"grep\">Vg3   </p><p class=\"grep\">Feilsøking og diagnose:                                    205 årstimer         </p><p class=\"grep\">Reparasjon og vedlikehold:                             580 årstimer   </p><p class=\"grep\">Dokumentasjon og kvalitet:                  140 årstimer</p>"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "<p class=\"grep\">Teaching hours are stated as 60-minute units. </p><p class=\"grep\">Vg3</p><p class=\"grep\">Troubleshooting and diagnosis: 205 annual class hours </p><p class=\"grep\">Repairs and maintenance: 580 annual class hours</p><p class=\"grep\">Documentation and quality: 140 annual class hours</p>"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p class=\"grep\">Timetall er oppgitt i 60 minutters enheter.    </p><p class=\"grep\">Vg3   </p><p class=\"grep\">Feilsøking og diagnose:                                    205 årstimer         </p><p class=\"grep\">Reparasjon og vedlikehold:                             580 årstimer   </p><p class=\"grep\">Dokumentasjon og kvalitet:                  140 årstimer</p>"
+            }
+        ]
+    },
+    "struktur-kapittel": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Struktur"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Structure"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Struktur"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Struktur"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Huksehus"
+            }
+        ],
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "<p class=\"grep\">Anleggsmaskinmekanikerfaget består av tre programfag. Programfagene utfyller hverandre og må ses i sammenheng. </p><p class=\"grep\"><b>Oversikt over programfagene:</b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Årstrinn </b> </p></td><td class=\"grep\" colspan=\"3\"><p class=\"grep\"><b>Programfag </b> </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg3 / opplæring i skole </p></td><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p></td><td class=\"grep\"><p class=\"grep\">Reparasjon og vedlikehold </p></td><td class=\"grep\"><p class=\"grep\">Dokumentasjon og kvalitet </p></td></tr></tbody></table>"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "<p class=\"grep\">Construction and production machinery mechanic consists of three programme subjects. Programme subjects complement each other, and should be viewed in relation to one another.</p><p class=\"grep\"><b>Overview of the programme subjects:</b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Year level</b></p></td><td class=\"grep\"><p class=\"grep\"><b>Programme subjects</b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg3 / In-service training at a training establishment</p></td><td class=\"grep\"><p class=\"grep\">Troubleshooting and diagnosis</p></td><td class=\"grep\"><p class=\"grep\">Repairs and maintenance</p></td><td class=\"grep\"><p class=\"grep\">Documentation and quality</p></td></tr></tbody></table>"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p class=\"grep\">Anleggsmaskinmekanikerfaget består av tre programfag. Programfagene utfyller hverandre og må ses i sammenheng. </p><p class=\"grep\"><b>Oversikt over programfagene:</b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Årstrinn </b> </p></td><td class=\"grep\" colspan=\"3\"><p class=\"grep\"><b>Programfag </b> </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg3 / opplæring i skole </p></td><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p></td><td class=\"grep\"><p class=\"grep\">Reparasjon og vedlikehold </p></td><td class=\"grep\"><p class=\"grep\">Dokumentasjon og kvalitet </p></td></tr></tbody></table>"
+            }
+        ]
+    },
+    "grunnleggende-ferdigheter-kapittel": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Grunnleggende ferdigheter"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Basic skills"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Grunnleggjande ferdigheiter"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Grunnleggende ferdigheter"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Faagen maadth maahtoeh"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Vuođđogálggat"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Vuodotjehpudagá"
+            }
+        ],
+        "innledning": [
+            {
+                "spraak": "default",
+                "verdi": "<p class=\"grep\">Grunnleggende ferdigheter er integrert i kompetansemålene der de bidrar til utvikling av og er en del av fagkompetansen. I anleggsmaskinmekanikerfaget forstås grunnleggende ferdigheter slik:</p>"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "<p class=\"grep\">Basic skills are integrated into the competence aims for this course in areas where they contribute to the development of and are a part of the basic subject competence. In Construction and production machinery mechanic, basic skills are understood as follows:</p>"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p class=\"grep\">Grunnleggende ferdigheter er integrert i kompetansemålene der de bidrar til utvikling av og er en del av fagkompetansen. I anleggsmaskinmekanikerfaget forstås grunnleggende ferdigheter slik:</p>"
+            }
+        ],
+        "muntlig": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Å kunne uttrykke seg muntlig"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Being able to express oneself orally"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Å kunne uttrykkje seg munnleg"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Å kunne uttrykke seg muntlig"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Njaalmeldh tjiehpiesvoeth"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Máhttit njálmmálaccat ovdanbuktit"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Njálmálasj tjehpudagá"
+                }
+            ],
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne uttrykke seg skriftlig og muntlig</i></span> i anleggsmaskinmekanikerfaget innebærer kommunikasjon med kunder, kollegaer og leverandører om faglige løsninger. Det innebærer også risikovurdering og utarbeidelse av rapporter. Videre innebærer det bruk av teknisk engelsk.</p>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "<p class=\"grep\"><i>Being able to express oneself orally and in writing </i>in Construction and production machinery mechanic involves communicating with customers, colleagues and suppliers about professional solutions. It also involves risk assessment and preparing reports. Furthermore, it involves the use of technical English.</p>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne uttrykke seg skriftlig og muntlig</i></span> i anleggsmaskinmekanikerfaget innebærer kommunikasjon med kunder, kollegaer og leverandører om faglige løsninger. Det innebærer også risikovurdering og utarbeidelse av rapporter. Videre innebærer det bruk av teknisk engelsk.</p>"
+                }
+            ]
+        },
+        "skriftlig": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Å kunne uttrykke seg skriftlig"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Being able to express oneself in writing"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Å kunne uttrykkje seg skriftleg"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Å kunne uttrykke seg skriftlig"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Maehtedh tjaeledh"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Máhttit cálalaccat ovdanbuktit"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Buktet tjállet"
+                }
+            ],
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne uttrykke seg skriftlig og muntlig</i></span> i anleggsmaskinmekanikerfaget innebærer kommunikasjon med kunder, kollegaer og leverandører om faglige løsninger. Det innebærer også risikovurdering og utarbeidelse av rapporter. Videre innebærer det bruk av teknisk engelsk.</p>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "<p class=\"grep\"><i>Being able to express oneself orally and in writing </i>in Construction and production machinery mechanic involves communicating with customers, colleagues and suppliers about professional solutions. It also involves risk assessment and preparing reports. Furthermore, it involves the use of technical English.</p>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne uttrykke seg skriftlig og muntlig</i></span> i anleggsmaskinmekanikerfaget innebærer kommunikasjon med kunder, kollegaer og leverandører om faglige løsninger. Det innebærer også risikovurdering og utarbeidelse av rapporter. Videre innebærer det bruk av teknisk engelsk.</p>"
+                }
+            ]
+        },
+        "lese": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Å kunne lese"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Being able to read"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Å kunne lese"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Å kunne lese"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Maehtedh lohkedh"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Máhttit lohkat"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Buktet låhkåt"
+                }
+            ],
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne lese</i></span> i anleggsmaskinmekanikerfaget innebærer å forstå og bruke arbeidsbeskrivelser, prosedyrer, reparasjonshåndbøker og standarder på norsk og engelsk. Videre dreier det seg om å bruke og forstå lover og forskrifter.</p>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "<p class=\"grep\"><i>Being able to read </i>in Construction and production machinery mechanic involves understanding and using job descriptions, procedures, repair manuals and standards in Norwegian and English. Furthermore, the subject deals with the use and understanding laws and regulations.</p>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne lese</i></span> i anleggsmaskinmekanikerfaget innebærer å forstå og bruke arbeidsbeskrivelser, prosedyrer, reparasjonshåndbøker og standarder på norsk og engelsk. Videre dreier det seg om å bruke og forstå lover og forskrifter.</p>"
+                }
+            ]
+        },
+        "regne": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Å kunne regne"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Numeracy"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Å kunne rekne"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Å kunne regne"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Maehtedh ryöknedh"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Máhttit rehkenastit"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Buktet riekknit"
+                }
+            ],
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne regne</i></span> i anleggsmaskinmekanikerfaget innebærer å beregne trykk, væskemengde, temperatur, elektriske størrelser og blandingsforhold i væsker. Videre innebærer det å beregne økonomiske konsekvenser av ressursbruk og metodevalg. Det innebærer også å utføre målinger og registreringer i henhold til tegninger, skjemaer og standarder. Videre innebærer det omregning av målenheter.</p>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "<p class=\"grep\"><i>Numeracy </i>in Construction and production machinery mechanic involves calculating pressures, liquid quantities, temperatures, electrical sizes and mixing proportions for liquids. Furthermore, the subject involves calculating the economic consequences of resource use, and selection of methods. It also involves taking measurements and completing registrations according to drawings, schedules and standards. Furthermore, the subject involves converting units of measure.</p>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne regne</i></span> i anleggsmaskinmekanikerfaget innebærer å beregne trykk, væskemengde, temperatur, elektriske størrelser og blandingsforhold i væsker. Videre innebærer det å beregne økonomiske konsekvenser av ressursbruk og metodevalg. Det innebærer også å utføre målinger og registreringer i henhold til tegninger, skjemaer og standarder. Videre innebærer det omregning av målenheter.</p>"
+                }
+            ]
+        },
+        "digitale": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Å kunne bruke digitale verktøy"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Digital literacy"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Å kunne bruke digitale verktøy"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Å kunne bruke digitale verktøy"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Digitaale tjiehpiesvoeth"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Máhttit geavahit digitála reaidduid"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Digitála tjehpudagá"
+                }
+            ],
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne bruke digitale verktøy</i></span> i anleggsmaskinmekanikerfaget innebærer å bruke datasystemer for planlegging og dokumentasjon, feilsøking, reparasjon, testing og maskinstyring. Det innebærer også å bruke digitale instrumenter for diagnostisering, måling og beregning. Videre innebærer det nettbasert innhenting av informasjon og kommunikasjon med kunder.</p>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "<p class=\"grep\"><i>Digital literacy </i>in Construction and production machinery mechanic involves using computer systems to plan and document, troubleshoot, repair, test and do control checks on machines. It also involves using digital instruments for diagnoses, measurements and calculations. Furthermore, the subject involves gathering network-based information and communicating with customers.</p>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne bruke digitale verktøy</i></span> i anleggsmaskinmekanikerfaget innebærer å bruke datasystemer for planlegging og dokumentasjon, feilsøking, reparasjon, testing og maskinstyring. Det innebærer også å bruke digitale instrumenter for diagnostisering, måling og beregning. Videre innebærer det nettbasert innhenting av informasjon og kommunikasjon med kunder.</p>"
+                }
+            ]
+        },
+        "fritekst": [
+            {
+                "spraak": "default",
+                "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne uttrykke seg skriftlig og muntlig</i></span> i anleggsmaskinmekanikerfaget innebærer kommunikasjon med kunder, kollegaer og leverandører om faglige løsninger. Det innebærer også risikovurdering og utarbeidelse av rapporter. Videre innebærer det bruk av teknisk engelsk.   </p><p class=\"grep\"><span class=\"grep\"><i>Å kunne lese</i></span> i anleggsmaskinmekanikerfaget innebærer å forstå og bruke arbeidsbeskrivelser, prosedyrer, reparasjonshåndbøker og standarder på norsk og engelsk. Videre dreier det seg om å bruke og forstå lover og forskrifter.   </p><p class=\"grep\"><span class=\"grep\"><i>Å kunne regne</i></span> i anleggsmaskinmekanikerfaget innebærer å beregne trykk, væskemengde, temperatur, elektriske størrelser og blandingsforhold i væsker. Videre innebærer det å beregne økonomiske konsekvenser av ressursbruk og metodevalg. Det innebærer også å utføre målinger og registreringer i henhold til tegninger, skjemaer og standarder. Videre innebærer det omregning av målenheter.   </p><p class=\"grep\"><span class=\"grep\"><i>Å kunne bruke digitale verktøy</i></span> i anleggsmaskinmekanikerfaget innebærer å bruke datasystemer for planlegging og dokumentasjon, feilsøking, reparasjon, testing og maskinstyring. Det innebærer også å bruke digitale instrumenter for diagnostisering, måling og beregning. Videre innebærer det nettbasert innhenting av informasjon og kommunikasjon med kunder.</p>"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "<p class=\"grep\"><i>Being able to express oneself orally and in writing </i>in Construction and production machinery mechanic involves communicating with customers, colleagues and suppliers about professional solutions. It also involves risk assessment and preparing reports. Furthermore, it involves the use of technical English.</p><p class=\"grep\"><i>Being able to read </i>in Construction and production machinery mechanic involves understanding and using job descriptions, procedures, repair manuals and standards in Norwegian and English. Furthermore, the subject deals with the use and understanding laws and regulations. </p><p class=\"grep\"><i>Numeracy</i> in Construction and production machinery mechanic involves calculating pressures, liquid quantities, temperatures, electrical sizes and mixing proportions for liquids. Furthermore, the subject involves calculating the economic consequences of resource use, and selection of methods. It also involves taking measurements and completing registrations according to drawings, schedules and standards. Furthermore, the subject involves converting units of measure.</p><p class=\"grep\"><i>Digital literacy </i>in Construction and production machinery mechanic involves using computer systems to plan and document, troubleshoot, repair, test and do control checks on machines. It also involves using digital instruments for diagnoses, measurements and calculations. Furthermore, the subject involves gathering network-based information and communicating with customers.</p>"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p class=\"grep\"><span class=\"grep\"><i>Å kunne uttrykke seg skriftlig og muntlig</i></span> i anleggsmaskinmekanikerfaget innebærer kommunikasjon med kunder, kollegaer og leverandører om faglige løsninger. Det innebærer også risikovurdering og utarbeidelse av rapporter. Videre innebærer det bruk av teknisk engelsk.   </p><p class=\"grep\"><span class=\"grep\"><i>Å kunne lese</i></span> i anleggsmaskinmekanikerfaget innebærer å forstå og bruke arbeidsbeskrivelser, prosedyrer, reparasjonshåndbøker og standarder på norsk og engelsk. Videre dreier det seg om å bruke og forstå lover og forskrifter.   </p><p class=\"grep\"><span class=\"grep\"><i>Å kunne regne</i></span> i anleggsmaskinmekanikerfaget innebærer å beregne trykk, væskemengde, temperatur, elektriske størrelser og blandingsforhold i væsker. Videre innebærer det å beregne økonomiske konsekvenser av ressursbruk og metodevalg. Det innebærer også å utføre målinger og registreringer i henhold til tegninger, skjemaer og standarder. Videre innebærer det omregning av målenheter.   </p><p class=\"grep\"><span class=\"grep\"><i>Å kunne bruke digitale verktøy</i></span> i anleggsmaskinmekanikerfaget innebærer å bruke datasystemer for planlegging og dokumentasjon, feilsøking, reparasjon, testing og maskinstyring. Det innebærer også å bruke digitale instrumenter for diagnostisering, måling og beregning. Videre innebærer det nettbasert innhenting av informasjon og kommunikasjon med kunder.</p>"
+            }
+        ]
+    },
+    "vurdering-kapittel": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Vurdering"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Assessment"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Vurdering"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Vurdering"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Faagem vierhtiedidh"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Árvvoštallan fágas"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Árvustallam fágan"
+            }
+        ],
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "<p class=\"grep\"><b>Vg3 anleggsmaskinmekanikerfaget</b></p><p class=\"grep\">Bestemmelser for sluttvurdering: </p><p class=\"grep\" /><p class=\"grep\"><b><i>Standpunktvurdering </i></b> </p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Programfag </b> </p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning </b> </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p><p class=\"grep\">Reparasjon og vedlikehold </p><p class=\"grep\">Dokumentasjon og kvalitet </p><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Eleven skal ha en standpunktkarakter i hvert av programfagene. </p></td></tr></tbody></table><p class=\"grep\"><b><i>Eksamen for privatister</i></b><b /> </p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Programfag</b> </p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning</b> </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en skriftlig eksamen i programfaget. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Reparasjon og vedlikehold </p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en skriftlig eksamen i programfaget. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Dokumentasjon og kvalitet </p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en skriftlig eksamen i programfaget. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p><p class=\"grep\">Reparasjon og vedlikehold </p><p class=\"grep\">Dokumentasjon og kvalitet</p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en tverrfaglig praktisk eksamen i disse felles programfagene. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr></tbody></table><p class=\"grep\"><b><i>Fagprøve </i></b><i /></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Hovedområder </b> </p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning </b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p><p class=\"grep\">Reparasjon og vedlikehold </p><p class=\"grep\">Dokumentasjon og kvalitet </p><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Alle skal opp til fagprøven, som normalt skal gjennomføres over minst fire virkedager. </p><p class=\"grep\"><span class=\"grep\" /></p><p class=\"grep\">Før fagprøven må alle ha bestått tverrfaglig skriftlig eksamen i programfagene. Eksamen utarbeides sentralt og sensureres lokalt.</p><p class=\"grep\"> </p><p class=\"grep\">Alle kandidater som ikke har fulgt normalt opplæringsløp, må i tillegg ha bestått eksamen på Vg2-nivå i lærefaget. Eksamen utarbeides sentralt og sensureres lokalt.</p></td></tr></tbody></table><p class=\"grep\">De generelle bestemmelsene om vurdering er fastsatt i forskrift til opplæringsloven.</p>"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "<p class=\"grep\"><b>Vg3 Construction and production machinery mechanic</b></p><p class=\"grep\">Provisions for final assessment:</p><p class=\"grep\"><b><i>Overall achievement grades </i></b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Programme subjects</b></p></td><td class=\"grep\"><p class=\"grep\"><b>Provision</b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><span class=\"grep\" />Troubleshooting and diagnosis</p><p class=\"grep\">Repairs and maintenance</p><p class=\"grep\">Documentation and quality</p></td><td class=\"grep\"><p class=\"grep\">The pupil shall have an overall achievement grade in each programme subject.</p></td></tr></tbody></table><p class=\"grep\" /><p class=\"grep\"><b><i>Examination for external candidates</i></b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Programme subjects</b></p></td><td class=\"grep\"><p class=\"grep\"><b>Provision</b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Troubleshooting and diagnosis</p><p class=\"grep\">Repairs and maintenance</p><p class=\"grep\">Documentation and quality</p><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">External candidates shall sit for a written examination in each programme subject. In addition to this, the external candidate shall sit for an interdisciplinary practical examination where the common programme subjects are included. The examination is prepared and graded locally. </p></td></tr></tbody></table><p class=\"grep\"></p><p class=\"grep\"><b><i>Trade Examination</i></b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Main subject areas </b></p></td><td class=\"grep\"><p class=\"grep\"><b>Provision</b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Troubleshooting and diagnosis</p><p class=\"grep\">Repairs and maintenance</p><p class=\"grep\">Documentation and quality</p><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">All pupils shall sit for an interdisciplinary written examination in each common programme subject. The examination must be passed before a Trade Examination can be taken. The examination is prepared centrally and censured locally.</p><p class=\"grep\" /><p class=\"grep\">All pupils shall sit for a Trade Examination, which is normally carried out over a period of at least four working days. </p></td></tr></tbody></table><p class=\"grep\">The provisions for assessment are stipulated in the regulations of the Norwegian Education Act.</p><p class=\"grep\" />"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "<p class=\"grep\"><b>Vg3 anleggsmaskinmekanikerfaget</b></p><p class=\"grep\">Bestemmelser for sluttvurdering: </p><p class=\"grep\" /><p class=\"grep\"><b><i>Standpunktvurdering </i></b> </p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Programfag </b> </p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning </b> </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p><p class=\"grep\">Reparasjon og vedlikehold </p><p class=\"grep\">Dokumentasjon og kvalitet </p><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Eleven skal ha en standpunktkarakter i hvert av programfagene. </p></td></tr></tbody></table><p class=\"grep\"><b><i>Eksamen for privatister</i></b><b /> </p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Programfag</b> </p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning</b> </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en skriftlig eksamen i programfaget. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Reparasjon og vedlikehold </p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en skriftlig eksamen i programfaget. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Dokumentasjon og kvalitet </p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en skriftlig eksamen i programfaget. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p><p class=\"grep\">Reparasjon og vedlikehold </p><p class=\"grep\">Dokumentasjon og kvalitet</p></td><td class=\"grep\"><p class=\"grep\">Privatisten skal opp til en tverrfaglig praktisk eksamen i disse felles programfagene. Eksamen blir utarbeidet og sensurert lokalt.</p></td></tr></tbody></table><p class=\"grep\"><b><i>Fagprøve </i></b><i /></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Hovedområder </b> </p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning </b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Feilsøking og diagnose </p><p class=\"grep\">Reparasjon og vedlikehold </p><p class=\"grep\">Dokumentasjon og kvalitet </p><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Alle skal opp til fagprøven, som normalt skal gjennomføres over minst fire virkedager. </p><p class=\"grep\"><span class=\"grep\" /></p><p class=\"grep\">Før fagprøven må alle ha bestått tverrfaglig skriftlig eksamen i programfagene. Eksamen utarbeides sentralt og sensureres lokalt.</p><p class=\"grep\"> </p><p class=\"grep\">Alle kandidater som ikke har fulgt normalt opplæringsløp, må i tillegg ha bestått eksamen på Vg2-nivå i lærefaget. Eksamen utarbeides sentralt og sensureres lokalt.</p></td></tr></tbody></table><p class=\"grep\">De generelle bestemmelsene om vurdering er fastsatt i forskrift til opplæringsloven.</p>"
+            }
+        ]
+    },
+    "siste-eksamen": "2023-12-31T00:00:00",
+    "soekehjelp-navn-motsatt-maalform": "Læreplan i anleggsmaskinmekanikarfaget Vg3 / opplæring i skole",
+    "tilleggsopplysninger": "Revidert versjon fra høsten 2018. Ingen innholdsendringer, men ny eksamensordning for privatister."
+}

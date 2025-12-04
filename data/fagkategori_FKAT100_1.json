@@ -1,0 +1,23 @@
+{
+    "id": "uuid:87b73f2d-13dd-452e-ab23-b3fac4b2e2d9",
+    "kode": "FKAT100",
+    "uri": "http://psi.udir.no/kl06/FKAT100",
+    "url-data": "https://data.udir.no/kl06/v201906/fagkategorier/FKAT100",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Estetiske fag"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Estetiske fag"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Estetiske fag"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/fagkategori",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2005-08-01T00:00:00"
+}

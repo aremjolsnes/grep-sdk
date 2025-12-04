@@ -1,0 +1,102 @@
+{
+    "id": "http://psi.udir.no/ontologi/utdanningsprogram/design_tradisjonshaandverk",
+    "kode": "DT",
+    "uri": "http://psi.udir.no/kl06/DT",
+    "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/DT",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Håndverk, design og produktutvikling"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Handicrafts, Design and Product Development"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Handverk, design og produktutvikling"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Håndverk, design og produktutvikling"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Giehtaduodji, design ja buvttaovddideapmi"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "tidligere-navn": [],
+    "sist-endret": "2021-06-29T15:41:39.6123733",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Håndverk, design, produktutv."
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Handicr., Design, Prod. Dev."
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Handverk, design, produktutv."
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Håndverk, design, produktutv."
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Giehtaduo., design, buvttaovd."
+        }
+    ],
+    "type-utdanningsprogram": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Yrkesfaglig utdanningsprogram"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Yrkesfaglig utdanningsprogram"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/utdanningsprogramtype_yrkesfaglig",
+        "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogramtype/utdanningsprogramtype_yrkesfaglig",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogramtype"
+    },
+    "tilleggsopplysninger": [],
+    "erstatter": [
+        {
+            "kode": "DH",
+            "uri": "http://psi.udir.no/kl06/DH",
+            "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/DH",
+            "tittel": "Design og håndverk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/utdanningsprogram/design_haandverksfag",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "erstattes-av": [],
+    "foerste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Høst 2020"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Høst 2020"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_hoest_2020",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2020",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "siste-semester": null
+}

@@ -1,0 +1,36 @@
+{
+    "id": "uuid:b4f5ed0e-255f-4f8b-a428-95945fd106c2",
+    "kode": "PF54",
+    "uri": "http://psi.udir.no/kl06/PF54",
+    "url-data": "https://data.udir.no/kl06/v201906/programfag/PF54",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Nyanlegg"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "New installations"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Nyanlegg"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "<p class=\"grep\">Programfaget omfatter bygging av ulike typer parker, hager og rekreasjonsområder, og etablering av idrettsanlegg. Videre handler det om planlegging med tanke på optimalt drifts- og vedlikeholdsarbeid. I dette inngår valg, bruk og bearbeiding av materialer, planer, tegninger, landmåling og økonomi. Videre står valg og bruk av maskiner, redskaper og utstyr, gjeldende regelverk og relevante standarder sentralt. Programfaget omfatter bruk av vegetasjon i ulike typer anlegg, der det legges vekt på bruksområde og geografiske og klimatiske forhold. Programfaget dreier seg om sammenhenger mellom yrkesutøvelse og miljøpåvirkning i vid forstand. Det legges vekt på samarbeid med andre, økologisk forståelse og omtanke for liv.</p>"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "<p class=\"grep\">The programme subject covers the building of different types of parks, gardens and recreational areas, and the establishment of sports facilities. It also deals with planning, with a view to optimal operation and maintenance. This includes the selection and working up of materials, plans, drawings, surveying and finances. In addition, it involves the choice of machines, tools and equipment, where current regulations and relevant standards play a key role. The programme subject covers the use of vegetation in different types of facilities, where emphasis is on areas of use and geographical and climatic conditions. The programme subject deals with the way vocational practice and environmental impact interrelate in the broadest sense. Emphasis is on cooperation with others, ecological understanding and consideration for life.</p>"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "<p class=\"grep\">Programfaget omfatter bygging av ulike typer parker, hager og rekreasjonsområder, og etablering av idrettsanlegg. Videre handler det om planlegging med tanke på optimalt drifts- og vedlikeholdsarbeid. I dette inngår valg, bruk og bearbeiding av materialer, planer, tegninger, landmåling og økonomi. Videre står valg og bruk av maskiner, redskaper og utstyr, gjeldende regelverk og relevante standarder sentralt. Programfaget omfatter bruk av vegetasjon i ulike typer anlegg, der det legges vekt på bruksområde og geografiske og klimatiske forhold. Programfaget dreier seg om sammenhenger mellom yrkesutøvelse og miljøpåvirkning i vid forstand. Det legges vekt på samarbeid med andre, økologisk forståelse og omtanke for liv.</p>"
+        }
+    ],
+    "underliggende-hovedomraader": []
+}

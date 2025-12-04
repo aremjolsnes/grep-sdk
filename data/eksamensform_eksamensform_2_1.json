@@ -1,0 +1,40 @@
+{
+    "id": "http://psi.udir.no/eksamensform/vitnemaal/skriftlig",
+    "kode": "eksamensform_2",
+    "uri": "http://psi.udir.no/kl06/eksamensform_2",
+    "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_2",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Skriftlig"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Skriftleg"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Skriftlig"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2023-01-16T15:54:34.4661636",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "S"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "S"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "S"
+        }
+    ],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 2
+}

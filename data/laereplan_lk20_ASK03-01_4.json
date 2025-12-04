@@ -1,0 +1,838 @@
+{
+    "id": "6f7254fc-3dc7-4508-81da-cd9db549e581",
+    "kode": "ASK03-01",
+    "uri": "http://psi.udir.no/kl06/ASK03-01",
+    "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ASK03-01",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Læreplan i latin eller gresk"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Læreplan i latin eller gresk"
+            }
+        ],
+        "forskrift": true
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Latin eller gresk"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Latin eller gresk"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2025-08-04T12:38:03.4723498",
+    "laereplanstruktur": {
+        "kode": "laereplanstruktur_1",
+        "uri": "http://psi.udir.no/kl06/laereplanstruktur_1",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplanstruktur/laereplanstruktur_1",
+        "tittel": "Vanlig",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "uuid:3e031575-0a7f-44bb-8e3f-8da55879f90d",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "fastsettelsesinformasjon": {
+        "fastsatt-dato": "2021-03-24T00:00:00",
+        "fastsettelsestekst": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 24. mars 2021 etter delegasjon i brev av 13. september 2013 fra Kunnskapsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 24. mars 2021 etter delegasjon i brev av 13. september 2013 fra Kunnskapsdepartementet med hjemmel i lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+            }
+        ],
+        "fastsatt-spraak": {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        "fastsatt-dato-overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Established"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Fastsett"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Vihtiestamme"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Mearriduvvon"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Mierreduvvam"
+            }
+        ]
+    },
+    "fagtype": [
+        {
+            "kode": "fagtype_valgfritt_programfag",
+            "uri": "http://psi.udir.no/kl06/fagtype_valgfritt_programfag",
+            "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_valgfritt_programfag",
+            "tittel": "Valgfritt programfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/valgfritt_programfag",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilgjengelige-spraak": [
+        {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_videregaaende",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+            "tittel": "Videregående opplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "ordforklaringer": [],
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid from"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raejeste"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rájes"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rájes"
+                }
+            ],
+            "dato": "2021-08-01T00:00:00"
+        },
+        "gyldig-til": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid to"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raaajan"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rádjái"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rádjáj"
+                }
+            ],
+            "dato": "2025-07-31T00:00:00"
+        }
+    },
+    "erstatter": [
+        {
+            "kode": "ASK1-02",
+            "uri": "http://psi.udir.no/kl06/ASK1-02",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/ASK1-02",
+            "tittel": "Læreplan i antikkens språk og kultur - programfag i utdanningsprogram for studiespesialisering",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:2582e43f-98d2-433e-980c-ee17a00f3287",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "erstattes-av": [
+        {
+            "kode": "ASK03-02",
+            "uri": "http://psi.udir.no/kl06/ASK03-02",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ASK03-02",
+            "tittel": "Læreplan i latin",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "e5963ab1-e258-4bc6-95a7-7a36238e585e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "siste-eksamen": "2026-12-31T00:00:00",
+    "merkelapper": [],
+    "om-faget-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Om fagene"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Om fagene"
+                }
+            ],
+            "forskrift": true
+        },
+        "fagets-relevans-og-verdier": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Fagenes relevans og sentrale verdier"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Fagenes relevans og sentrale verdier"
+                    }
+                ],
+                "forskrift": true
+            },
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Latin eller gresk handler om språklæring og språkforståelse av antikkens språk, latin og gresk, og om kulturen i antikken hvor disse språkene var morsmål. Videre handler faget om disse språkenes aktualitet og betydning for oss i dag, og det skal gi elevene innsikt i hvordan mange moderne språk, fagtermer, litterære sjangre, retorikk og sitater har sitt opphav i latin eller gresk. Faget handler også om hvordan den gresk-romerske kulturarven på ulike måter gjenspeiles i samfunnet i dag. Samtidig skal faget fremme innsikt i eget morsmål og andre språk som er en viktig ressurs for videre studier og arbeidslivet.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Latin eller gresk handler om språklæring og språkforståelse av antikkens språk, latin og gresk, og om kulturen i antikken hvor disse språkene var morsmål. Videre handler faget om disse språkenes aktualitet og betydning for oss i dag, og det skal gi elevene innsikt i hvordan mange moderne språk, fagtermer, litterære sjangre, retorikk og sitater har sitt opphav i latin eller gresk. Faget handler også om hvordan den gresk-romerske kulturarven på ulike måter gjenspeiles i samfunnet i dag. Samtidig skal faget fremme innsikt i eget morsmål og andre språk som er en viktig ressurs for videre studier og arbeidslivet.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Alle fag skal bidra til å realisere verdigrunnlaget for opplæringen. Latin eller gresk skal bidra til å utvikle språklig og kulturell bevissthet og stimulere til nysgjerrighet og utforskertrang gjennom arbeid med språk og materielle overleveringer fra antikken. Elevene skal reflektere over og drøfte samfunnsmessige og språklige spørsmål i møte med tekster fra antikken, og slik skal faget bidra til forståelse av mangfold og innsikt i vår felles internasjonale kulturtradisjon. Gjennom kulturmøtene med antikken vil elevene erfare at det finnes flere måter å forstå verden på. Faget skal bidra til å fremme den enkeltes identitetsutvikling gjennom språklig, kulturell og historisk innsikt.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Alle fag skal bidra til å realisere verdigrunnlaget for opplæringen. Latin eller gresk skal bidra til å utvikle språklig og kulturell bevissthet og stimulere til nysgjerrighet og utforskertrang gjennom arbeid med språk og materielle overleveringer fra antikken. Elevene skal reflektere over og drøfte samfunnsmessige og språklige spørsmål i møte med tekster fra antikken, og slik skal faget bidra til forståelse av mangfold og innsikt i vår felles internasjonale kulturtradisjon. Gjennom kulturmøtene med antikken vil elevene erfare at det finnes flere måter å forstå verden på. Faget skal bidra til å fremme den enkeltes identitetsutvikling gjennom språklig, kulturell og historisk innsikt.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        },
+        "kjerneelementer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Kjerneelementer"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Kjerneelementer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "kjerneelementer": [
+                {
+                    "kode": "KE795",
+                    "uri": "http://psi.udir.no/kl06/KE795",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE795",
+                    "tittel": "Språklæring",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "a74f6989-faf8-4f05-be91-6aba769c7d39",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                },
+                {
+                    "kode": "KE796",
+                    "uri": "http://psi.udir.no/kl06/KE796",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE796",
+                    "tittel": "Språk i kontekst",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "8270d7f3-a90a-4790-bf15-d912f1d29e4a",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                },
+                {
+                    "kode": "KE797",
+                    "uri": "http://psi.udir.no/kl06/KE797",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE797",
+                    "tittel": "Antikkens språk i dag",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "0f258ede-ac78-4cba-bd45-ea1e70196566",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                }
+            ]
+        },
+        "tverrfaglige-temaer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Tverrfaglige temaer"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Tverrfaglige temaer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "tverrfaglige-temaer": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Folkehelse og livsmestring"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Folkehelse og livsmestring"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I latin eller gresk handler det tverrfaglige temaet folkehelse og livsmestring om å utvikle språklig bevissthet gjennom å sammenligne språk og å få kjennskap til opprinnelsen til ord og uttrykk. Med dette grunnlaget kan elevene mer presist og lettere sette ord på egne tanker og følelser. Gjennom å møte tanker og problemstillinger fra antikken kan elevene se seg selv i en større historisk sammenheng, utvikle identitet og selvbilde og reflektere rundt eksistensielle spørsmål som grunnlag for å ta ansvarlige livsvalg.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I latin eller gresk handler det tverrfaglige temaet folkehelse og livsmestring om å utvikle språklig bevissthet gjennom å sammenligne språk og å få kjennskap til opprinnelsen til ord og uttrykk. Med dette grunnlaget kan elevene mer presist og lettere sette ord på egne tanker og følelser. Gjennom å møte tanker og problemstillinger fra antikken kan elevene se seg selv i en større historisk sammenheng, utvikle identitet og selvbilde og reflektere rundt eksistensielle spørsmål som grunnlag for å ta ansvarlige livsvalg.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT1",
+                        "uri": "http://psi.udir.no/kl06/TT1",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
+                        "tittel": "Folkehelse og livsmestring",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4fbd99bd-0e3f-48b7-9de2-86086c50d5fc",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Demokrati og medborgerskap"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Demokrati og medborgerskap"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I latin eller gresk handler det tverrfaglige temaet demokrati og medborgerskap om å bidra til elevenes språklige bevissthet og retoriske kompetanse. Det bidrar til å ruste elevene til aktiv deltakelse i samfunnsliv og demokratiske prosesser. Demokrati og medborgerskap handler også om innsikt i noen av de første demokratiene og rettsstatene i Europas historie og gjennom dette bevissthet om forutsetninger for og verdien av demokratiet.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I latin eller gresk handler det tverrfaglige temaet demokrati og medborgerskap om å bidra til elevenes språklige bevissthet og retoriske kompetanse. Det bidrar til å ruste elevene til aktiv deltakelse i samfunnsliv og demokratiske prosesser. Demokrati og medborgerskap handler også om innsikt i noen av de første demokratiene og rettsstatene i Europas historie og gjennom dette bevissthet om forutsetninger for og verdien av demokratiet.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT2",
+                        "uri": "http://psi.udir.no/kl06/TT2",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
+                        "tittel": "Demokrati og medborgerskap",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "18db0afa-5d3d-4719-9e48-4bcc10489238",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        },
+        "grunnleggende-ferdigheter-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Grunnleggende ferdigheter"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Grunnleggende ferdigheter"
+                    }
+                ],
+                "forskrift": true
+            },
+            "grunnleggende-ferdigheter": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Muntlige ferdigheter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Muntlige ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Muntlige ferdigheter i latin eller gresk innebærer å samtale og uttrykke seg på latin eller gresk på en enkel måte og ta i bruk kjente sitater. Muntlige ferdigheter innebærer også å lytte til, forstå og svare på spørsmål i spontane og forberedte samtaler. I tillegg innebærer det å beskrive, samtale om og presentere historiske, kulturelle og språklige emner.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Muntlige ferdigheter i latin eller gresk innebærer å samtale og uttrykke seg på latin eller gresk på en enkel måte og ta i bruk kjente sitater. Muntlige ferdigheter innebærer også å lytte til, forstå og svare på spørsmål i spontane og forberedte samtaler. I tillegg innebærer det å beskrive, samtale om og presentere historiske, kulturelle og språklige emner.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF1",
+                        "uri": "http://psi.udir.no/kl06/GF1",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
+                        "tittel": "Muntlige ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4c7259cf-0623-4cd3-8745-e02d7bb3ee4b",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne skrive"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne skrive"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne skrive i latin eller gresk innebærer å ta i bruk ulike skrivestrategier både for å lære og vise kompetanse. Videre innebærer det å ta i bruk ordforråd og grammatiske strukturer i egne tekster. Det innebærer også å oversette tekster med stadig høyere vanskelighetsgrad til og fra latin eller gresk.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne skrive i latin eller gresk innebærer å ta i bruk ulike skrivestrategier både for å lære og vise kompetanse. Videre innebærer det å ta i bruk ordforråd og grammatiske strukturer i egne tekster. Det innebærer også å oversette tekster med stadig høyere vanskelighetsgrad til og fra latin eller gresk.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF2",
+                        "uri": "http://psi.udir.no/kl06/GF2",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
+                        "tittel": "Å kunne skrive",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "3dd652b3-5531-4daa-917e-5119d42a20ca",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne lese"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne lese"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne lese i latin eller gresk innebærer å velge og bruke relevante lesestrategier tilpasset tekstenes formål og stadig høyere vanskelighetsgrad. Videre innebærer det å utforske og finne informasjon i ulike kilder og reflektere over ulike teksters form og innhold. Det innebærer også å bruke ordbok.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne lese i latin eller gresk innebærer å velge og bruke relevante lesestrategier tilpasset tekstenes formål og stadig høyere vanskelighetsgrad. Videre innebærer det å utforske og finne informasjon i ulike kilder og reflektere over ulike teksters form og innhold. Det innebærer også å bruke ordbok.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF3",
+                        "uri": "http://psi.udir.no/kl06/GF3",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
+                        "tittel": "Å kunne lese",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4fbb0383-5b71-449c-963b-6bfe36c99d9f",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Digitale ferdigheter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Digitale ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Digitale ferdigheter i latin eller gresk innebærer å finne fram, vurdere og behandle informasjon fra digitale kilder med ulike fremstillinger av antikkens språk, historie og kultur. Digitale ferdigheter handler også om å ta i bruk egnede ressurser, samhandle med andre og produsere og bearbeide tekster. Videre handler digitale ferdigheter om å vise digital dømmekraft og følge regler for personvern og etterrettelighet i å oppgi kilder.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Digitale ferdigheter i latin eller gresk innebærer å finne fram, vurdere og behandle informasjon fra digitale kilder med ulike fremstillinger av antikkens språk, historie og kultur. Digitale ferdigheter handler også om å ta i bruk egnede ressurser, samhandle med andre og produsere og bearbeide tekster. Videre handler digitale ferdigheter om å vise digital dømmekraft og følge regler for personvern og etterrettelighet i å oppgi kilder.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF5",
+                        "uri": "http://psi.udir.no/kl06/GF5",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF5",
+                        "tittel": "Digitale ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "c4dec77c-afed-49c8-ab49-ee36f40d218c",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        }
+    },
+    "kompetansemaal-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Kompetansemål og vurdering"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Kompetansemål og vurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "kompetansemaalsett": [
+            {
+                "kode": "KV543",
+                "uri": "http://psi.udir.no/kl06/KV543",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV543",
+                "tittel": "Kompetansemål og vurdering latin eller gresk 1",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "377638a7-1574-45ee-8942-1b9ee58ceaf8",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+            },
+            {
+                "kode": "KV544",
+                "uri": "http://psi.udir.no/kl06/KV544",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV544",
+                "tittel": "Kompetansemål og vurdering latin eller gresk 2",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "654e8474-91d0-468e-ba82-892b2b327ddb",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+            }
+        ]
+    },
+    "vurderingsordning-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p><strong>Standpunktkarakter</strong><br>Latin eller gresk 1: Elevene skal ha én standpunktkarakter<br>Latin eller gresk 2: Elevene skal ha én standpunktkarakter</p><p><strong>Eksamen for elever</strong><br>Latin eller gresk 1: Eleven kan trekkes ut til en muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsedel. Latin eller gresk 2: Eleven kan trekkes ut til en skriftlig eksamen eller en muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p><p><strong>Eksamen for privatister</strong><br>Latin eller gresk 1: Privatistene skal opp til muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt.<br>Latin eller gresk 2: Privatistene skal opp til skriftlig og muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel for privatister.</p>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "<p><strong>Standpunktkarakter</strong><br>Latin eller gresk 1: Elevene skal ha én standpunktkarakter<br>Latin eller gresk 2: Elevene skal ha én standpunktkarakter</p><p><strong>Eksamen for elever</strong><br>Latin eller gresk 1: Eleven kan trekkes ut til en muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsedel. Latin eller gresk 2: Eleven kan trekkes ut til en skriftlig eksamen eller en muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p><p><strong>Eksamen for privatister</strong><br>Latin eller gresk 1: Privatistene skal opp til muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt.<br>Latin eller gresk 2: Privatistene skal opp til skriftlig og muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel for privatister.</p>"
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": []
+    },
+    "vurderingsordninger-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "vurderingsordninger": [
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Standpunktvurdering"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Standpunktvurdering"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Latin eller gresk 1: Elevene skal ha én standpunktkarakter<br>Latin eller gresk 2: Elevene skal ha én standpunktkarakter</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Latin eller gresk 1: Elevene skal ha én standpunktkarakter<br>Latin eller gresk 2: Elevene skal ha én standpunktkarakter</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Eksamen for elever"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Eksamen for elever"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Latin eller gresk 1: Eleven kan trekkes ut til en muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsedel. <br>Latin eller gresk 2: Eleven kan trekkes ut til en skriftlig eksamen eller en muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Latin eller gresk 1: Eleven kan trekkes ut til en muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt. Eksamen skal ha forberedelsedel. <br>Latin eller gresk 2: Eleven kan trekkes ut til en skriftlig eksamen eller en muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Eksamen for privatister"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Eksamen for privatister"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Latin eller gresk 1: Privatistene skal opp til muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt.<br>Latin eller gresk 2: Privatistene skal opp til skriftlig og muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel for privatister.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Latin eller gresk 1: Privatistene skal opp til muntlig eksamen. Eksamen blir utarbeidet og sensurert lokalt.<br>Latin eller gresk 2: Privatistene skal opp til skriftlig og muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsedel for privatister.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        ]
+    },
+    "tilleggsopplysninger": [
+        {
+            "spraak": "default",
+            "verdi": "KD har 16.010.2024 fastsatt at programfagene gresk 1 og 2 ikke lenger skal tilbys."
+        },
+        {
+            "spraak": "nob",
+            "verdi": "KD har 16.010.2024 fastsatt at programfagene gresk 1 og 2 ikke lenger skal tilbys."
+        }
+    ],
+    "opprinnelige-planer": []
+}

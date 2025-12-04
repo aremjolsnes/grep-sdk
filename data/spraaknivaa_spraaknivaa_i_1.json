@@ -1,0 +1,57 @@
+{
+    "id": "http://psi.udir.no/kl06/spraaknivaa_i",
+    "kode": "spraaknivaa_i",
+    "uri": "http://psi.udir.no/kl06/spraaknivaa_i",
+    "url-data": "https://data.udir.no/kl06/v201906/spraaknivaa/spraaknivaa_i",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Nivå I"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Level I"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Nivå I"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Nivå I"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Dássi I"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/spraaknivaa",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2022-06-20T11:09:24.6222898",
+    "cefr": "A1",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "I"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "I"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "I"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "I"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "I"
+        }
+    ],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

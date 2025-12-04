@@ -1,0 +1,32 @@
+{
+    "id": "http://psi.udir.no/ontologi/sluttkompetanse/fagbrev",
+    "kode": "sluttkompetanse_fagbrev",
+    "uri": "http://psi.udir.no/kl06/sluttkompetanse_fagbrev",
+    "url-data": "https://data.udir.no/kl06/v201906/sluttkompetanse/sluttkompetanse_fagbrev",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Fagbrev"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Fagbrev"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Fagbrev"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Fagbrev"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/sluttkompetanse",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2005-08-01T00:00:00",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 3
+}

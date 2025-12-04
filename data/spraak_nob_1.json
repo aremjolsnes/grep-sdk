@@ -1,0 +1,35 @@
+{
+    "id": "http://psi.oasis-open.org/iso/639/#nob",
+    "kode": "nob",
+    "uri": "http://psi.udir.no/kl06/nob",
+    "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Bokmål"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Norwegian Bokmål"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Bokmål"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Bokmål"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Dárogiella"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2021-01-15T08:02:05.6959191",
+    "kortform": [],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

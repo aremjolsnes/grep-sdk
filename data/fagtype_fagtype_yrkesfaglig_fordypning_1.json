@@ -1,0 +1,69 @@
+{
+    "id": "http://psi.udir.no/kl06/fagtype_yrkesfaglig_fordypning",
+    "kode": "fagtype_yrkesfaglig_fordypning",
+    "uri": "http://psi.udir.no/kl06/fagtype_yrkesfaglig_fordypning",
+    "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_yrkesfaglig_fordypning",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Yrkesfaglig fordypning"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Vocational in-depth studies"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Yrkesfagleg fordjuping"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Yrkesfaglig fordypning"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Fidnofágalaš čiekŋun"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2022-10-10T15:25:39.5773413",
+    "opplaeringsnivaa": {
+        "kode": "opplaeringsnivaa_videregaaende",
+        "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+        "tittel": "Videregående opplæring",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "YF"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "YF"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "YF"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "YF"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "YF"
+        }
+    ],
+    "gyldig-fra": "2017-01-01T00:00:00",
+    "gyldig-til": null,
+    "rekkefoelge": 8
+}

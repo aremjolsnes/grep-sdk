@@ -1,0 +1,204 @@
+{
+    "id": "uuid:33078679-9f79-4d8e-899b-f229fbd7e2bb",
+    "kode": "HISRS06",
+    "uri": "http://psi.udir.no/kl06/HISRS06",
+    "url-data": "https://data.udir.no/kl06/v201906/fagkoder/HISRS06",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Historie for påbygging til studiekompetanse"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Historie for påbygging til studiekompetanse"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Historie for påbygging til studiekompetanse"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2020-06-12T09:26:01.5519082",
+    "merkelapper": [
+        {
+            "kode": "for_privatskoler",
+            "uri": "http://psi.udir.no/kl06/for_privatskoler",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/for_privatskoler",
+            "tittel": "For privatskoler",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/merkelapp/for_privatskoler",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "for_steiner",
+            "uri": "http://psi.udir.no/kl06/for_steiner",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/for_steiner",
+            "tittel": "For Steinerskoler",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/kl06/for_steiner",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "vurderingsordning": [
+        {
+            "trekkordning": {
+                "kode": "trekkordning_1",
+                "uri": "http://psi.udir.no/kl06/trekkordning_1",
+                "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_1",
+                "tittel": "Ingen eksamen",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/trekkordning_1",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "type-eksamensordning": {
+                "kode": "eksamensordning_1",
+                "uri": "http://psi.udir.no/kl06/eksamensordning_1",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_1",
+                "tittel": "Ingen eksamen",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/eksamensordning_1",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "vurderingsuttrykk": {
+                "kode": "vurderingsuttrykk_tall",
+                "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_tall",
+                "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_tall",
+                "tittel": "Tall",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/vurderingsform/tall",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "eksamensform-paa-vitnemaalet": {
+                "kode": "eksamensform_1",
+                "uri": "http://psi.udir.no/kl06/eksamensform_1",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_1",
+                "tittel": "Ingen eksamen",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/eksamensform/vitnemaal/ingen",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "elevtype": "http://psi.udir.no/ontologi/eksamen_vurdering_elev",
+            "standpunktvurdering": true,
+            "modulvurdering": false,
+            "halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO": false,
+            "hoeyeste-nivaa": false
+        }
+    ],
+    "opplaeringsfag": [],
+    "tilleggseksamen-ikke-normalt-loep": [],
+    "benyttes-sammen-med": [],
+    "spraaknivaa": null,
+    "erstatter": [],
+    "erstattes-av": [],
+    "omfang-totalt": "140",
+    "omfang-vitnemaal": "140",
+    "omfang-til-naa": "140",
+    "naar-kan-man-ta-eksamen": {
+        "foerste-semester": null,
+        "siste-semester": null
+    },
+    "naar-gis-det-undervisning": {
+        "foerste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Høst 2008"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Høst 2008"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_hoest_2008",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2008",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        },
+        "siste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vår 2017"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vår 2017"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_vaar_2017",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2017",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        }
+    },
+    "sensur": null,
+    "oppgave": null,
+    "tilleggsopplysninger": [],
+    "bygger-paa-fag": [],
+    "gyldig-fra": "2008-08-01T00:00:00",
+    "gyldig-til": "2017-07-31T00:00:00",
+    "iso-639-2-kode": null,
+    "fagtype": {
+        "kode": "fagtype_fellesfag",
+        "uri": "http://psi.udir.no/kl06/fagtype_fellesfag",
+        "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_fellesfag",
+        "tittel": "Fellesfag",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/fellesfag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "opplaeringsnivaa": {
+        "kode": "opplaeringsnivaa_videregaaende",
+        "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+        "tittel": "Videregående opplæring",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Historie for påbygning"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Historie for påbygning"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Historie for påbygning"
+        }
+    ]
+}

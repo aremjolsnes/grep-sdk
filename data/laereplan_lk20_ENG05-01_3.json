@@ -1,0 +1,1095 @@
+{
+    "id": "6958e9d5-31be-4745-82f1-2a8cb2a475b8",
+    "kode": "ENG05-01",
+    "uri": "http://psi.udir.no/kl06/ENG05-01",
+    "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ENG05-01",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Læreplan i engelsk – førebuande opplæring for vaksne"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Læreplan i engelsk – førebuande opplæring for vaksne"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Læreplan i engelsk – forberedende opplæring for voksne "
+            }
+        ],
+        "forskrift": true
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Engelsk FOV"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Engelsk FOV"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Engelsk FOV"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2025-06-24T15:15:37.3045027",
+    "laereplanstruktur": {
+        "kode": "laereplanstruktur_2",
+        "uri": "http://psi.udir.no/kl06/laereplanstruktur_2",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplanstruktur/laereplanstruktur_2",
+        "tittel": "Modulstrukturert",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "uuid:dd3dc435-d047-4984-b3af-aae1778a24dd",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "fastsettelsesinformasjon": {
+        "fastsatt-dato": "2024-06-03T00:00:00",
+        "fastsettelsestekst": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsett som forskrift av Kunnskapsdepartementet 03.06.2024."
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Fastsett som forskrift av Kunnskapsdepartementet 03.06.2024."
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt som forskrift av Kunnskapsdepartementet 03.06.2024."
+            }
+        ],
+        "fastsatt-spraak": {
+            "kode": "nno",
+            "uri": "http://psi.udir.no/kl06/nno",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nno",
+            "tittel": "Nynorsk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nno",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        "fastsatt-dato-overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsett"
+            },
+            {
+                "spraak": "eng",
+                "verdi": "Established"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Fastsett"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fastsatt"
+            },
+            {
+                "spraak": "sma",
+                "verdi": "Vihtiestamme"
+            },
+            {
+                "spraak": "sme",
+                "verdi": "Mearriduvvon"
+            },
+            {
+                "spraak": "smj",
+                "verdi": "Mierreduvvam"
+            }
+        ]
+    },
+    "fagtype": [
+        {
+            "kode": "fagtype_grunnskolefag",
+            "uri": "http://psi.udir.no/kl06/fagtype_grunnskolefag",
+            "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_grunnskolefag",
+            "tittel": "Grunnskolefag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/grunnskolefag",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "fagtype_fov",
+            "uri": "http://psi.udir.no/kl06/fagtype_fov",
+            "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_fov",
+            "tittel": "Forberedende opplæring for voksne",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c44d98fe-6233-44dc-bd65-0aa6d4a73149",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilgjengelige-spraak": [
+        {
+            "kode": "nno",
+            "uri": "http://psi.udir.no/kl06/nno",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nno",
+            "tittel": "Nynorsk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nno",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "https://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_fov",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_fov",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_fov",
+            "tittel": "Opplæringsnivå forberedende opplæring for voksne",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:103fd723-a9df-4956-b210-11c86146012b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "opplaeringsnivaa_grunnskole",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_grunnskole",
+            "tittel": "Grunnskole",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_grunnskole",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "ordforklaringer": [],
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid from"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raejeste"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rájes"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rájes"
+                }
+            ],
+            "dato": "2024-08-01T00:00:00"
+        },
+        "gyldig-til": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid to"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raaajan"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rádjái"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rádjáj"
+                }
+            ],
+            "dato": null
+        }
+    },
+    "erstatter": [],
+    "erstattes-av": [],
+    "siste-eksamen": null,
+    "merkelapper": [
+        {
+            "kode": "for_voksenopplaering",
+            "uri": "http://psi.udir.no/kl06/for_voksenopplaering",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/for_voksenopplaering",
+            "tittel": "For voksenopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/kl06/merkelapp_for_voksenopplaering",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "om-faget-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Om faget"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Om faget"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Om faget"
+                }
+            ],
+            "forskrift": true
+        },
+        "fagets-relevans-og-verdier": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Fagrelevans og sentrale verdiar"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Fagrelevans og sentrale verdiar"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Fagets relevans og sentrale verdier"
+                    }
+                ],
+                "forskrift": true
+            },
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Engelsk er eit sentralt fag for kommunikasjon, språkforståing og kulturforståing. Faget skal gi deltakarane eit grunnlag for å kommunisere med andre lokalt og globalt, på tvers av kulturell og språkleg bakgrunn. Faget skal førebu deltakarane på ei utdanning og eit samfunns- og arbeidsliv som stiller krav om engelskspråkleg kompetanse i lesing, skriving og munnleg kommunikasjon. Engelsk skal bidra til livslang læring gjennom utvikling av læringsstrategiar, metaspråkleg medvit og digitale ferdigheiter.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Engelsk er eit sentralt fag for kommunikasjon, språkforståing og kulturforståing. Faget skal gi deltakarane eit grunnlag for å kommunisere med andre lokalt og globalt, på tvers av kulturell og språkleg bakgrunn. Faget skal førebu deltakarane på ei utdanning og eit samfunns- og arbeidsliv som stiller krav om engelskspråkleg kompetanse i lesing, skriving og munnleg kommunikasjon. Engelsk skal bidra til livslang læring gjennom utvikling av læringsstrategiar, metaspråkleg medvit og digitale ferdigheiter.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Engelsk er et sentralt fag for kommunikasjon, språkforståelse og kulturforståelse. Faget skal gi deltakerne et grunnlag for å kommunisere med andre lokalt og globalt, på tvers av kulturell og språklig bakgrunn. Faget skal forberede deltakerne på en utdanning og et samfunns- og arbeidsliv som stiller krav om engelskspråklig kompetanse i lesing, skriving og muntlig kommunikasjon. Engelsk skal bidra til livslang læring gjennom utvikling av læringsstrategier, metaspråklig bevissthet og digitale ferdigheter.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Gjennom arbeidet i faget skal deltakarane bli trygge språkbrukarar, slik at dei kan bruke engelsk for å lære, kommunisere og samhandle. Opplæringa skal fremje motivasjon og ei utforskande tilnærming til språk og kommunikasjon. Engelskfaget skal leggje til rette for at kompetansen og erfaringane, den kulturelle bakgrunnen og dei fleirspråklege ressursane til deltakarane kan anerkjennast og brukast aktivt i opplæring og vurdering. Deltakarane skal få erfare at det å kunne fleire språk er ein ressurs i opplæringa og i samfunnet. Kunnskaps- og erfaringsutveksling med menneske i alle aldrar og frå ulike stader i verda gir deltakarane perspektiv på eiga læring og eigen identitet og viser verdien av samarbeid på tvers av språk og kultur.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Gjennom arbeidet i faget skal deltakarane bli trygge språkbrukarar, slik at dei kan bruke engelsk for å lære, kommunisere og samhandle. Opplæringa skal fremje motivasjon og ei utforskande tilnærming til språk og kommunikasjon. Engelskfaget skal leggje til rette for at kompetansen og erfaringane, den kulturelle bakgrunnen og dei fleirspråklege ressursane til deltakarane kan anerkjennast og brukast aktivt i opplæring og vurdering. Deltakarane skal få erfare at det å kunne fleire språk er ein ressurs i opplæringa og i samfunnet. Kunnskaps- og erfaringsutveksling med menneske i alle aldrar og frå ulike stader i verda gir deltakarane perspektiv på eiga læring og eigen identitet og viser verdien av samarbeid på tvers av språk og kultur.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Gjennom arbeidet i faget skal deltakerne bli trygge språkbrukere, slik at de kan bruke engelsk for å lære, kommunisere og samhandle. Opplæringen skal fremme motivasjon og en utforskende tilnærming til språk og kommunikasjon. Engelskfaget skal legge til rette for at kompetansen og erfaringene, den kulturelle bakgrunnen og de flerspråklige ressursene til deltakerne kan anerkjennes og brukes aktivt i opplæring og vurdering. Deltakerne skal få erfare at det å kunne flere språk er en ressurs i opplæringen og i samfunnet. Kunnskaps- og erfaringsutveksling med mennesker i alle aldre og fra ulike steder i verden gir deltakerne perspektiv på egen læring og egen identitet og viser verdien av samarbeid på tvers av språk og kultur.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        },
+        "kjerneelementer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Kjerneelement"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Kjerneelement"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Kjerneelementer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "kjerneelementer": [
+                {
+                    "kode": "KE1515",
+                    "uri": "http://psi.udir.no/kl06/KE1515",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1515",
+                    "tittel": "Kommunikasjon",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "0a9b8d94-373b-42a3-ae2f-879f904cc3c5",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                {
+                    "kode": "KE1516",
+                    "uri": "http://psi.udir.no/kl06/KE1516",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1516",
+                    "tittel": "Språklæring",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "93a940ea-9eec-4d84-9bd1-633990e049b1",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                {
+                    "kode": "KE1517",
+                    "uri": "http://psi.udir.no/kl06/KE1517",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1517",
+                    "tittel": "Tekst i kontekst",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "253fbd1d-40b4-4a78-980a-74b8e64969d4",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                },
+                {
+                    "kode": "KE1518",
+                    "uri": "http://psi.udir.no/kl06/KE1518",
+                    "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1518",
+                    "tittel": "Interkulturell kompetanse",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "f528a9e0-1ad6-46f8-a470-235a132aa355",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                }
+            ]
+        },
+        "tverrfaglige-temaer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Tverrfaglege tema"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Tverrfaglege tema"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Tverrfaglige temaer"
+                    }
+                ],
+                "forskrift": true
+            },
+            "tverrfaglige-temaer": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Folkehelse og livsmeistring"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Folkehelse og livsmeistring"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Folkehelse og livsmestring"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I engelsk handlar det tverrfaglege temaet folkehelse og livsmeistring om å oppleve meistring gjennom å handtere situasjonar i eige liv som krev kompetanse i engelsk språk og interkulturell forståing. Det å forstå og kommunisere skriftleg og munnleg på engelsk gir fleire moglegheiter for å uttrykkje eigne kjensler, tankar, erfaringar og meiningar, noko som er viktig for å delta i sosiale fellesskap på tvers av språkleg og kulturell bakgrunn. Det handlar vidare om å forhalde seg kritisk til engelskspråkleg informasjon for å ta formålstenlege val i eige liv.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>I engelsk handlar det tverrfaglege temaet folkehelse og livsmeistring om å oppleve meistring gjennom å handtere situasjonar i eige liv som krev kompetanse i engelsk språk og interkulturell forståing. Det å forstå og kommunisere skriftleg og munnleg på engelsk gir fleire moglegheiter for å uttrykkje eigne kjensler, tankar, erfaringar og meiningar, noko som er viktig for å delta i sosiale fellesskap på tvers av språkleg og kulturell bakgrunn. Det handlar vidare om å forhalde seg kritisk til engelskspråkleg informasjon for å ta formålstenlege val i eige liv.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I engelsk handler det tverrfaglige temaet folkehelse og livsmestring om å oppleve mestring gjennom å håndtere situasjoner i eget liv som krever kompetanse i engelsk språk og interkulturell forståelse. Det å forstå og kommunisere skriftlig og muntlig på engelsk gir flere muligheter for å uttrykke egne følelser, tanker, erfaringer og meninger, noe som er viktig for å delta i sosiale fellesskap på tvers av språklig og kulturell bakgrunn. Det handler videre om å forholde seg kritisk til engelskspråklig informasjon for å ta hensiktsmessige valg i eget liv.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT1",
+                        "uri": "http://psi.udir.no/kl06/TT1",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
+                        "tittel": "Folkehelse og livsmestring",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4fbd99bd-0e3f-48b7-9de2-86086c50d5fc",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Demokrati og medborgarskap"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Demokrati og medborgarskap"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Demokrati og medborgerskap"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I engelsk handlar det tverrfaglege temaet demokrati og medborgarskap om å utvikle ferdigheiter i engelsk for å delta i samfunnet og i demokratiske prosessar. Ferdigheiter i engelsk gir tilgang til informasjon som er viktig for å kunne delta i demokrati på ulike plan i samfunn, arbeidsliv og utdanning. Engelsk opnar for kommunikasjon med fleire menneske lokalt og globalt, på tvers av språkleg og kulturell bakgrunn. Dette kan styrkje deltakarane si forståing av ulike tenkjemåtar og levesett og evna deira til å fremje eigne synspunkt og møte usemje.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>I engelsk handlar det tverrfaglege temaet demokrati og medborgarskap om å utvikle ferdigheiter i engelsk for å delta i samfunnet og i demokratiske prosessar. Ferdigheiter i engelsk gir tilgang til informasjon som er viktig for å kunne delta i demokrati på ulike plan i samfunn, arbeidsliv og utdanning. Engelsk opnar for kommunikasjon med fleire menneske lokalt og globalt, på tvers av språkleg og kulturell bakgrunn. Dette kan styrkje deltakarane si forståing av ulike tenkjemåtar og levesett og evna deira til å fremje eigne synspunkt og møte usemje.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I engelsk handler det tverrfaglige temaet demokrati og medborgerskap om å utvikle ferdigheter i engelsk for å delta i samfunnet og i demokratiske prosesser. Ferdigheter i engelsk gir tilgang til informasjon som er viktig for å kunne delta i demokrati på ulike plan i samfunn, arbeidsliv og utdanning. Engelsk åpner for kommunikasjon med flere mennesker lokalt og globalt, på tvers av språklig og kulturell bakgrunn. Dette kan styrke deltakernes forståelse av ulike tenkemåter og levesett og deres evne til å fremme egne synspunkter og møte uenighet.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT2",
+                        "uri": "http://psi.udir.no/kl06/TT2",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
+                        "tittel": "Demokrati og medborgerskap",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "18db0afa-5d3d-4719-9e48-4bcc10489238",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Berekraftig utvikling"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Berekraftig utvikling"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Bærekraftig utvikling"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>I engelsk handlar det tverrfaglege temaet berekraftig utvikling om å utforske og kommunisere om sosial rettferd og forsvarleg ressursbruk. Dette inneber å byggje på eigne erfaringar, innhente ny kunnskap og samhandle om berekraftige praksisar i eige liv og i samfunnet. Det handlar vidare om å ta i bruk engelsk som ein del av eit større språkleg repertoar, noko som kan bidra til å vareta språkleg og kulturelt mangfald.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>I engelsk handlar det tverrfaglege temaet berekraftig utvikling om å utforske og kommunisere om sosial rettferd og forsvarleg ressursbruk. Dette inneber å byggje på eigne erfaringar, innhente ny kunnskap og samhandle om berekraftige praksisar i eige liv og i samfunnet. Det handlar vidare om å ta i bruk engelsk som ein del av eit større språkleg repertoar, noko som kan bidra til å vareta språkleg og kulturelt mangfald.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>I engelsk handler det tverrfaglige temaet bærekraftig utvikling om å utforske og kommunisere om sosial rettferdighet og forsvarlig ressursbruk. Dette innebærer å bygge på egne erfaringer, innhente ny kunnskap og samhandle om bærekraftige praksiser i eget liv og i samfunnet. Det handler videre om å ta i bruk engelsk som en del av et større språklig repertoar, noe som kan bidra til å ivareta språklig og kulturelt mangfold.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "TT3",
+                        "uri": "http://psi.udir.no/kl06/TT3",
+                        "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
+                        "tittel": "Bærekraftig utvikling",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "e95e45b3-1b14-46b7-81b4-98968a9f67bf",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        },
+        "grunnleggende-ferdigheter-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Grunnleggjande ferdigheiter"
+                    },
+                    {
+                        "spraak": "nno",
+                        "verdi": "Grunnleggjande ferdigheiter"
+                    },
+                    {
+                        "spraak": "nob",
+                        "verdi": "Grunnleggende ferdigheter"
+                    }
+                ],
+                "forskrift": true
+            },
+            "grunnleggende-ferdigheter": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Munnlege ferdigheiter"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Munnlege ferdigheiter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Muntlige ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Munnlege ferdigheiter i engelsk er å kunne skape meining gjennom å lytte, tale og samtale. Utviklinga av munnlege ferdigheiter inneber å uttrykkje seg gradvis meir presist og tilpasse språket til formålet, mottakaren og situasjonen, i formelle og uformelle situasjonar og i møte med menneske med ulik språkleg bakgrunn. Samhandlingsstrategiar og eit variert språk knytt til kvardagsliv, samfunn, utdanning og arbeidsliv står sentralt i munnleg kommunikasjon og støttar vidareutviklinga av munnlege ferdigheiter i eit livslangt perspektiv.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Munnlege ferdigheiter i engelsk er å kunne skape meining gjennom å lytte, tale og samtale. Utviklinga av munnlege ferdigheiter inneber å uttrykkje seg gradvis meir presist og tilpasse språket til formålet, mottakaren og situasjonen, i formelle og uformelle situasjonar og i møte med menneske med ulik språkleg bakgrunn. Samhandlingsstrategiar og eit variert språk knytt til kvardagsliv, samfunn, utdanning og arbeidsliv står sentralt i munnleg kommunikasjon og støttar vidareutviklinga av munnlege ferdigheiter i eit livslangt perspektiv.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Muntlige ferdigheter i engelsk er å kunne skape mening gjennom å lytte, tale og samtale. Utviklingen av muntlige ferdigheter innebærer å uttrykke seg gradvis mer presist og tilpasse språket til formålet, mottakeren og situasjonen, i formelle og uformelle situasjoner og i møte med mennesker med ulik språklig bakgrunn. Samhandlingsstrategier og et variert språk knyttet til hverdagsliv, samfunn, utdanning og arbeidsliv står sentralt i muntlig kommunikasjon og støtter videreutviklingen av muntlige ferdigheter i et livslangt perspektiv.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF1",
+                        "uri": "http://psi.udir.no/kl06/GF1",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
+                        "tittel": "Muntlige ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4c7259cf-0623-4cd3-8745-e02d7bb3ee4b",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne skrive"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Å kunne skrive"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne skrive"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne skrive i engelsk er å uttrykkje seg forståeleg og formålstenleg i ulike typar tekstar både på papir og digitalt. Utviklinga av skriveferdigheiter går frå å skrive enkeltord og frasar til å skape ulike typar samanhengande tekstar i utdanning, samfunn og arbeidsliv i eit livslangt perspektiv. Å skrive handlar om å planleggje, forme ut og omarbeide tekst som er tilpassa mottakar, formål og situasjon. Det inneber å velje eigna skrivestrategiar og bruke ulike typar verktøy og kjelder på ein kritisk og etterretteleg måte.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Å kunne skrive i engelsk er å uttrykkje seg forståeleg og formålstenleg i ulike typar tekstar både på papir og digitalt. Utviklinga av skriveferdigheiter går frå å skrive enkeltord og frasar til å skape ulike typar samanhengande tekstar i utdanning, samfunn og arbeidsliv i eit livslangt perspektiv. Å skrive handlar om å planleggje, forme ut og omarbeide tekst som er tilpassa mottakar, formål og situasjon. Det inneber å velje eigna skrivestrategiar og bruke ulike typar verktøy og kjelder på ein kritisk og etterretteleg måte.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne skrive i engelsk er å uttrykke seg forståelig og hensiktsmessig i ulike typer tekster både på papir og digitalt. Utviklingen av skriveferdigheter går fra å skrive enkeltord og fraser til å skape ulike typer sammenhengende tekster i utdanning, samfunn og arbeidsliv i et livslangt perspektiv. Å skrive handler om å planlegge, utforme og bearbeide tekst som er tilpasset mottaker, formål og situasjon. Det innebærer å velge egnede skrivestrategier og bruke ulike typer verktøy og kilder på en kritisk og etterrettelig måte.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF2",
+                        "uri": "http://psi.udir.no/kl06/GF2",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
+                        "tittel": "Å kunne skrive",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "3dd652b3-5531-4daa-917e-5119d42a20ca",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne lese"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Å kunne lese"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Å kunne lese"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Å kunne lese i engelsk er å forstå og reflektere over formålet med og innhaldet i ulike typar tekstar på papir og digitalt, inkludert samansette tekstar, i utdanning, samfunn og arbeidsliv. Utviklinga av leseferdigheiter i engelsk går frå å oppdage forholdet mellom språklydar og teikn, stavemønster og stavingar til å lese varierte og komplekse tekstar med flyt og forståing og i stadig større grad kunne reflektere over og vurdere ulike typar tekstar kritisk. Lesing blir støtta opp av formålstenlege lesestrategiar og kan bidra til vidare språkinnlæring i eit livslangt perspektiv.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Å kunne lese i engelsk er å forstå og reflektere over formålet med og innhaldet i ulike typar tekstar på papir og digitalt, inkludert samansette tekstar, i utdanning, samfunn og arbeidsliv. Utviklinga av leseferdigheiter i engelsk går frå å oppdage forholdet mellom språklydar og teikn, stavemønster og stavingar til å lese varierte og komplekse tekstar med flyt og forståing og i stadig større grad kunne reflektere over og vurdere ulike typar tekstar kritisk. Lesing blir støtta opp av formålstenlege lesestrategiar og kan bidra til vidare språkinnlæring i eit livslangt perspektiv.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Å kunne lese i engelsk er å forstå og reflektere over formålet med og innholdet i ulike typer tekster på papir og digitalt, inkludert sammensatte tekster, i utdanning, samfunn og arbeidsliv. Utviklingen av leseferdigheter i engelsk går fra å oppdage forholdet mellom språklyder og tegn, stavemønstre og stavelser til å lese varierte og komplekse tekster med flyt og forståelse og i stadig større grad kunne reflektere over og vurdere ulike typer tekster kritisk. Lesing blir støttet opp av hensiktsmessige lesestrategier og kan bidra til videre språkinnlæring i et livslangt perspektiv.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF3",
+                        "uri": "http://psi.udir.no/kl06/GF3",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
+                        "tittel": "Å kunne lese",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "4fbb0383-5b71-449c-963b-6bfe36c99d9f",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Digitale ferdigheiter"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "Digitale ferdigheiter"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "Digitale ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "<p>Digitale ferdigheiter i engelsk er å bruke digitale ressursar for å styrkje språklæringa, møte autentisk språk og utvikle kunnskap i faget på ein gradvis meir sjølvstendig, bevisst og kritisk måte i eit livslangt perspektiv. Det inneber å finne, vurdere og bruke eigna kjelder til å skape munnlege og skriftlege tekstar. Det handlar også om å kunne delta i det digitale samfunnet og vere bevisst si eiga rolle i samhandling med andre.</p>"
+                            },
+                            {
+                                "spraak": "nno",
+                                "verdi": "<p>Digitale ferdigheiter i engelsk er å bruke digitale ressursar for å styrkje språklæringa, møte autentisk språk og utvikle kunnskap i faget på ein gradvis meir sjølvstendig, bevisst og kritisk måte i eit livslangt perspektiv. Det inneber å finne, vurdere og bruke eigna kjelder til å skape munnlege og skriftlege tekstar. Det handlar også om å kunne delta i det digitale samfunnet og vere bevisst si eiga rolle i samhandling med andre.</p>"
+                            },
+                            {
+                                "spraak": "nob",
+                                "verdi": "<p>Digitale ferdigheter i engelsk er å bruke digitale ressurser for å styrke språklæringen, møte autentisk språk og utvikle kunnskap i faget på en gradvis mer selvstendig, bevisst og kritisk måte i et livslangt perspektiv. Det innebærer å finne, vurdere og bruke egnede kilder til å skape muntlige og skriftlige tekster. Det handler også om å kunne delta i det digitale samfunnet og være bevisst sin egen rolle i samhandling med andre.</p>"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [],
+                    "referanse": {
+                        "kode": "GF5",
+                        "uri": "http://psi.udir.no/kl06/GF5",
+                        "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF5",
+                        "tittel": "Digitale ferdigheter",
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "c4dec77c-afed-49c8-ab49-ee36f40d218c",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+                    }
+                }
+            ]
+        }
+    },
+    "kompetansemaal-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Kompetansemål og vurdering"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Kompetansemål og vurdering"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Kompetansemål og vurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "kompetansemaalsett": [
+            {
+                "kode": "KV848",
+                "uri": "http://psi.udir.no/kl06/KV848",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV848",
+                "tittel": "Kompetansemål og vurdering modul 1",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "91b2d3a9-e35e-4dcd-9a66-5ca393ed9286",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            {
+                "kode": "KV850",
+                "uri": "http://psi.udir.no/kl06/KV850",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV850",
+                "tittel": "Kompetansemål og vurdering modul 2",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "1916180e-7cc2-4394-b704-2e4ed61d4369",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            {
+                "kode": "KV851",
+                "uri": "http://psi.udir.no/kl06/KV851",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV851",
+                "tittel": "Kompetansemål og vurdering modul 3",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "a60ed86f-42be-410e-a386-18d5bb183a35",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            {
+                "kode": "KV849",
+                "uri": "http://psi.udir.no/kl06/KV849",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV849",
+                "tittel": "Kompetansemål og vurdering modul 4",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "167852a7-7b8b-4817-b283-1ff7d8323166",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            }
+        ]
+    },
+    "vurderingsordning-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [],
+            "forskrift": true
+        },
+        "forklaring": []
+    },
+    "vurderingsordninger-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Vurderingsordning"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "vurderingsordninger": [
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Modulvurdering"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "Modulvurdering"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Modulvurdering"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Etter modul 1: Deltakaren skal ha éi vurdering. Karakterskalaen som skal brukast, er den tredelte skalaen låg måloppnåing, middels måloppnåing, høg måloppnåing.</p><p>Etter modul 2: Deltakaren skal ha éi vurdering. Karakterskalaen som skal brukast, er den tredelte skalaen låg måloppnåing, middels måloppnåing, høg måloppnåing.</p><p>Etter modul 3: Deltakaren skal ha éi vurdering.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Etter modul 1: Deltakaren skal ha éi vurdering. Karakterskalaen som skal brukast, er den tredelte skalaen låg måloppnåing, middels måloppnåing, høg måloppnåing.</p><p>Etter modul 2: Deltakaren skal ha éi vurdering. Karakterskalaen som skal brukast, er den tredelte skalaen låg måloppnåing, middels måloppnåing, høg måloppnåing.</p><p>Etter modul 3: Deltakaren skal ha éi vurdering.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Etter modul 1: Deltakeren skal ha én vurdering. Karakterskalaen som skal brukes, er den tredelte skalaen lav måloppnåelse, middels måloppnåelse, høy måloppnåelse.</p><p>Etter modul 2: Deltakeren skal ha én vurdering. Karakterskalaen som skal brukes, er den tredelte skalaen lav måloppnåelse, middels måloppnåelse, høy måloppnåelse.</p><p>Etter modul 3: Deltakeren skal ha én vurdering.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Standpunktvurdering"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "Standpunktvurdering"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Standpunktvurdering"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Etter modul 4: Deltakaren skal ha éin standpunktkarakter.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Etter modul 4: Deltakaren skal ha éin standpunktkarakter.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Etter modul 4: Deltakeren skal ha én standpunktkarakter.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Eksamen for deltakarar"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "Eksamen for deltakarar"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Eksamen for deltakere"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Etter modul 4: Deltakaren kan trekkjast ut til skriftleg eksamen. Eksamenen skal ha førebuingsdel. Skriftleg eksamen blir utarbeidd og sensurert sentralt. Deltakaren kan òg trekkjast ut til munnleg eksamen med førebuingsdel. Munnleg eksamen blir utarbeidd og sensurert lokalt.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Etter modul 4: Deltakaren kan trekkjast ut til skriftleg eksamen. Eksamenen skal ha førebuingsdel. Skriftleg eksamen blir utarbeidd og sensurert sentralt. Deltakaren kan òg trekkjast ut til munnleg eksamen med førebuingsdel. Munnleg eksamen blir utarbeidd og sensurert lokalt.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Etter modul 4: Deltakeren kan trekkes ut til skriftlig eksamen. Eksamen skal ha forberedelsesdel. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Deltakeren kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            },
+            {
+                "overskrift": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Eksamen for privatistar"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "Eksamen for privatistar"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "Eksamen for privatister"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "<p>Etter modul 4: Privatisten skal opp til skriftleg eksamen. Eksamenen skal ha førebuingsdel. Skriftleg eksamen blir utarbeidd og sensurert sentralt. I tillegg skal privatisten opp til munnleg eksamen. Munnleg eksamen blir utarbeidd og sensurert lokalt. Kommunen avgjer om privatistar skal få førebuingsdel ved lokalt gitt eksamen.</p>"
+                        },
+                        {
+                            "spraak": "nno",
+                            "verdi": "<p>Etter modul 4: Privatisten skal opp til skriftleg eksamen. Eksamenen skal ha førebuingsdel. Skriftleg eksamen blir utarbeidd og sensurert sentralt. I tillegg skal privatisten opp til munnleg eksamen. Munnleg eksamen blir utarbeidd og sensurert lokalt. Kommunen avgjer om privatistar skal få førebuingsdel ved lokalt gitt eksamen.</p>"
+                        },
+                        {
+                            "spraak": "nob",
+                            "verdi": "<p>Etter modul 4: Privatisten skal opp til skriftlig eksamen. Eksamen skal ha forberedelsesdel. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Kommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.</p>"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": []
+            }
+        ]
+    },
+    "tilleggsopplysninger": [],
+    "opprinnelige-planer": []
+}

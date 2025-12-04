@@ -1,0 +1,176 @@
+{
+    "rekkefoelge": 7,
+    "tilknyttede-tverrfaglige-temaer": [
+        {
+            "referanse": {
+                "kode": "TT2",
+                "uri": "http://psi.udir.no/kl06/TT2",
+                "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
+                "tittel": "Demokrati og medborgerskap",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "18db0afa-5d3d-4719-9e48-4bcc10489238",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "tilknyttede-kjerneelementer": [
+        {
+            "referanse": {
+                "kode": "KE1590",
+                "uri": "http://psi.udir.no/kl06/KE1590",
+                "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1590",
+                "tittel": "Språklæring",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "f4dd87c0-0e26-4cb6-83cd-cc9d2b82c920",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "tilknyttede-grunnleggende-ferdigheter": [
+        {
+            "referanse": {
+                "kode": "GF1",
+                "uri": "http://psi.udir.no/kl06/GF1",
+                "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
+                "tittel": "Muntlige ferdigheter",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "4c7259cf-0623-4cd3-8745-e02d7bb3ee4b",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        },
+        {
+            "referanse": {
+                "kode": "GF3",
+                "uri": "http://psi.udir.no/kl06/GF3",
+                "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
+                "tittel": "Å kunne lese",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "4fbb0383-5b71-449c-963b-6bfe36c99d9f",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "tilknyttede-verb": [
+        {
+            "kode": "VERB3",
+            "uri": "http://psi.udir.no/kl06/VERB3",
+            "url-data": "https://data.udir.no/kl06/v201906/verb-lk20/VERB3",
+            "tittel": "Utforske"
+        },
+        {
+            "kode": "VERB18",
+            "uri": "http://psi.udir.no/kl06/VERB18",
+            "url-data": "https://data.udir.no/kl06/v201906/verb-lk20/VERB18",
+            "tittel": "Bruke"
+        }
+    ],
+    "bygger-paa": [
+        {
+            "referanse": {
+                "kode": "KM11854",
+                "uri": "http://psi.udir.no/kl06/KM11854",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM11854",
+                "tittel": "oppdage og leke med ord og uttrykk som er felles for engelsk og andre språk eleven kjenner til",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "ada2bc0b-ffd6-404d-aeea-996a71725402",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "samme-som": [],
+    "tilhoerer-kompetansemaalsett": {
+        "kode": "KV908",
+        "uri": "http://psi.udir.no/kl06/KV908",
+        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV908",
+        "tittel": "Kompetansemål og vurdering 7. trinn ",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "fbd669a8-a719-483d-a1e0-b40cebc0d5b4",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "tilhoerer-laereplan": {
+        "kode": "ENG02-05",
+        "uri": "http://psi.udir.no/kl06/ENG02-05",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ENG02-05",
+        "tittel": "Læreplan i engelsk for elever med tegnspråk",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "72f9752b-ea86-4922-9c51-edfaaf13493b",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "gjenbruk-av": {
+        "kode": "KM176",
+        "uri": "http://psi.udir.no/kl06/KM176",
+        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM176",
+        "tittel": "utforske og samtale om noen språklige likheter mellom engelsk og andre språk eleven kjenner til, og bruke dette i egen språklæring",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "1b732c69-988e-453d-9d49-3a058e7555bf",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+    },
+    "hentet-fra": null,
+    "id": "9c1d0b60-bb13-457f-a18e-7c191407aa94",
+    "kode": "KM11869",
+    "uri": "http://psi.udir.no/kl06/KM11869",
+    "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM11869",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "utforske og samtale om noen språklige likheter mellom engelsk og andre språk eleven kjenner til, og bruke dette i egen språklæring"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "utforske og samtale om noen språklige likheter mellom engelsk og andre språk eleven kjenner til, og bruke dette i egen språklæring"
+            }
+        ],
+        "forskrift": true
+    },
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+    "forklaring": [
+        {
+            "spraak": "default",
+            "verdi": "<p>Med 'andre språk eleven kjenner til' mener vi alle språk eleven har noe kunnskap om. Dette kan være morsmålet og andre språk eleven snakker, eller språk eleven har møtt på reise eller i andre sammenhenger og kan noen ord på. All slik språkkunnskap kan være til nytte for å lære engelsk.</p>"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "<p>Med 'andre språk eleven kjenner til' mener vi alle språk eleven har noe kunnskap om. Dette kan være morsmålet og andre språk eleven snakker, eller språk eleven har møtt på reise eller i andre sammenhenger og kan noen ord på. All slik språkkunnskap kan være til nytte for å lære engelsk.</p>"
+        }
+    ],
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2024-12-13T15:46:39.0601729"
+}

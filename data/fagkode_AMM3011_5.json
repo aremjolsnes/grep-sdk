@@ -1,0 +1,307 @@
+{
+    "id": "uuid:cd9889bd-20ef-466d-8221-f594b099fb92",
+    "kode": "AMM3011",
+    "uri": "http://psi.udir.no/kl06/AMM3011",
+    "url-data": "https://data.udir.no/kl06/v201906/fagkoder/AMM3011",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Anleggsmaskinmekanikerfaget"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Heavy Equipment Repair and Maintenance"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Anleggsmaskinmekanikarfaget"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Anleggsmaskinmekanikerfaget"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Bargomašiidnamekanihkarfága"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2023-05-30T13:00:46.420127",
+    "merkelapper": [],
+    "vurderingsordning": [
+        {
+            "trekkordning": {
+                "kode": "trekkordning_3",
+                "uri": "http://psi.udir.no/kl06/trekkordning_3",
+                "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_3",
+                "tittel": "Obligatorisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/trekkordning_3",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "type-eksamensordning": {
+                "kode": "eksamensordning_15",
+                "uri": "http://psi.udir.no/kl06/eksamensordning_15",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_15",
+                "tittel": "Fagprøve + skriftlig",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/eksamensordning_15",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "vurderingsuttrykk": {
+                "kode": "vurderingsuttrykk_bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "tittel": "Bestått meget godt/Bestått/Ikke bestått",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/vurderingsform/bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "eksamensform-paa-vitnemaalet": {
+                "kode": "eksamensform_6",
+                "uri": "http://psi.udir.no/kl06/eksamensform_6",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_6",
+                "tittel": "Fagprøve",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/eksamensform/vitnemaal/fagproeve",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "elevtype": "http://psi.udir.no/ontologi/eksamen_vurdering_elev",
+            "standpunktvurdering": false,
+            "modulvurdering": false,
+            "halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO": false,
+            "hoeyeste-nivaa": false
+        },
+        {
+            "trekkordning": {
+                "kode": "trekkordning_3",
+                "uri": "http://psi.udir.no/kl06/trekkordning_3",
+                "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_3",
+                "tittel": "Obligatorisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/trekkordning_3",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "type-eksamensordning": {
+                "kode": "eksamensordning_15",
+                "uri": "http://psi.udir.no/kl06/eksamensordning_15",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_15",
+                "tittel": "Fagprøve + skriftlig",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/eksamensordning_15",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "vurderingsuttrykk": {
+                "kode": "vurderingsuttrykk_bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "tittel": "Bestått meget godt/Bestått/Ikke bestått",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/vurderingsform/bestaatt_meget_godt_bestaatt_ikke_bestaatt",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "eksamensform-paa-vitnemaalet": {
+                "kode": "eksamensform_6",
+                "uri": "http://psi.udir.no/kl06/eksamensform_6",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_6",
+                "tittel": "Fagprøve",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/eksamensform/vitnemaal/fagproeve",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "elevtype": "http://psi.udir.no/ontologi/eksamen_vurdering_privatist",
+            "standpunktvurdering": false,
+            "modulvurdering": false,
+            "halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO": false,
+            "hoeyeste-nivaa": false
+        }
+    ],
+    "opplaeringsfag": [
+        {
+            "kode": "AMM3Z04",
+            "uri": "http://psi.udir.no/kl06/AMM3Z04",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/AMM3Z04",
+            "tittel": "Feilsøking, reparasjon og vedlikehold",
+            "gyldighet": {
+                "gyldig-fra": "2022-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:67a14682-8a13-421d-b47e-66d5559c9e78",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "AMM3Z05",
+            "uri": "http://psi.udir.no/kl06/AMM3Z05",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/AMM3Z05",
+            "tittel": "Vurdering, dokumentasjon og kontroll",
+            "gyldighet": {
+                "gyldig-fra": "2022-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:fa99d6ed-f8f6-46ad-abce-33ba930ec859",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilleggseksamen-ikke-normalt-loep": [
+        {
+            "kode": "AMK2102",
+            "uri": "http://psi.udir.no/kl06/AMK2102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/AMK2102",
+            "tittel": "Arbeidsmaskiner",
+            "gyldighet": {
+                "gyldig-fra": "2022-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:2ecc6c6c-5ed6-4266-99ef-bb2005894054",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "benyttes-sammen-med": [],
+    "spraaknivaa": null,
+    "erstatter": [],
+    "erstattes-av": [],
+    "omfang-totalt": null,
+    "omfang-vitnemaal": null,
+    "omfang-til-naa": null,
+    "naar-kan-man-ta-eksamen": {
+        "foerste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vår 2023"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vår 2023"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_vaar_2023",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2023",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        },
+        "siste-semester": null
+    },
+    "naar-gis-det-undervisning": {
+        "foerste-semester": null,
+        "siste-semester": null
+    },
+    "sensur": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Lokal"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Lokal"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/sensur_lokal",
+        "url-data": "https://data.udir.no/kl06/v201906/sensur/sensur_lokal",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/sensur"
+    },
+    "oppgave": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Lokal"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Lokal"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/oppgave_lokal",
+        "url-data": "https://data.udir.no/kl06/v201906/oppgave/oppgave_lokal",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/oppgave"
+    },
+    "tilleggsopplysninger": [],
+    "bygger-paa-fag": [],
+    "gyldig-fra": "2023-01-01T00:00:00",
+    "gyldig-til": null,
+    "iso-639-2-kode": null,
+    "fagtype": {
+        "kode": "fagtype_felles_programfag",
+        "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
+        "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
+        "tittel": "Felles programfag",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/felles_programfag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "opplaeringsnivaa": {
+        "kode": "opplaeringsnivaa_videregaaende",
+        "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+        "tittel": "Videregående opplæring",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Anleggsmaskinmekanikerfaget"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Heavy Equipment Repair Maint."
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Anleggsmaskinmekanikarfaget"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Anleggsmaskinmekanikerfaget"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Bargomašiidnamekanihkarfága"
+        }
+    ]
+}

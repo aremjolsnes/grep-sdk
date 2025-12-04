@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "udir-grep"
+version = "0.9.0"
+description = "Offisiell Python SDK for Grep (Kunnskapsløftet)"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.25.0",
+    "pydantic>=2.0.0"
+]
+authors = [
+  { name = "Utdanningsdirektoratet", email = "post@udir.no" },
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["python_sdk"]

@@ -1,0 +1,49 @@
+{
+    "id": "uuid:5c604fd0-0e77-42f9-8c9a-b591b0dc6d93",
+    "kode": "K1",
+    "uri": "http://psi.udir.no/kl06/K1",
+    "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "bruke tekniske tegninger, spesifikasjoner og standarder"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "bruke tekniske tegninger, spesifikasjoner og standarder"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2005-08-01T00:00:00",
+    "laereplan-referanser": [
+        {
+            "tilhoerende-kompetansemaalsett": [
+                {
+                    "kode": "KMS629",
+                    "uri": "http://psi.udir.no/kl06/KMS629",
+                    "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett/KMS629",
+                    "tittel": "Etter Vg3",
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "uuid:7f5503a1-205f-4139-9ec2-3fada896bac2",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                }
+            ],
+            "kode": "DKO3-01",
+            "uri": "http://psi.udir.no/kl06/DKO3-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/DKO3-01",
+            "tittel": "Læreplan i dimensjonskontrollfaget Vg3 / opplæring i bedrift",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:005b30a1-7e25-4502-b967-a0d5f9bf380b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ]
+}

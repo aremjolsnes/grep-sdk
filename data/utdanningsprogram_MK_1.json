@@ -1,0 +1,138 @@
+{
+    "id": "http://psi.udir.no/ontologi/utdanningsprogram/medier_kommunikasjon",
+    "kode": "MK",
+    "uri": "http://psi.udir.no/kl06/MK",
+    "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/MK",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Medier og kommunikasjon"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Media and Communication"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Medium og kommunikasjon"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Medier og kommunikasjon"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Mediat ja gulahallan"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "tidligere-navn": [],
+    "sist-endret": "2020-01-03T11:33:33.5552678",
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Medier og kommunikasjon"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Media and Communication"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Medium og kommunikasjon"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Medier og kommunikasjon"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Mediat ja gulahallan"
+        }
+    ],
+    "type-utdanningsprogram": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Yrkesfaglig utdanningsprogram"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Yrkesfaglig utdanningsprogram"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/utdanningsprogramtype_yrkesfaglig",
+        "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogramtype/utdanningsprogramtype_yrkesfaglig",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogramtype"
+    },
+    "tilleggsopplysninger": [
+        {
+            "spraak": "default",
+            "verdi": "Medier og kommunikasjon endres fra høsten 2016. De elevene som startet på utdanningsprogram for medier og kommunikasjon høsten 2015 eller tidligere fullfører hele løpet etter nåværende ordning. Se: http://www.udir.no/Regelverk/Horinger/Ferdigbehandlede-saker/Horing-om-omgjoring-av-utdanningsprogram-for-medier-og-kommunikasjon-1/"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Medier og kommunikasjon endres fra høsten 2016. De elevene som startet på utdanningsprogram for medier og kommunikasjon høsten 2015 eller tidligere fullfører hele løpet etter nåværende ordning. Se: http://www.udir.no/Regelverk/Horinger/Ferdigbehandlede-saker/Horing-om-omgjoring-av-utdanningsprogram-for-medier-og-kommunikasjon-1/"
+        }
+    ],
+    "erstatter": [],
+    "erstattes-av": [
+        {
+            "kode": "IM",
+            "uri": "http://psi.udir.no/kl06/IM",
+            "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/IM",
+            "tittel": "Informasjonsteknologi og medieproduksjon",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/utdanningsprogram/ikt_medieproduksjon",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "ME",
+            "uri": "http://psi.udir.no/kl06/ME",
+            "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/ME",
+            "tittel": "Medier og kommunikasjon",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/utdanningsprogram/medier_og_kommunikasjon",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "foerste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Høst 2006"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Høst 2006"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_hoest_2006",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2006",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "siste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Vår 2019"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Vår 2019"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_vaar_2019",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2019",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    }
+}

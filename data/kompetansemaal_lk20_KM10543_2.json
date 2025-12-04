@@ -1,0 +1,171 @@
+{
+    "rekkefoelge": 1,
+    "tilknyttede-tverrfaglige-temaer": [
+        {
+            "referanse": {
+                "kode": "TT3",
+                "uri": "http://psi.udir.no/kl06/TT3",
+                "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
+                "tittel": "Bærekraftig utvikling",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "e95e45b3-1b14-46b7-81b4-98968a9f67bf",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "tilknyttede-kjerneelementer": [
+        {
+            "referanse": {
+                "kode": "KE1453",
+                "uri": "http://psi.udir.no/kl06/KE1453",
+                "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1453",
+                "tittel": "Produksjon av trevarer",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "d073235f-e3fc-4243-bb0d-3b45927c5cc7",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        },
+        {
+            "referanse": {
+                "kode": "KE1454",
+                "uri": "http://psi.udir.no/kl06/KE1454",
+                "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1454",
+                "tittel": "Kvalitetssikring av produkt og arbeidsprosessar",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "783c03dc-bce1-4d6c-bf38-01ec9675a530",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "tilknyttede-grunnleggende-ferdigheter": [
+        {
+            "referanse": {
+                "kode": "GF3",
+                "uri": "http://psi.udir.no/kl06/GF3",
+                "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
+                "tittel": "Å kunne lese",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "4fbb0383-5b71-449c-963b-6bfe36c99d9f",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "tilknyttede-verb": [
+        {
+            "kode": "VERB9",
+            "uri": "http://psi.udir.no/kl06/VERB9",
+            "url-data": "https://data.udir.no/kl06/v201906/verb-lk20/VERB9",
+            "tittel": "Vurdere"
+        },
+        {
+            "kode": "VERB12",
+            "uri": "http://psi.udir.no/kl06/VERB12",
+            "url-data": "https://data.udir.no/kl06/v201906/verb-lk20/VERB12",
+            "tittel": "Planlegge"
+        }
+    ],
+    "bygger-paa": [
+        {
+            "referanse": {
+                "kode": "KM3340",
+                "uri": "http://psi.udir.no/kl06/KM3340",
+                "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3340",
+                "tittel": "planlegge produksjon av treprodukter og arbeide etter tegninger, beskrivelser og preaksepterte løsninger",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "1fb1cf0c-6756-4d05-95ff-8dcdc76ac87f",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "forklaring": []
+        }
+    ],
+    "samme-som": [],
+    "tilhoerer-kompetansemaalsett": {
+        "kode": "KV788",
+        "uri": "http://psi.udir.no/kl06/KV788",
+        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV788",
+        "tittel": "Kompetansemål og vurdering planleggjing",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "e560126c-d827-40c8-965a-7e474af823cb",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "tilhoerer-laereplan": {
+        "kode": "SNE05-01",
+        "uri": "http://psi.udir.no/kl06/SNE05-01",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/SNE05-01",
+        "tittel": "Læreplan i snikkarfaget med fordjupingsområde – modulstrukturert opplæring for vaksne",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "20d38f9d-b596-491c-af72-18ac10888d49",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "gjenbruk-av": null,
+    "hentet-fra": {
+        "kode": "KM9765",
+        "uri": "http://psi.udir.no/kl06/KM9765",
+        "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM9765",
+        "tittel": "planleggje å produsere produkt, arbeide etter teikningar, beskrivingar, preaksepterte løysingar og toleransekrav og vurdere arbeidet med tanke på arbeidsoppdraget, kostnadseffektivitet og verknader for miljøet",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "c6efc305-4259-4c41-b499-13a65eb80051",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "id": "23a1fef0-ebd6-48b5-85c9-39f8bd438b7b",
+    "kode": "KM10543",
+    "uri": "http://psi.udir.no/kl06/KM10543",
+    "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM10543",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "planleggje å produsere produkt, arbeide etter teikningar, beskrivingar, preaksepterte løysingar og toleransekrav og vurdere arbeidet med tanke på arbeidsoppdraget, kostnadseffektivitet og verknader for miljøet"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "planleggje å produsere produkt, arbeide etter teikningar, beskrivingar, preaksepterte løysingar og toleransekrav og vurdere arbeidet med tanke på arbeidsoppdraget, kostnadseffektivitet og verknader for miljøet"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "planlegge å produsere produkter, arbeide etter tegninger, beskrivelser, preaksepterte løsninger og toleransekrav og vurdere arbeidet med tanke på arbeidsoppdraget, kostnadseffektivitet og virkninger for miljøet"
+            }
+        ],
+        "forskrift": true
+    },
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+    "forklaring": [],
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2025-09-11T15:20:53.433792"
+}

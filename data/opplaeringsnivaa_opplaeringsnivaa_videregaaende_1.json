@@ -1,0 +1,31 @@
+{
+    "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+    "kode": "opplaeringsnivaa_videregaaende",
+    "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+    "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Videregående opplæring"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Upper secondary education"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Vidaregåande opplæring"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Videregående opplæring"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2025-02-26T13:58:02.3364918",
+    "kortform": [],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 2
+}

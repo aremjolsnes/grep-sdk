@@ -1,0 +1,32 @@
+{
+    "id": "http://psi.udir.no/ontologi/utdanningsprogram_studieforberedende",
+    "kode": "utdanningsprogramtype_studieforberedende",
+    "uri": "http://psi.udir.no/kl06/utdanningsprogramtype_studieforberedende",
+    "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogramtype/utdanningsprogramtype_studieforberedende",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Studieforberedende utdanningsprogram"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Studieforberedende utdanningsprogram"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "ST"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "ST"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogramtype",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2015-09-17T11:06:57.9116019",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

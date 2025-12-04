@@ -1,0 +1,129 @@
+{
+    "id": "uuid:13cd0eb1-9943-474d-b748-c204d920778a",
+    "kode": "HO1599",
+    "uri": "http://psi.udir.no/kl06/HO1599",
+    "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1599",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Jødedom, islam, hinduisme, buddhisme og livssyn"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Jødedom, islam, hinduisme, buddhisme og livssyn"
+        },
+        {
+            "spraak": "sma",
+            "verdi": "Juvdelassjevoete, islaame, hinduisme, buddhisme jïh jieledevuajnoe"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Juvddálašvuohta, isláma, hinduisma, buddhisma ja eallinoaidnu"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "<p class=\"grep\">Hovedområdet <span class=\"grep\"><i>jødedom, islam, hinduisme, buddhisme og livssyn </i></span>omfatter disse religioner og utvalgte livssyn i historisk perspektiv, deres skrifttradisjoner som kilde til kulturforståelse og tro og hvordan disse religioner og livssyn blir forstått og praktisert i verden og i Norge i dag. På ungdomstrinnet skal dette hovedområdet også gi innblikk i andre religioner og livssyn som er representert i Norge, og i annet religiøst og livssynsmessig mangfold.</p>"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "<p class=\"grep\">Hovedområdet <span class=\"grep\"><i>jødedom, islam, hinduisme, buddhisme og livssyn </i></span>omfatter disse religioner og utvalgte livssyn i historisk perspektiv, deres skrifttradisjoner som kilde til kulturforståelse og tro og hvordan disse religioner og livssyn blir forstått og praktisert i verden og i Norge i dag. På ungdomstrinnet skal dette hovedområdet også gi innblikk i andre religioner og livssyn som er representert i Norge, og i annet religiøst og livssynsmessig mangfold.</p>"
+        },
+        {
+            "spraak": "sma",
+            "verdi": "<p class=\"grep\">Åejviesuerkie <i>juvdelassjevoete, islaame, hinduisme, buddhisme jïh jieledevuajnoe </i>lea daej religijovni bïjre jïh vaeljehke jieledevuajnoej bïjre aktene histovrijes perspektijvesne, dej tjaalegeaerpievuekiej bïjre goh gaaltije kultuvregoerkesasse jïh jaahkose, jïh guktie dah religijovnh jïh jieledevuajnoeh guarkeme sjidtieh jïh åtnasuvvieh veartenisnie jïh Nöörjesne daan biejjien. Noeredaltesisnie daate åejviesuerkie edtja aaj daajroem vedtedh jeatjah religijovni jïh jieledevuajnoej bïjre mah gååvnesieh Nöörjesne, jïh jeatjah religijööse jïh jieledevuajnoeligke gellievoetesne.</p><p class=\"grep\"><span class=\"grep\" /></p>"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "<p class=\"grep\">Váldooassái <i>juvddálašvuohta, isláma, hinduisma, buddhisma ja eallinoaidnu </i>gullet dát oskkut ja válljejuvvon eallinoainnut historjjálaš geahččanguovllus, dáid oskkuid čálaárbevierut kulturipmárdusa ja oskku gáldun, ja movt dát oskkut ja eallinoainnut ipmirduvvojit ja čađahuvvojit máilmmis ja Norggas dán áiggi. Nuoraidceahkis galgá dát váldooassi maid addit dieđuid eará oskkuin ja eallinoainnuin mat dál gávdnojit Norggas, ja eará oskkolaš ja eallinoinnolaš girjáivuođas.</p>"
+        }
+    ],
+    "underliggende-hovedomraader": [
+        {
+            "rekkefoelge": 1,
+            "kode": "HO1598",
+            "uri": "http://psi.udir.no/kl06/HO1598",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1598",
+            "tittel": "Jødedom",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:731e4a28-ea2e-4d5d-971e-ac6eaaba2953",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "rekkefoelge": 2,
+            "kode": "HO1606",
+            "uri": "http://psi.udir.no/kl06/HO1606",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1606",
+            "tittel": "Islam",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:87eca5b1-c503-4f71-97f8-c385511d5479",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "rekkefoelge": 3,
+            "kode": "HO1603",
+            "uri": "http://psi.udir.no/kl06/HO1603",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1603",
+            "tittel": "Hinduisme",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:969aae82-4b75-4914-87f3-06b75a1370fa",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "rekkefoelge": 4,
+            "kode": "HO1601",
+            "uri": "http://psi.udir.no/kl06/HO1601",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1601",
+            "tittel": "Buddhisme",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:35c036a8-7265-4cef-98be-642b28feb1d9",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "rekkefoelge": 5,
+            "kode": "HO1602",
+            "uri": "http://psi.udir.no/kl06/HO1602",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1602",
+            "tittel": "Livssyn",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:00432c6f-c7bb-4d32-bd50-054f72c7b3ff",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "rekkefoelge": 6,
+            "kode": "HO1597",
+            "uri": "http://psi.udir.no/kl06/HO1597",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1597",
+            "tittel": "Religiøst mangfold",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5a5dbdba-5fd5-4432-94aa-8e79d2ee9bb0",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ]
+}

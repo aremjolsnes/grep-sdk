@@ -1,0 +1,216 @@
+{
+    "id": "uuid:43dd2510-435a-4567-938c-8c7290f640b5",
+    "kode": "FAM11",
+    "uri": "http://psi.udir.no/kl06/FAM11",
+    "url-data": "https://data.udir.no/kl06/v201906/merknader/FAM11",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "<morsmålets navn>"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "<name of native language>"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "<morsmålets namn>"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "<morsmålets navn>"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "<eatnigiela namma>"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/merknad",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2019-01-09T10:47:26.4448571",
+    "relaterte-aarstrinn": [],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_grunnskole",
+            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_grunnskole",
+            "tittel": "Grunnskole",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_grunnskole",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "<morsmålets navn>"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "<name of native language>"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "<morsmålets namn>"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "<morsmålets navn>"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "<eatnigiela namma>"
+        }
+    ],
+    "merknads-type": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Fagmerknad"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Fagmerknad"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/merknadstype_fagmerknad",
+        "url-data": "https://data.udir.no/kl06/v201906/merknadstype/merknadstype_fagmerknad",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/merknadstype"
+    },
+    "dokumenttype": [
+        {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vitnemål"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Vitnemål"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vitnemål"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/dokumenttype_vitnemaal",
+            "url-data": "https://data.udir.no/kl06/v201906/dokumenttype/dokumenttype_vitnemaal",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/dokumenttype"
+        }
+    ],
+    "relaterte-fag": [
+        {
+            "kode": "NOR0803",
+            "uri": "http://psi.udir.no/kl06/NOR0803",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0803",
+            "tittel": "Morsmål for språklige minoriteter, nivå 1, 10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2006-08-01T00:00:00",
+                "gyldig-til": "2011-07-31T00:00:00"
+            },
+            "id": "uuid:8571bd32-8d8c-4de2-8a67-39391a7106e0",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "NOR0806",
+            "uri": "http://psi.udir.no/kl06/NOR0806",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0806",
+            "tittel": "Morsmål for språklige minoriteter, nivå 2, 10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2006-08-01T00:00:00",
+                "gyldig-til": "2011-07-31T00:00:00"
+            },
+            "id": "uuid:71cd9d5d-9fe2-43a6-ac64-bd38ae2f49ed",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "NOR0809",
+            "uri": "http://psi.udir.no/kl06/NOR0809",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0809",
+            "tittel": "Morsmål for språklige minoriteter, nivå 3, 10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2006-08-01T00:00:00",
+                "gyldig-til": "2011-07-31T00:00:00"
+            },
+            "id": "uuid:c4f3d9cc-33b5-4a09-bec4-4b0dbfa63eb3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid from"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld frå <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder fra <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raejeste"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rájes"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rájes"
+                }
+            ],
+            "dato": "2006-08-01T00:00:00"
+        },
+        "gyldig-til": {
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "eng",
+                    "verdi": "Valid to"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Gjeld til <>"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Gjelder til <>"
+                },
+                {
+                    "spraak": "sma",
+                    "verdi": "Faamosne <> raaajan"
+                },
+                {
+                    "spraak": "sme",
+                    "verdi": "Gusto <> rádjái"
+                },
+                {
+                    "spraak": "smj",
+                    "verdi": "Fámon <> rádjáj"
+                }
+            ],
+            "dato": "2011-07-31T00:00:00"
+        }
+    },
+    "krav-om-vedlegg": false,
+    "merknad-bruksomraade": "Ble benyttet ved føring av morsmål nivå 1-3 for 10. trinn i grunnskolen. Fra 2012 benyttes ordinær norskkode, se føring av kompetansebevis i grunnskolen fra 2012."
+}

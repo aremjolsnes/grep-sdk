@@ -1,0 +1,41 @@
+{
+    "id": "uuid:1cdc6fb3-5986-45da-ac41-4fe5ac34de70",
+    "kode": "aarstrinn_fov",
+    "uri": "http://psi.udir.no/kl06/aarstrinn_fov",
+    "url-data": "https://data.udir.no/kl06/v201906/semester/aarstrinn_fov",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Forberedende opplæring for voksne"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Førebuande opplæring for vaksne"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Forberedende opplæring for voksne"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2024-06-13T07:50:29.8029215",
+    "numerisk-verdi": 10,
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "FOV"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "FOV"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "FOV"
+        }
+    ],
+    "gyldig-fra": "2024-06-01T00:00:00",
+    "gyldig-til": null,
+    "rekkefoelge": 18
+}

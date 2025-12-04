@@ -1,0 +1,32 @@
+{
+    "id": "http://psi.udir.no/ontologi/opplaeringssted/bedrift",
+    "kode": "opplaeringssted_bedrift",
+    "uri": "http://psi.udir.no/kl06/opplaeringssted_bedrift",
+    "url-data": "https://data.udir.no/kl06/v201906/opplaeringssted/opplaeringssted_bedrift",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Bedrift"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Bedrift"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Bedrift"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Bedrift"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringssted",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2015-09-17T11:09:19.8027533",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 2
+}

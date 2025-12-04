@@ -1,0 +1,144 @@
+{
+    "id": "uuid:7763aae6-7662-4ff0-9e77-9a659e155796",
+    "kode": "STUSP1----",
+    "uri": "http://psi.udir.no/kl06/STUSP1----",
+    "url-data": "https://data.udir.no/kl06/v201906/programomraader/STUSP1----",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Studiespesialisering"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Specialization in General Studies vg1"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Studiespesialisering"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Studiespesialisering"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Oahppospesialiseren jo1"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2022-01-17T11:36:23.5175551",
+    "merkelapper": [],
+    "utdanningsprogram-referanse": [
+        {
+            "kode": "ST",
+            "uri": "http://psi.udir.no/kl06/ST",
+            "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/ST",
+            "tittel": "Studiespesialisering",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/utdanningsprogram/studiespesialisering",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Studiespesialisering"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "General studies specialization"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Studiespesialisering"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Studiespesialisering"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Oahppospesialiseren"
+        }
+    ],
+    "landslinje": false,
+    "landsdekkende-linje": false,
+    "programomraade-type": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Skole(Elev)"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Skole(Elev)"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/programomraadetype_skole",
+        "url-data": "https://data.udir.no/kl06/v201906/programomraadetype/programomraadetype_skole",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/programomraadetype"
+    },
+    "aarstimer": "842",
+    "aarstimer-samisk": "822",
+    "aarstimer-doeve-og-tunghoerte": "804",
+    "aarstimer-formgivningsfag": "982",
+    "tilleggsopplysninger": [],
+    "foerste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Høst 2006"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Høst 2006"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_hoest_2006",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2006",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "siste-semester": null,
+    "aarstrinn": {
+        "kode": "vg1",
+        "uri": "http://psi.udir.no/kl06/vg1",
+        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg1",
+        "tittel": "Videregående trinn 1",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/laereplan/aarstrinn/vg1",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "bygger-paa-programomraade": [],
+    "erstatter": [],
+    "erstattes-av": [],
+    "yrkestittel": [],
+    "opplaeringssted": [
+        {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Skole"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Skole"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/opplaeringssted_skole",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringssted/opplaeringssted_skole",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringssted"
+        }
+    ],
+    "sluttkompetanse": [],
+    "opplaeringstid": "1,00",
+    "verdiskapingstid": null
+}

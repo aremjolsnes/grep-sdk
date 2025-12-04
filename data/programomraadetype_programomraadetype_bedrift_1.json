@@ -1,0 +1,23 @@
+{
+    "id": "http://psi.udir.no/ontologi/type_programomraade_bedrift",
+    "kode": "programomraadetype_bedrift",
+    "uri": "http://psi.udir.no/kl06/programomraadetype_bedrift",
+    "url-data": "https://data.udir.no/kl06/v201906/programomraadetype/programomraadetype_bedrift",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Bedrift(Lærling)"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Bedrift(Lærling)"
+        }
+    ],
+    "kortform": [],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/programomraadetype",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2005-08-01T00:00:00",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

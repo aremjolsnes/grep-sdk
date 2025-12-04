@@ -1,0 +1,23 @@
+{
+    "id": "http://psi.udir.no/kl06/oppgave_lokal",
+    "kode": "oppgave_lokal",
+    "uri": "http://psi.udir.no/kl06/oppgave_lokal",
+    "url-data": "https://data.udir.no/kl06/v201906/oppgave/oppgave_lokal",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Lokal"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Lokal"
+        }
+    ],
+    "kortform": [],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/oppgave",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2023-04-20T10:38:18.0403627",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

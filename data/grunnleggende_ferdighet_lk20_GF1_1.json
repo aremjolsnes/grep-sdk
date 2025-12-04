@@ -1,0 +1,41 @@
+{
+    "lenke-til-beskrivelse": null,
+    "rekkefoelge": 1,
+    "id": "4c7259cf-0623-4cd3-8745-e02d7bb3ee4b",
+    "kode": "GF1",
+    "uri": "http://psi.udir.no/kl06/GF1",
+    "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Muntlige ferdigheter"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Oral skills"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Munnlege ferdigheiter"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Muntlige ferdigheter"
+        },
+        {
+            "spraak": "sma",
+            "verdi": "Njaalmeldh tjiehpiesvoeth"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Njálmmálaš gálggat"
+        },
+        {
+            "spraak": "smj",
+            "verdi": "Njálmálasj tjehpudagá"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2020-06-22T07:41:14.7501365"
+}

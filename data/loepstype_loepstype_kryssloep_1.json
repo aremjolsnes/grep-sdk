@@ -1,0 +1,36 @@
+{
+    "id": "http://psi.udir.no/ontologi/loepstype_kryssloep",
+    "kode": "loepstype_kryssloep",
+    "uri": "http://psi.udir.no/kl06/loepstype_kryssloep",
+    "url-data": "https://data.udir.no/kl06/v201906/loepstype/loepstype_kryssloep",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Kryssløp"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Kryssløp"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Kryssløp"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "nno",
+            "verdi": "KLOP"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "KLOP"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/loepstype",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2023-01-16T15:56:31.9531954",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

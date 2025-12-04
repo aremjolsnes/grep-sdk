@@ -137,3 +137,55 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# --------------------------------------
+# TILLEGG FOR GREP SDK (Python & Test)
+# --------------------------------------
+
+# Python build & runtime
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+.lib/
+MANIFEST
+
+# Python Tool configurations
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# VS Code settings (valgfritt, men ofte lurt å ignorere lokale innstillinger)
+.vscode/
+
+# Våre lokale test-filer og mapper (fra denne sesjonen)
+grep-test/
+grep-python-test/
+test.ts
+test.js
+test_python.py
+test_final.py
+test_bypass.js
+
+# Data-mappen
+# (Vi vil ha med data/ i git for å bygge, MEN vi vil kanskje ignorere
+# hundrevis av duplikatfiler hvis du kopierte inn hele eksempelsamlingen i går.
+# Hvis du vil beholde dataene i repoet, LA DENNE VÆRE.
+# Hvis dataene er for store for GitHub, uncomment linjen under:)
+# data/*.json
+# !data/lol.json
+# !data/kompetansemaalsett.json

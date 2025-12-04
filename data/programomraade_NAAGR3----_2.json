@@ -1,0 +1,221 @@
+{
+    "id": "uuid:8c959877-0941-4d95-89bf-d9bb4d3baea7",
+    "kode": "NAAGR3----",
+    "uri": "http://psi.udir.no/kl06/NAAGR3----",
+    "url-data": "https://data.udir.no/kl06/v201906/programomraader/NAAGR3----",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Landbruk"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Agriculture"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Landbruk"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Landbruk"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Eanadoallu"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2025-05-22T12:57:47.3622357",
+    "merkelapper": [
+        {
+            "kode": "forsoek",
+            "uri": "http://psi.udir.no/kl06/forsoek",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/forsoek",
+            "tittel": "Forsøk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/merkelapp/forsoek",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "utdanningsprogram-referanse": [
+        {
+            "kode": "NA",
+            "uri": "http://psi.udir.no/kl06/NA",
+            "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram/NA",
+            "tittel": "Naturbruk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": "2023-07-31T00:00:00"
+            },
+            "id": "http://psi.udir.no/ontologi/utdanningsprogram/naturbruk",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Landbruk"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Agriculture"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Landbruk"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Landbruk"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Eanadoallu"
+        }
+    ],
+    "landslinje": false,
+    "landsdekkende-linje": false,
+    "programomraade-type": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Bedrift(Lærling)"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Bedrift(Lærling)"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/programomraadetype_bedrift",
+        "url-data": "https://data.udir.no/kl06/v201906/programomraadetype/programomraadetype_bedrift",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/programomraadetype"
+    },
+    "aarstimer": null,
+    "aarstimer-samisk": null,
+    "aarstimer-doeve-og-tunghoerte": null,
+    "aarstimer-formgivningsfag": null,
+    "tilleggsopplysninger": [
+        {
+            "spraak": "default",
+            "verdi": "Oppdragsbrev 24-13: Gjennomføre forsøk med yrkesutdanning for agronom og gartner som innebærer to år i skole og to år i lærebedrift. Oppstart høst 2014, senere forlenget i flere omganger."
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Oppdragsbrev 24-13: Gjennomføre forsøk med yrkesutdanning for agronom og gartner som innebærer to år i skole og to år i lærebedrift. Oppstart høst 2014, senere forlenget i flere omganger."
+        }
+    ],
+    "foerste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Høst 2014"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Høst 2014"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_hoest_2014",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2014",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "siste-semester": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Vår 2026"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Vår 2026"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/semester_vaar_2026",
+        "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2026",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+    },
+    "aarstrinn": {
+        "kode": "vg3",
+        "uri": "http://psi.udir.no/kl06/vg3",
+        "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg3",
+        "tittel": "Videregående trinn 3",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/laereplan/aarstrinn/vg3",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "bygger-paa-programomraade": [
+        {
+            "kode": "NALGA2----",
+            "uri": "http://psi.udir.no/kl06/NALGA2----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/NALGA2----",
+            "tittel": "Landbruk og gartnernæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": "2026-07-31T00:00:00"
+            },
+            "id": "uuid:32e582ba-7491-49ad-b4ca-78b29782acca",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+            "loepstype": null
+        }
+    ],
+    "erstatter": [],
+    "erstattes-av": [],
+    "yrkestittel": [
+        {
+            "spraak": "default",
+            "verdi": "Agronom"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Agronom"
+        }
+    ],
+    "opplaeringssted": [
+        {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Bedrift"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Bedrift"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/opplaeringssted_bedrift",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringssted/opplaeringssted_bedrift",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringssted"
+        }
+    ],
+    "sluttkompetanse": [
+        {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Fagbrev"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Fagbrev"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/sluttkompetanse_fagbrev",
+            "url-data": "https://data.udir.no/kl06/v201906/sluttkompetanse/sluttkompetanse_fagbrev",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/sluttkompetanse"
+        }
+    ],
+    "opplaeringstid": "1,00",
+    "verdiskapingstid": "1,00"
+}

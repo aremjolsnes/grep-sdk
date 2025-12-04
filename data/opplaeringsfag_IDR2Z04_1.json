@@ -1,0 +1,210 @@
+{
+    "id": "uuid:29f18a00-50d7-47f5-bb76-de8c79cafd19",
+    "kode": "IDR2Z04",
+    "uri": "http://psi.udir.no/kl06/IDR2Z04",
+    "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/IDR2Z04",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Treningslære 1 vg2"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Treningslære 1 vg2"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Treningslære 1 vg2"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2016-02-02T13:53:32.1707115",
+    "merkelapper": [],
+    "programomraader-referanse": [
+        {
+            "kode": "IDIDR2----",
+            "uri": "http://psi.udir.no/kl06/IDIDR2----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/IDIDR2----",
+            "tittel": "Idrettsfag vg2",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:77d9f05b-a72a-4f20-8d96-c570e9aa171d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "laereplan-referanse": [
+        {
+            "tilhoerende-kompetansemaalsett": [
+                {
+                    "kode": "KMS1025",
+                    "uri": "http://psi.udir.no/kl06/KMS1025",
+                    "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett/KMS1025",
+                    "tittel": "Treningslære 1",
+                    "gyldighet": {
+                        "gyldig-fra": "2016-08-01T00:00:00",
+                        "gyldig-til": "2021-07-31T00:00:00"
+                    },
+                    "id": "uuid:77cdc2a8-c18b-4480-a5a9-72fc099d7afd",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+                    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+                }
+            ],
+            "kode": "IDR2-02",
+            "uri": "http://psi.udir.no/kl06/IDR2-02",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/IDR2-02",
+            "tittel": "Læreplan i treningslære - felles programfag i utdanningsprogram for idrettsfag",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:a9439bc2-e0c3-49ff-897a-a22da93f74c7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "fagkode-referanser": [
+        {
+            "kode": "IDR2016",
+            "uri": "http://psi.udir.no/kl06/IDR2016",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IDR2016",
+            "tittel": "Treningslære 1",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:875047de-6849-42aa-8618-75b086ac6c6e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "fagomraade-referanser": [
+        {
+            "kode": "FOMR301",
+            "uri": "http://psi.udir.no/kl06/FOMR301",
+            "url-data": "https://data.udir.no/kl06/v201906/fagomraader/FOMR301",
+            "tittel": "Idrettsfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:7890ba47-8c53-4041-af81-ee618b1d3ca9",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "fortsetter-opplaering-i-samme-kompetansemaalsett-som": [
+        {
+            "kode": "IDR2Z03",
+            "uri": "http://psi.udir.no/kl06/IDR2Z03",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/IDR2Z03",
+            "tittel": "Treningslære 1 vg1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e5775204-b273-48d0-95cd-e9da44220a5d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "fagtype": {
+        "kode": "fagtype_felles_programfag",
+        "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
+        "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
+        "tittel": "Felles programfag",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/felles_programfag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "opplaeringsnivaa": {
+        "kode": "opplaeringsnivaa_videregaaende",
+        "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+        "tittel": "Videregående opplæring",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "tilleggsopplysninger": [
+        {
+            "spraak": "default",
+            "verdi": "Læreplanen for treningslære kommer i revidert utgave høsten 2015. Fra høsten 2016 skal elever som starter på Treningslære 1 Vg2 (84t) eller tar hele faget på ett år (140t) benytte ny læreplan (IDR2-02) og ny fagkode (IDR2016).\n"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Læreplanen for treningslære kommer i revidert utgave høsten 2015. Fra høsten 2016 skal elever som starter på Treningslære 1 Vg2 (84t) eller tar hele faget på ett år (140t) benytte ny læreplan (IDR2-02) og ny fagkode (IDR2016).\n"
+        }
+    ],
+    "bygger-paa-fag": [],
+    "for-aarstrinn": [
+        {
+            "kode": "vg2",
+            "uri": "http://psi.udir.no/kl06/vg2",
+            "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg2",
+            "tittel": "Videregående trinn 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/vg2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Treningslære 1 vg2"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Treningslære 1 vg2"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Treningslære 1 vg2"
+        }
+    ],
+    "erstatter": [
+        {
+            "kode": "IDR2Z01",
+            "uri": "http://psi.udir.no/kl06/IDR2Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/IDR2Z01",
+            "tittel": "Treningslære 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:d73ae6a2-3156-4605-8126-b8893ad7e607",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "erstattes-av": [
+        {
+            "kode": "IDR2Z07",
+            "uri": "http://psi.udir.no/kl06/IDR2Z07",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/IDR2Z07",
+            "tittel": "Treningslære 1 vg2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:22e908d8-1bdf-42e7-8ae3-05752f66ec9b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ]
+}

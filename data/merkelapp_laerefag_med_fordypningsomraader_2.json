@@ -1,0 +1,135 @@
+{
+    "id": "http://psi.udir.no/kl06/laerefag_med_fordypningsomraader",
+    "kode": "laerefag_med_fordypningsomraader",
+    "uri": "http://psi.udir.no/kl06/laerefag_med_fordypningsomraader",
+    "url-data": "https://data.udir.no/kl06/v201906/merkelapper/laerefag_med_fordypningsomraader",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Lærefag med fordypningsområder"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Lærefag med fordypningsområder"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2021-09-21T11:28:08.9561938",
+    "tilknyttede-fag": [],
+    "tilknyttede-laereplaner": [
+        {
+            "kode": "FJE03-03",
+            "uri": "http://psi.udir.no/kl06/FJE03-03",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/FJE03-03",
+            "tittel": "Læreplan i vg3 fjell- og bergverksfaget med fordjupingsområde",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "bde9ab18-99ec-4737-9390-798ef937147d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "ITF03-01",
+            "uri": "http://psi.udir.no/kl06/ITF03-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ITF03-01",
+            "tittel": "Læreplan i vg3 industritekstilfaget med fordjupingsområde",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "2bb7b27f-e639-44f7-8276-cce65e3bf824",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SNE03-01",
+            "uri": "http://psi.udir.no/kl06/SNE03-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/SNE03-01",
+            "tittel": "Læreplan i vg3 snikkarfaget med fordjupingsområde",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "3878e3f5-bc40-4c07-9712-cb7d502216bd",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "TLT03-01",
+            "uri": "http://psi.udir.no/kl06/TLT03-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/TLT03-01",
+            "tittel": "Læreplan i vg3 trelast- og limtreproduksjonsfaget med fordjupingsområde",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "84e4a142-2c04-4797-83a0-98315a36927b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilknyttede-programomraader": [
+        {
+            "kode": "BAFJE3----",
+            "uri": "http://psi.udir.no/kl06/BAFJE3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/BAFJE3----",
+            "tittel": "Fjell- og bergverksfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:6b702b10-f9c9-406b-b51c-68ef795ecbcb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "BASNE3----",
+            "uri": "http://psi.udir.no/kl06/BASNE3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/BASNE3----",
+            "tittel": "Snekkerfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a9910128-e615-4eed-9113-aae12914c289",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "BATLT3----",
+            "uri": "http://psi.udir.no/kl06/BATLT3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/BATLT3----",
+            "tittel": "Trelast- og limtreproduksjonsfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4eeca0e2-0cb5-45e1-bd34-77197c827b64",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "TPITF3----",
+            "uri": "http://psi.udir.no/kl06/TPITF3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/TPITF3----",
+            "tittel": "Industritekstilfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:37639dc9-1731-4c8f-b896-0b313c4f5a70",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kan-knyttes-til-fag": false,
+    "kan-knyttes-til-laereplan": true,
+    "kan-knyttes-til-programomraade": true,
+    "kortform": [],
+    "gyldig-fra": "2021-08-01T00:00:00",
+    "gyldig-til": null,
+    "rekkefoelge": 21
+}

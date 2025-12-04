@@ -1,0 +1,461 @@
+{
+    "fagkode": {
+        "status": "Dekning fullført (eller stoppet etter 5 iterasjoner)",
+        "totalProperties": 49,
+        "dekketProperties": 49,
+        "uncoveredProperties": 0,
+        "antallInstanser": 5,
+        "uris": [
+            "http://psi.udir.no/kl06/FSP5801",
+            "http://psi.udir.no/kl06/ADI2003",
+            "http://psi.udir.no/kl06/SPR3024",
+            "http://psi.udir.no/kl06/HISRS06",
+            "http://psi.udir.no/kl06/AMM3011"
+        ]
+    },
+    "fagtype": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 13,
+        "dekketProperties": 13,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/fagtype_yrkesfaglig_fordypning"
+        ]
+    },
+    "merkelapp": {
+        "status": "Dekning fullført (eller stoppet etter 3 iterasjoner)",
+        "totalProperties": 18,
+        "dekketProperties": 18,
+        "uncoveredProperties": 0,
+        "antallInstanser": 3,
+        "uris": [
+            "http://psi.udir.no/kl06/forsoek",
+            "http://psi.udir.no/kl06/laerefag_med_fordypningsomraader",
+            "http://psi.udir.no/kl06/tverrfaglig_eksamen"
+        ]
+    },
+    "semester": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/semester_hoest_2008"
+        ]
+    },
+    "opplaeringsnivaa": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende"
+        ]
+    },
+    "eksamensform": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/eksamensform_2"
+        ]
+    },
+    "trekkordning": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/trekkordning_1"
+        ]
+    },
+    "eksamensordning": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/eksamensordning_1"
+        ]
+    },
+    "vurderingsuttrykk": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 12,
+        "dekketProperties": 12,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/vurderingsuttrykk_maaloppnaaelse"
+        ]
+    },
+    "aarstrinn": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 13,
+        "dekketProperties": 13,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/aarstrinn_fov"
+        ]
+    },
+    "laereplan": {
+        "status": "Dekning fullført (eller stoppet etter 3 iterasjoner)",
+        "totalProperties": 40,
+        "dekketProperties": 40,
+        "uncoveredProperties": 0,
+        "antallInstanser": 3,
+        "uris": [
+            "http://psi.udir.no/kl06/AMM3-02",
+            "http://psi.udir.no/kl06/RLE1-02",
+            "http://psi.udir.no/kl06/SAS1-04"
+        ]
+    },
+    "laereplan_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 4 iterasjoner)",
+        "totalProperties": 47,
+        "dekketProperties": 47,
+        "uncoveredProperties": 0,
+        "antallInstanser": 4,
+        "uris": [
+            "http://psi.udir.no/kl06/MOK01-02",
+            "http://psi.udir.no/kl06/BET05-01",
+            "http://psi.udir.no/kl06/ENG05-01",
+            "http://psi.udir.no/kl06/ASK03-01"
+        ]
+    },
+    "spraak": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/nob"
+        ]
+    },
+    "kompetansemaalsett": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 14,
+        "dekketProperties": 14,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/KMS1107"
+        ]
+    },
+    "programfag": {
+        "status": "Dekning fullført (eller stoppet etter 2 iterasjoner)",
+        "totalProperties": 9,
+        "dekketProperties": 9,
+        "uncoveredProperties": 0,
+        "antallInstanser": 2,
+        "uris": [
+            "http://psi.udir.no/kl06/PF54",
+            "http://psi.udir.no/kl06/PF255"
+        ]
+    },
+    "oppgave": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/oppgave_lokal"
+        ]
+    },
+    "opplaeringsfag": {
+        "status": "Dekning fullført (eller stoppet etter 2 iterasjoner)",
+        "totalProperties": 24,
+        "dekketProperties": 24,
+        "uncoveredProperties": 0,
+        "antallInstanser": 2,
+        "uris": [
+            "http://psi.udir.no/kl06/IDR2Z04",
+            "http://psi.udir.no/kl06/SAS3Z08"
+        ]
+    },
+    "sensur": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/sensur_lokal"
+        ]
+    },
+    "programomraade": {
+        "status": "Dekning fullført (eller stoppet etter 3 iterasjoner)",
+        "totalProperties": 32,
+        "dekketProperties": 32,
+        "uncoveredProperties": 0,
+        "antallInstanser": 3,
+        "uris": [
+            "http://psi.udir.no/kl06/DHMED2----",
+            "http://psi.udir.no/kl06/NAAGR3----",
+            "http://psi.udir.no/kl06/STUSP1----"
+        ]
+    },
+    "hovedomraade": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 9,
+        "dekketProperties": 9,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/HO1599"
+        ]
+    },
+    "grunnleggende_ferdighet_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/GF1"
+        ]
+    },
+    "kjerneelement_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 13,
+        "dekketProperties": 13,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/KE1120"
+        ]
+    },
+    "kompetansemaalsett_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 18,
+        "dekketProperties": 18,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/KV370"
+        ]
+    },
+    "laereplanstruktur": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/laereplanstruktur_1"
+        ]
+    },
+    "tverrfaglig_tema_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/TT1"
+        ]
+    },
+    "fagomraade": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/FOMR701"
+        ]
+    },
+    "utdanningsprogram": {
+        "status": "Dekning fullført (eller stoppet etter 3 iterasjoner)",
+        "totalProperties": 17,
+        "dekketProperties": 17,
+        "uncoveredProperties": 0,
+        "antallInstanser": 3,
+        "uris": [
+            "http://psi.udir.no/kl06/MK",
+            "http://psi.udir.no/kl06/DT",
+            "http://psi.udir.no/kl06/EL"
+        ]
+    },
+    "utdanningsprogramtype": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/utdanningsprogramtype_studieforberedende"
+        ]
+    },
+    "opplaeringssted": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/opplaeringssted_bedrift"
+        ]
+    },
+    "programomraadetype": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/programomraadetype_bedrift"
+        ]
+    },
+    "sluttkompetanse": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/sluttkompetanse_fagbrev"
+        ]
+    },
+    "dokumenttype": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/dokumenttype_kompetansebevis"
+        ]
+    },
+    "tidligere_navn": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/tidligere_navn_3"
+        ]
+    },
+    "ordforklaring_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 12,
+        "dekketProperties": 12,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/OF5"
+        ]
+    },
+    "merknad": {
+        "status": "Dekning fullført (eller stoppet etter 2 iterasjoner)",
+        "totalProperties": 19,
+        "dekketProperties": 19,
+        "uncoveredProperties": 0,
+        "antallInstanser": 2,
+        "uris": [
+            "http://psi.udir.no/kl06/FAM11",
+            "http://psi.udir.no/kl06/VMM24"
+        ]
+    },
+    "merknadstype": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/merknadstype_fagmerknad"
+        ]
+    },
+    "fagkategori": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 9,
+        "dekketProperties": 9,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/FKAT100"
+        ]
+    },
+    "spraaknivaa": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 12,
+        "dekketProperties": 12,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/spraaknivaa_i"
+        ]
+    },
+    "kompetansemaal": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/K1"
+        ]
+    },
+    "karakter": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 12,
+        "dekketProperties": 12,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/karakter_hm"
+        ]
+    },
+    "kompetansemaal_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 2 iterasjoner)",
+        "totalProperties": 20,
+        "dekketProperties": 20,
+        "uncoveredProperties": 0,
+        "antallInstanser": 2,
+        "uris": [
+            "http://psi.udir.no/kl06/KM11869",
+            "http://psi.udir.no/kl06/KM10543"
+        ]
+    },
+    "verb_lk20": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 13,
+        "dekketProperties": 13,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/VERB23"
+        ]
+    },
+    "loepstype": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 11,
+        "dekketProperties": 11,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/loepstype_kryssloep"
+        ]
+    },
+    "status": {
+        "status": "Dekning fullført (eller stoppet etter 1 iterasjoner)",
+        "totalProperties": 10,
+        "dekketProperties": 10,
+        "uncoveredProperties": 0,
+        "antallInstanser": 1,
+        "uris": [
+            "http://psi.udir.no/kl06/status_publisert"
+        ]
+    }
+}

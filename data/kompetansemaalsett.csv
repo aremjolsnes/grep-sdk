@@ -1,0 +1,15 @@
+property
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://psi.udir.no/ontologi/kl06/grep-type
+http://psi.udir.no/ontologi/kl06/id
+http://psi.udir.no/ontologi/kl06/kode
+http://psi.udir.no/ontologi/kl06/tittel
+http://psi.udir.no/ontologi/kl06/uri
+http://psi.udir.no/ontologi/kl06/url-data
+http://psi.udir.no/ontologi/kl06/programfag
+http://psi.udir.no/ontologi/kl06/kompetansemaal
+http://psi.udir.no/ontologi/kl06/tilhoerer-laereplan
+http://psi.udir.no/ontologi/kl06/benyttes-paa-aarstrinn
+http://psi.udir.no/ontologi/kl06/etter-aarstrinn
+http://psi.udir.no/ontologi/kl06/etter-fag
+http://psi.udir.no/ontologi/kl06/hovedomraader-i-kontekst-av-kompetansemaalsett

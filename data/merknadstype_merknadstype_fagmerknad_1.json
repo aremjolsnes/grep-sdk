@@ -1,0 +1,23 @@
+{
+    "id": "http://psi.udir.no/ontologi/tekst/standardkommentar_vitnemaal/fagmerknad",
+    "kode": "merknadstype_fagmerknad",
+    "uri": "http://psi.udir.no/kl06/merknadstype_fagmerknad",
+    "url-data": "https://data.udir.no/kl06/v201906/merknadstype/merknadstype_fagmerknad",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Fagmerknad"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Fagmerknad"
+        }
+    ],
+    "kortform": [],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/merknadstype",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2015-09-17T11:06:57.9245991",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

@@ -1,0 +1,27 @@
+{
+    "id": "http://psi.udir.no/ontologi/dokumenttype_kompetansebevis",
+    "kode": "dokumenttype_kompetansebevis",
+    "uri": "http://psi.udir.no/kl06/dokumenttype_kompetansebevis",
+    "url-data": "https://data.udir.no/kl06/v201906/dokumenttype/dokumenttype_kompetansebevis",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Kompetansebevis"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Kompetansebevis"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Kompetansebevis"
+        }
+    ],
+    "kortform": [],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/dokumenttype",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2005-08-01T00:00:00",
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 1
+}

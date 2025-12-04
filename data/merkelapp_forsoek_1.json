@@ -1,0 +1,2918 @@
+{
+    "id": "http://psi.udir.no/ontologi/merkelapp/forsoek",
+    "kode": "forsoek",
+    "uri": "http://psi.udir.no/kl06/forsoek",
+    "url-data": "https://data.udir.no/kl06/v201906/merkelapper/forsoek",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Forsøk"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Forsøk"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2017-06-16T10:07:22.7610365",
+    "tilknyttede-fag": [
+        {
+            "kode": "AGR3001",
+            "uri": "http://psi.udir.no/kl06/AGR3001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/AGR3001",
+            "tittel": "Landbruksfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:25897e6d-5f42-4afe-9b0a-8170ced4caad",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "BETV100",
+            "uri": "http://psi.udir.no/kl06/BETV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/BETV100",
+            "tittel": "Inngang til modulstrukturert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:20112983-1ba8-4766-815b-0404b3a7de11",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "BETV101",
+            "uri": "http://psi.udir.no/kl06/BETV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/BETV101",
+            "tittel": "Forskaling og HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:d48bb545-e564-485b-89c8-827e94933676",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "BETV102",
+            "uri": "http://psi.udir.no/kl06/BETV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/BETV102",
+            "tittel": "Armering",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b42c36ff-d760-412b-abb4-0fe5b6b290b8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "BETV103",
+            "uri": "http://psi.udir.no/kl06/BETV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/BETV103",
+            "tittel": "Støping",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:46173b8d-b8f9-4b9f-9238-5a199b227dd7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "BETV104",
+            "uri": "http://psi.udir.no/kl06/BETV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/BETV104",
+            "tittel": "Kundebehandling, etikk og samarbeid",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c0b14d94-df0a-4d8c-bc2c-91e7f28656b8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ENGV001",
+            "uri": "http://psi.udir.no/kl06/ENGV001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ENGV001",
+            "tittel": "Engelsk modul 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3b25a3f8-4374-4040-b6af-c4b6f5aeeb08",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ENGV002",
+            "uri": "http://psi.udir.no/kl06/ENGV002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ENGV002",
+            "tittel": "Engelsk modul 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fd1cb832-0f39-4e3a-8d1a-cc3e76628244",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ENGV003",
+            "uri": "http://psi.udir.no/kl06/ENGV003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ENGV003",
+            "tittel": "Engelsk modul 3, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e8d2b3c3-21e9-4c7c-8f49-c197a3d1751e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ENGV004",
+            "uri": "http://psi.udir.no/kl06/ENGV004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ENGV004",
+            "tittel": "Engelsk modul 3, muntlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:af7be6c3-0c55-427d-bb23-acf5033f2f11",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ENGV005",
+            "uri": "http://psi.udir.no/kl06/ENGV005",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ENGV005",
+            "tittel": "Engelsk modul 4, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0010b21e-4f07-4694-a2e7-a2a5ce6295b8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ENGV006",
+            "uri": "http://psi.udir.no/kl06/ENGV006",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ENGV006",
+            "tittel": "Engelsk modul 4, muntlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e3d8c513-f226-40ac-81b5-b39142301d41",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FFAV100",
+            "uri": "http://psi.udir.no/kl06/FFAV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FFAV100",
+            "tittel": "Inngang til modulstruktuert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f81a0fae-360e-4c3a-bc3f-37f3cde61aa1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FFAV101",
+            "uri": "http://psi.udir.no/kl06/FFAV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FFAV101",
+            "tittel": "Redskap og utstyr",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b73777ae-719e-41aa-a9f6-1095575112e9",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FFAV102",
+            "uri": "http://psi.udir.no/kl06/FFAV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FFAV102",
+            "tittel": "Grunnleggende sjømannskap",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:55affb29-06f5-4e40-b531-05279c5a32ff",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FFAV103",
+            "uri": "http://psi.udir.no/kl06/FFAV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FFAV103",
+            "tittel": "Ressurshåndtering og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a1fbeb93-b5b9-4290-9306-be760ab88929",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FFAV104",
+            "uri": "http://psi.udir.no/kl06/FFAV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FFAV104",
+            "tittel": "Sikkerhetsstyring og HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:946fa7c4-d006-413a-af09-396c25796cf8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FFAV105",
+            "uri": "http://psi.udir.no/kl06/FFAV105",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FFAV105",
+            "tittel": "Drift av fartøy",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b3b223bc-1ff5-4336-9b0e-539b09a9fb3b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FFAV106",
+            "uri": "http://psi.udir.no/kl06/FFAV106",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FFAV106",
+            "tittel": "Utøvelse av fiske",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fc517d72-9ef4-46b0-a954-d2f53c445c06",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FRL2001",
+            "uri": "http://psi.udir.no/kl06/FRL2001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL2001",
+            "tittel": "Friluftslivslære 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5f304264-5930-4fe4-b467-cf41a68f3018",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL2002",
+            "uri": "http://psi.udir.no/kl06/FRL2002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL2002",
+            "tittel": "Friluftslivslære 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:78f1c1a2-9155-42f3-a00a-704e9b6d6bdb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL2003",
+            "uri": "http://psi.udir.no/kl06/FRL2003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL2003",
+            "tittel": "Friluftslivslære 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:53127303-4f8d-428b-9454-be1a3be4f707",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL2004",
+            "uri": "http://psi.udir.no/kl06/FRL2004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL2004",
+            "tittel": "Folkehelse og friluftsliv 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:d1a47ccb-2496-46c9-a75c-2c3395bf7e27",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL2005",
+            "uri": "http://psi.udir.no/kl06/FRL2005",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL2005",
+            "tittel": "Folkehelse og friluftsliv 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0ad09681-96b5-4d86-bd19-4269a4d5618b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL2006",
+            "uri": "http://psi.udir.no/kl06/FRL2006",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL2006",
+            "tittel": "Turledelse og veiledning",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f0ba166d-15b2-439a-a4a7-3765682c6eff",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL3001",
+            "uri": "http://psi.udir.no/kl06/FRL3001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL3001",
+            "tittel": "Friluftsliv ressurs 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f6c6f8cf-1243-477d-836e-51c0dc523490",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL3002",
+            "uri": "http://psi.udir.no/kl06/FRL3002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL3002",
+            "tittel": "Friluftsliv ressurs 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:cf1de856-1e40-4fbb-aa5b-d96338e245d5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL3003",
+            "uri": "http://psi.udir.no/kl06/FRL3003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL3003",
+            "tittel": "Friluftsliv ressurs 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:df4e4e06-a845-41d5-acdc-ea98f63161f3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL3004",
+            "uri": "http://psi.udir.no/kl06/FRL3004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL3004",
+            "tittel": "Friluftsliv aktiv 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:449edc35-0169-4831-bb9e-d869f07d5c43",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL3005",
+            "uri": "http://psi.udir.no/kl06/FRL3005",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL3005",
+            "tittel": "Friluftsliv aktiv 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:1a183b7a-02a4-4150-a38a-679bfa021f4c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FRL3006",
+            "uri": "http://psi.udir.no/kl06/FRL3006",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FRL3006",
+            "tittel": "Friluftsliv aktiv 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f31380af-9e45-4f84-a6e1-f73456a45e83",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "FSP6089",
+            "uri": "http://psi.udir.no/kl06/FSP6089",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FSP6089",
+            "tittel": "Fransk I (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:bdd28c73-ef8d-4f4e-8a27-435d9534a184",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FSP6090",
+            "uri": "http://psi.udir.no/kl06/FSP6090",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FSP6090",
+            "tittel": "Nordsamisk I (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8f266f62-6f03-4677-a210-eab0b1195a8d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FSP6091",
+            "uri": "http://psi.udir.no/kl06/FSP6091",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FSP6091",
+            "tittel": "Spansk I (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3ce2a756-00b4-4579-a9ed-f5addf71a2db",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "FSP6092",
+            "uri": "http://psi.udir.no/kl06/FSP6092",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/FSP6092",
+            "tittel": "Tysk I (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e45ebb3f-7873-4195-9d2a-961a95932bfb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GAR3001",
+            "uri": "http://psi.udir.no/kl06/GAR3001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GAR3001",
+            "tittel": "Gartnerfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c2da9dd0-87aa-4b84-be4c-0ea8341a9554",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GAR3102",
+            "uri": "http://psi.udir.no/kl06/GAR3102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GAR3102",
+            "tittel": "Gartnerfaget, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4328d685-49b8-41e6-befe-3e8eb3a1e0df",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GJEV100",
+            "uri": "http://psi.udir.no/kl06/GJEV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GJEV100",
+            "tittel": "Inngang til modulstruktuert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:581c9f63-f38c-4fd1-a710-890ab4e7c7c2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GJEV101",
+            "uri": "http://psi.udir.no/kl06/GJEV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GJEV101",
+            "tittel": "Introduksjon til gjenvinningsfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b98ac437-59e7-438c-94bd-e1898e5ccc0f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GJEV102",
+            "uri": "http://psi.udir.no/kl06/GJEV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GJEV102",
+            "tittel": "Maskiner og prosesser",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fd884579-20dc-46fa-8aca-f88d597bd183",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GJEV103",
+            "uri": "http://psi.udir.no/kl06/GJEV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GJEV103",
+            "tittel": "Effektive og miljøriktige avfallsløsninger",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0e6a6301-2442-43b3-a89c-3ed2e1b91ed6",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GJEV104",
+            "uri": "http://psi.udir.no/kl06/GJEV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GJEV104",
+            "tittel": "Fra avfall til råstoff",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:6e3a02ea-89ae-4d96-af25-8e4880592e90",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GJEV105",
+            "uri": "http://psi.udir.no/kl06/GJEV105",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/GJEV105",
+            "tittel": "Sirkulærøkonomi i praksis",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a28902df-9549-4447-b50f-166ebc3a7c76",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "HEAV100",
+            "uri": "http://psi.udir.no/kl06/HEAV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/HEAV100",
+            "tittel": "Inngang til modulstrukturert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:1a9524a4-0499-4bfd-8ad9-ce4f21bd505d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "HEAV101",
+            "uri": "http://psi.udir.no/kl06/HEAV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/HEAV101",
+            "tittel": "Profesjonalitet i helsearbeiderfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8f6c5a34-1d5d-46e9-b979-03b348697b76",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "HEAV102",
+            "uri": "http://psi.udir.no/kl06/HEAV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/HEAV102",
+            "tittel": "Hverdagsmestring og livsstil",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8b96b784-90a5-4ad7-af63-c29de0e385a2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "HEAV103",
+            "uri": "http://psi.udir.no/kl06/HEAV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/HEAV103",
+            "tittel": "Grunnleggende sykepleie",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8243c0e8-66cc-4f70-8ffd-5b5d8d6a57ca",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "HEAV104",
+            "uri": "http://psi.udir.no/kl06/HEAV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/HEAV104",
+            "tittel": "Habilitering og rehabilitering",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:df226655-a670-4ed8-a81a-98b430f256ee",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IDR3011",
+            "uri": "http://psi.udir.no/kl06/IDR3011",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IDR3011",
+            "tittel": "Friluftsliv 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:82fb8b78-fe0d-474d-a71a-6ec12a6527d7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IDR3012",
+            "uri": "http://psi.udir.no/kl06/IDR3012",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IDR3012",
+            "tittel": "Turledelse og veiledning",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:29cd1352-12bd-4570-99e4-bad983ef8f8c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IDT3001",
+            "uri": "http://psi.udir.no/kl06/IDT3001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IDT3001",
+            "tittel": "IKT-driftsteknikerfaget",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:cefe8c0a-d3f3-4082-9825-8cc63d9d2f48",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IKOV100",
+            "uri": "http://psi.udir.no/kl06/IKOV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IKOV100",
+            "tittel": "Inngang til modulstruktuert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:9fc9db0b-d404-4eee-a8d3-e8d4c3e380ef",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IKOV101",
+            "uri": "http://psi.udir.no/kl06/IKOV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IKOV101",
+            "tittel": "Hygiene og HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:766c8ed0-d231-4f8c-a568-be4d47674916",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IKOV102",
+            "uri": "http://psi.udir.no/kl06/IKOV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IKOV102",
+            "tittel": "Produksjon og matvarekunnskap",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:32b2f1fe-79b5-434c-9422-aed50cce2fd1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IKOV103",
+            "uri": "http://psi.udir.no/kl06/IKOV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IKOV103",
+            "tittel": "Dessert, bakverk og kalde retter",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:04b051e5-d757-43fd-8892-b66cf9fea9e8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IKOV104",
+            "uri": "http://psi.udir.no/kl06/IKOV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IKOV104",
+            "tittel": "Menyplanlegging og spesialkost",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a9812c39-04c7-4905-9b36-672c7cd765f5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "IKOV105",
+            "uri": "http://psi.udir.no/kl06/IKOV105",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/IKOV105",
+            "tittel": "Bransjelære",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:80a0dbf2-a269-4679-ac0d-d0d62ad50d75",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ITU3001",
+            "uri": "http://psi.udir.no/kl06/ITU3001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ITU3001",
+            "tittel": "IKT-tjenesteutviklerfaget",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:786a2fe3-cd4e-4d3c-9e00-3ac5d8d61c31",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "KOK3104",
+            "uri": "http://psi.udir.no/kl06/KOK3104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOK3104",
+            "tittel": "Kokkfaget, skriftlig-muntlig, forsøk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b4d6181f-8b3b-4391-8b0d-4938765efc30",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "KOKV100",
+            "uri": "http://psi.udir.no/kl06/KOKV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOKV100",
+            "tittel": "Inngang til modulstruktuert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:23e72931-9e1c-48f3-933a-6363649d7715",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "KOKV101",
+            "uri": "http://psi.udir.no/kl06/KOKV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOKV101",
+            "tittel": "Hygiene",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c23c7e3d-edb1-4e40-8d5b-c1ff847f1620",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "KOKV102",
+            "uri": "http://psi.udir.no/kl06/KOKV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOKV102",
+            "tittel": "Service og gjestebehandling",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:19d7cd7a-a45e-4959-b9c3-2cae4d052140",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "KOKV103",
+            "uri": "http://psi.udir.no/kl06/KOKV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOKV103",
+            "tittel": "Meny og økonomi",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:64f3a108-69dc-4616-88a6-d1525e4a9ef1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "KOKV104",
+            "uri": "http://psi.udir.no/kl06/KOKV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOKV104",
+            "tittel": "Matproduksjon",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c1b3481c-012d-42c5-baac-c4368e06acbb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "KOKV105",
+            "uri": "http://psi.udir.no/kl06/KOKV105",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOKV105",
+            "tittel": "Dessertkjøkken",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fe8cef16-b337-40bd-b421-6f34a84d7561",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "KOKV106",
+            "uri": "http://psi.udir.no/kl06/KOKV106",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/KOKV106",
+            "tittel": "Bransje og miljø",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a6e81e04-2fa2-4ba1-bee5-25ec6763f347",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA2004",
+            "uri": "http://psi.udir.no/kl06/LGA2004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LGA2004",
+            "tittel": "Produksjon, miljø og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5a216bee-341e-42b1-8db6-c1389977559d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA2005",
+            "uri": "http://psi.udir.no/kl06/LGA2005",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LGA2005",
+            "tittel": "Forvaltning og drift",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a0c8685a-f859-4996-84e6-57e2260d7f5f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA2006",
+            "uri": "http://psi.udir.no/kl06/LGA2006",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LGA2006",
+            "tittel": "Landbruk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:d5257f87-6b9d-404f-af0f-a5e369bc1e24",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA2007",
+            "uri": "http://psi.udir.no/kl06/LGA2007",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LGA2007",
+            "tittel": "Gartnernæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:7c15369f-7077-48bf-8979-58617b9857d7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA2008",
+            "uri": "http://psi.udir.no/kl06/LGA2008",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LGA2008",
+            "tittel": "Tverrfaglig eksamen landbruk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:52bbaa74-0fe8-4d25-88b4-edcb92dd06a5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA2009",
+            "uri": "http://psi.udir.no/kl06/LGA2009",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LGA2009",
+            "tittel": "Tverrfaglig eksamen gartnernæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8eb601fc-0211-444b-9db0-1f65548b1238",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LOGV100",
+            "uri": "http://psi.udir.no/kl06/LOGV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LOGV100",
+            "tittel": "Inngang til modulstruktuert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:032caf65-f19a-4c74-adce-51a4229d94d5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LOGV101",
+            "uri": "http://psi.udir.no/kl06/LOGV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LOGV101",
+            "tittel": "Truckopplæring og sikkerhet (vg2 Transport og logistikk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f9bf346f-6b90-4d95-9871-6b82f1b08e73",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LOGV102",
+            "uri": "http://psi.udir.no/kl06/LOGV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LOGV102",
+            "tittel": "Lover, regler og HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8358ef4a-e7b2-4211-b010-af70a5b396d3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LOGV103",
+            "uri": "http://psi.udir.no/kl06/LOGV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LOGV103",
+            "tittel": "Drift og planlegging",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:93e35e4e-7075-4325-aed3-825b63003304",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LOGV104",
+            "uri": "http://psi.udir.no/kl06/LOGV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LOGV104",
+            "tittel": "Intern logistikk og lager",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c446b5ed-9938-4b6a-942a-8f18f0bca065",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LOGV105",
+            "uri": "http://psi.udir.no/kl06/LOGV105",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LOGV105",
+            "tittel": "Service og kundebehandling",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:093b2c28-3232-47d7-a1e5-921a383cb9af",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LOGV106",
+            "uri": "http://psi.udir.no/kl06/LOGV106",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/LOGV106",
+            "tittel": "Økonomi",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c66187f2-e286-4a26-a0b6-fd8644d631bc",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MALV100",
+            "uri": "http://psi.udir.no/kl06/MALV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MALV100",
+            "tittel": "Inngang til modulstrukturert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:6a1270c2-6a10-4d7d-8843-6e34dfcc5a98",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MALV101",
+            "uri": "http://psi.udir.no/kl06/MALV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MALV101",
+            "tittel": "HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0b7fe403-20b0-43d1-8c59-0b2013778c85",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MALV102",
+            "uri": "http://psi.udir.no/kl06/MALV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MALV102",
+            "tittel": "Innvendig malerarbeid",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:47e34a59-99d0-4ecb-af9a-70658e540086",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MALV103",
+            "uri": "http://psi.udir.no/kl06/MALV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MALV103",
+            "tittel": "Utvendige fasader",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:aeb5a65d-52fd-4603-b69c-6ba46cb8382a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MALV104",
+            "uri": "http://psi.udir.no/kl06/MALV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MALV104",
+            "tittel": "Tapet og beleggarbeid",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:6f3d487d-cb43-48b6-b547-1aa80bc3c795",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MALV105",
+            "uri": "http://psi.udir.no/kl06/MALV105",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MALV105",
+            "tittel": "Drift og ledelse",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f4593fe2-60ec-49db-bd7c-6266c82b1ae2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MAT0014",
+            "uri": "http://psi.udir.no/kl06/MAT0014",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MAT0014",
+            "tittel": "Fordypning i matematikk 10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2015-08-01T00:00:00",
+                "gyldig-til": "2016-07-31T00:00:00"
+            },
+            "id": "uuid:0e76b3d2-16ef-4fc0-889d-89f3f517ebea",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MATV001",
+            "uri": "http://psi.udir.no/kl06/MATV001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MATV001",
+            "tittel": "Matematikk modul 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a2b665d1-f08b-4e5f-a023-b917b7fe8363",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MATV002",
+            "uri": "http://psi.udir.no/kl06/MATV002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MATV002",
+            "tittel": "Matematikk modul 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:19654658-db3e-4464-bc2c-60653d89a2f1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MATV003",
+            "uri": "http://psi.udir.no/kl06/MATV003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MATV003",
+            "tittel": "Matematikk modul 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a5e1143d-243c-4c66-9e5f-7bf5d69843ee",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MATV004",
+            "uri": "http://psi.udir.no/kl06/MATV004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MATV004",
+            "tittel": "Matematikk modul 4S",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e1536ad5-4dca-4eff-a563-228316e4c9bd",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MATV005",
+            "uri": "http://psi.udir.no/kl06/MATV005",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MATV005",
+            "tittel": "Matematikk modul 4Y",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:d4faf12a-9384-435d-920a-a2b0c6f7e107",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MATV006",
+            "uri": "http://psi.udir.no/kl06/MATV006",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MATV006",
+            "tittel": "Matematikk modul 4 - felles",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5753170d-8ecd-4bbd-85e1-1e7c1f8bbebd",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MATV007",
+            "uri": "http://psi.udir.no/kl06/MATV007",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MATV007",
+            "tittel": "Matematikk modul 4, muntlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:16bf2bba-f897-4469-9684-5f529bc89c8c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MIR3001",
+            "uri": "http://psi.udir.no/kl06/MIR3001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MIR3001",
+            "tittel": "Maritim innredning",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:92f99b4d-731f-411d-bbf5-eaaa70290f92",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2001",
+            "uri": "http://psi.udir.no/kl06/MPT2001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MPT2001",
+            "tittel": "Produksjon",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c1e44c72-f771-4eaa-bb7a-da3742a1e597",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2002",
+            "uri": "http://psi.udir.no/kl06/MPT2002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MPT2002",
+            "tittel": "Bransje- og materiallære",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4da26594-0989-41e9-bda8-405f2246c2a5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2003",
+            "uri": "http://psi.udir.no/kl06/MPT2003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MPT2003",
+            "tittel": "Dokumentasjon og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4729f1df-d2d7-4628-b2b0-db8b0440b253",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2004",
+            "uri": "http://psi.udir.no/kl06/MPT2004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/MPT2004",
+            "tittel": "Tverrfaglig eksamen maritim produksjonsteknikk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:40906f8f-218b-47cf-9aa8-6e2ba82c9bcc",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NAB3013",
+            "uri": "http://psi.udir.no/kl06/NAB3013",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NAB3013",
+            "tittel": "Jakt og viltforvaltning",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3890a642-27cb-4c46-9be0-5bf4fcde8de7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "NATV001",
+            "uri": "http://psi.udir.no/kl06/NATV001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NATV001",
+            "tittel": "Naturfag modul 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f883b610-543f-4e81-8794-2a20839d5bb4",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NATV002",
+            "uri": "http://psi.udir.no/kl06/NATV002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NATV002",
+            "tittel": "Naturfag modul 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0cf2196b-40a9-4e23-a4da-d51dc77797d6",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NATV003",
+            "uri": "http://psi.udir.no/kl06/NATV003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NATV003",
+            "tittel": "Naturfag modul 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:61a5a260-b26d-4adb-be32-c5fa5a308500",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NATV004",
+            "uri": "http://psi.udir.no/kl06/NATV004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NATV004",
+            "tittel": "Naturfag modul 4",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:2237baa0-77a0-4722-b6a9-83a427d2a53b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NOR0017",
+            "uri": "http://psi.udir.no/kl06/NOR0017",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0017",
+            "tittel": "Norsk 10. årstrinn, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:7f628657-1fa7-49e3-9c4e-5c566fee2f9b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NOR0069",
+            "uri": "http://psi.udir.no/kl06/NOR0069",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0069",
+            "tittel": "Fordypning i norsk tegnspråk, 8. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8edd248b-895e-42de-bb0e-c68db082fdf9",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "NOR0070",
+            "uri": "http://psi.udir.no/kl06/NOR0070",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0070",
+            "tittel": "Fordypning i norsk tegnspråk, 9. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:cf754059-6ca4-4915-86db-2dc4da0f19f8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "NOR0071",
+            "uri": "http://psi.udir.no/kl06/NOR0071",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0071",
+            "tittel": "Fordypning i norsk tegnspråk, 10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:9fbe314d-d586-4131-a4ea-986864044cdb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "NOR0217",
+            "uri": "http://psi.udir.no/kl06/NOR0217",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NOR0217",
+            "tittel": "Norsk 10. årstrinn, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c34910c8-d8b7-479a-a80c-697dd2e84e5f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV001",
+            "uri": "http://psi.udir.no/kl06/NORV001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV001",
+            "tittel": "Norsk modul 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:9c03ee7a-39ff-4c0c-aef9-f3c9c2505bf0",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV002",
+            "uri": "http://psi.udir.no/kl06/NORV002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV002",
+            "tittel": "Norsk modul 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:7c6a02e9-43d6-4d34-a4b9-11e9d3f9ebc1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV003",
+            "uri": "http://psi.udir.no/kl06/NORV003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV003",
+            "tittel": "Norsk modul 3, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b7c19ec8-7f2a-439e-ac05-40b6fb4e27c3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV004",
+            "uri": "http://psi.udir.no/kl06/NORV004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV004",
+            "tittel": "Norsk modul 3, muntlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:9eeedc57-2bf9-4a6c-a9e2-770379f66b4e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV005",
+            "uri": "http://psi.udir.no/kl06/NORV005",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV005",
+            "tittel": "Norsk modul 4, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e46dc68a-8c5a-40c4-b792-a03c04419ffd",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV006",
+            "uri": "http://psi.udir.no/kl06/NORV006",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV006",
+            "tittel": "Norsk modul 4, muntlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e80f4c34-75f7-46e3-af29-0d3e675412a4",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV007",
+            "uri": "http://psi.udir.no/kl06/NORV007",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV007",
+            "tittel": "Grunnmodul for språklige minoriteter",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:42471fce-0568-44aa-a1a0-96a365bbe849",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV008",
+            "uri": "http://psi.udir.no/kl06/NORV008",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV008",
+            "tittel": "Norsk for språklige minoriteter modul 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:25192226-a4a8-4627-80f6-9c7b537849b5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV009",
+            "uri": "http://psi.udir.no/kl06/NORV009",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV009",
+            "tittel": "Norsk for språklige minoriteter modul 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:36f0942d-ef3d-4929-ab8a-da75978a6c28",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV010",
+            "uri": "http://psi.udir.no/kl06/NORV010",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV010",
+            "tittel": "Norsk for språklige minoriteter modul 3, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:cbee1dec-c104-4270-8c4a-b744f2b2bd48",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV011",
+            "uri": "http://psi.udir.no/kl06/NORV011",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV011",
+            "tittel": "Norsk for språklige minoriteter modul 3, muntlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:d1096d86-7945-4a2c-b04d-020fe78a537c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV012",
+            "uri": "http://psi.udir.no/kl06/NORV012",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV012",
+            "tittel": "Norsk for språklige minoriteter modul 4, skriftlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:55849dce-131c-40f7-a91c-8ffe04aa55ea",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "NORV013",
+            "uri": "http://psi.udir.no/kl06/NORV013",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/NORV013",
+            "tittel": "Norsk for språklige minoriteter modul 4, muntlig",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:7bb0fb9f-7895-4d9c-9f7c-2c3ab356a981",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "POK2001",
+            "uri": "http://psi.udir.no/kl06/POK2001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/POK2001",
+            "tittel": "Produksjon",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:182a8e55-6681-4df4-a213-24bd2c9f3eff",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "POK2002",
+            "uri": "http://psi.udir.no/kl06/POK2002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/POK2002",
+            "tittel": "Materiallære",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:790c298c-7ae0-440b-a5ac-51a2c1c569b0",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "POK2003",
+            "uri": "http://psi.udir.no/kl06/POK2003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/POK2003",
+            "tittel": "Dokumentasjon og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:a86e49cd-adce-4aef-8946-5d6564788a0a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "POK2004",
+            "uri": "http://psi.udir.no/kl06/POK2004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/POK2004",
+            "tittel": "Tverrfaglig eksamen plast og kompositt",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:15779692-447b-4f8b-a9bf-93c7251e4a7f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRA3210",
+            "uri": "http://psi.udir.no/kl06/PRA3210",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PRA3210",
+            "tittel": "Praksisbrevprøve",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:1fe894ad-3b1a-43d1-a763-f95905a1521c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "PRTV100",
+            "uri": "http://psi.udir.no/kl06/PRTV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PRTV100",
+            "tittel": "Inngang til modulstruktuert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:bef110e8-d814-4328-8c1f-e994f4b3e2cd",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRTV101",
+            "uri": "http://psi.udir.no/kl06/PRTV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PRTV101",
+            "tittel": "HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fb8ac106-f082-45cf-8c20-2a4d02470608",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRTV102",
+            "uri": "http://psi.udir.no/kl06/PRTV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PRTV102",
+            "tittel": "Drift",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a4f48361-2bfc-433c-a9ac-bb112c69a231",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRTV103",
+            "uri": "http://psi.udir.no/kl06/PRTV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PRTV103",
+            "tittel": "Kvalitet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:462fbb9b-c2b2-418e-941a-230a5e873705",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRTV104",
+            "uri": "http://psi.udir.no/kl06/PRTV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PRTV104",
+            "tittel": "Forebyggende vedlikehold",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:460338f0-7873-41a1-9299-b5099c18c61e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRTV105",
+            "uri": "http://psi.udir.no/kl06/PRTV105",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PRTV105",
+            "tittel": "Forbedringsarbeid og økonomi",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:583d9921-f100-4938-ae37-2d6c95d4e22c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5742",
+            "uri": "http://psi.udir.no/kl06/PSP5742",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5742",
+            "tittel": "Fransk nivå I, skriftlig standpunkt, skriftlig-muntlig eksamen (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8ea0a83c-dafc-4d38-a182-2e45f3e67f52",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5743",
+            "uri": "http://psi.udir.no/kl06/PSP5743",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5743",
+            "tittel": "Nordsamisk nivå I, skriftlig standpunkt, skriftlig-muntlig eksamen (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5026cc41-23ef-4da9-8e2e-73504d836bf1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5744",
+            "uri": "http://psi.udir.no/kl06/PSP5744",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5744",
+            "tittel": "Spansk nivå I, skriftlig standpunkt, skriftlig-muntlig eksamen (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:98d298be-ab93-419d-8c1c-e23a796d1e0d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5745",
+            "uri": "http://psi.udir.no/kl06/PSP5745",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5745",
+            "tittel": "Tysk nivå I, skriftlig standpunkt, skriftlig-muntlig eksamen (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a095aeeb-fa5c-470b-a43f-5972fda3dcd7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5746",
+            "uri": "http://psi.udir.no/kl06/PSP5746",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5746",
+            "tittel": "Fransk nivå I, muntlig standpunkt (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:541e98c4-5eb0-4226-a922-e59d333ab41f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5747",
+            "uri": "http://psi.udir.no/kl06/PSP5747",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5747",
+            "tittel": "Nordsamisk nivå I, muntlig standpunkt (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:923225c4-23fe-4b2f-acce-174ebf53d8dd",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5748",
+            "uri": "http://psi.udir.no/kl06/PSP5748",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5748",
+            "tittel": "Spansk nivå I, muntlig standpunkt (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c859ce03-529b-4352-bcfc-f59a8aabf4d1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PSP5749",
+            "uri": "http://psi.udir.no/kl06/PSP5749",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/PSP5749",
+            "tittel": "Tysk nivå I, muntlig standpunkt (forsøk)",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f2a17a4b-7ef1-4e7e-b8e1-5a382c40eba3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "REA3034",
+            "uri": "http://psi.udir.no/kl06/REA3034",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/REA3034",
+            "tittel": "Programmering og modellering X",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:042a1b20-b02a-4b27-9b31-942acac1c031",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RHOV100",
+            "uri": "http://psi.udir.no/kl06/RHOV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RHOV100",
+            "tittel": "Inngang til modulstruktuert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:2dfeb3bd-9457-4110-b242-1a83882d3d58",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RHOV101",
+            "uri": "http://psi.udir.no/kl06/RHOV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RHOV101",
+            "tittel": "Regelmessig renhold",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a0341fc9-286b-40af-83ea-dfe9c092c88f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RHOV102",
+            "uri": "http://psi.udir.no/kl06/RHOV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RHOV102",
+            "tittel": "Periodisk renhold",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:47b44684-d49e-44c4-8f8d-b5fbcd865f3b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RHOV103",
+            "uri": "http://psi.udir.no/kl06/RHOV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RHOV103",
+            "tittel": "Spesialrenhold",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:ede3776a-5cea-4876-bd2e-9842910dd835",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RHOV104",
+            "uri": "http://psi.udir.no/kl06/RHOV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RHOV104",
+            "tittel": "Renholdsplanlegging og renhold i et samfunnsperspektiv",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:65bf36bd-ba7c-47d6-8d9f-d029dc6cd55b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RLFV100",
+            "uri": "http://psi.udir.no/kl06/RLFV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RLFV100",
+            "tittel": "Inngang til modulstrukturert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:2943127b-5afa-4832-b4e2-0ef78c09e23b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RLFV101",
+            "uri": "http://psi.udir.no/kl06/RLFV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RLFV101",
+            "tittel": "Sanitæranlegg, HMS og bransjelære",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:58e5c0d9-def2-4315-a372-8f09d48ca62d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RLFV102",
+            "uri": "http://psi.udir.no/kl06/RLFV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RLFV102",
+            "tittel": "Vannbårne energianlegg",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:bcf18699-16d5-4d98-9de1-274e11bf78ae",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "RLFV103",
+            "uri": "http://psi.udir.no/kl06/RLFV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/RLFV103",
+            "tittel": "Sprinkleranlegg og energigassanlegg",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:7efd4eec-7583-4dcb-9e0d-5a4d2890a382",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ROF3104",
+            "uri": "http://psi.udir.no/kl06/ROF3104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ROF3104",
+            "tittel": "Renholdsoperatørfaget, skriftlig-muntlig, forsøk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e54e24fe-1d5b-49e2-9987-7709c98f09f4",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAFV001",
+            "uri": "http://psi.udir.no/kl06/SAFV001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAFV001",
+            "tittel": "Samfunnsfag modul 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:be00dfa5-19b0-430b-ba50-e7426750d5b0",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SAFV002",
+            "uri": "http://psi.udir.no/kl06/SAFV002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAFV002",
+            "tittel": "Samfunnsfag modul 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e855691b-6f9b-4bde-bebb-2e6ad6b40d8b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SAFV003",
+            "uri": "http://psi.udir.no/kl06/SAFV003",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAFV003",
+            "tittel": "Samfunnsfag modul 3",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:82c57c70-e4f2-4b10-9466-a2aa446c8c69",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SAFV004",
+            "uri": "http://psi.udir.no/kl06/SAFV004",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAFV004",
+            "tittel": "Samfunnsfag modul 4",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:83e47308-e1d4-4183-8c38-a39025c4e8f6",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SAM3040",
+            "uri": "http://psi.udir.no/kl06/SAM3040",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3040",
+            "tittel": "Klima- og miljøfag 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f65db87f-3e9c-4a01-a4ba-7da2fa47a8c8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAM3041",
+            "uri": "http://psi.udir.no/kl06/SAM3041",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3041",
+            "tittel": "Klima- og miljøfag 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:a374f0a0-1270-425b-b407-34e3c1c0c792",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAM3075",
+            "uri": "http://psi.udir.no/kl06/SAM3075",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3075",
+            "tittel": "Økologisk økonomi 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4758b5ce-049b-4c33-ada4-b67fdd4d3fc1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAM3076",
+            "uri": "http://psi.udir.no/kl06/SAM3076",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3076",
+            "tittel": "Økologisk økonomi 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:d92c0f67-6bcf-4a7f-a38a-baef65924a7b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAM3077",
+            "uri": "http://psi.udir.no/kl06/SAM3077",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3077",
+            "tittel": "Økologisk økonomi 2, muntlig-praktisk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4a503d1a-baed-4552-8d58-acf0cd71166d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SAM3078",
+            "uri": "http://psi.udir.no/kl06/SAM3078",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3078",
+            "tittel": "Bioøkonomi 1",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:1f965535-28c8-4d7c-90aa-7a2358455005",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SAM3079",
+            "uri": "http://psi.udir.no/kl06/SAM3079",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3079",
+            "tittel": "Bioøkonomi 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:ffae479b-20f3-4678-a788-d0163244a7d3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SAM3080",
+            "uri": "http://psi.udir.no/kl06/SAM3080",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SAM3080",
+            "tittel": "Bioøkonomi 2, muntlig-praktisk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fa35cc21-49eb-4873-b5f7-d485c505da37",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SLGV100",
+            "uri": "http://psi.udir.no/kl06/SLGV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SLGV100",
+            "tittel": "Inngang til modulstrukturert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:24a73a3e-9be0-47cb-9d72-fc58481fc1ae",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SLGV101",
+            "uri": "http://psi.udir.no/kl06/SLGV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SLGV101",
+            "tittel": "Lover, regler og HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e1bee7c7-6d82-45b8-8472-fdb499c907c7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SLGV102",
+            "uri": "http://psi.udir.no/kl06/SLGV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SLGV102",
+            "tittel": "Økonomi og drift",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5118822a-0ec9-4225-af47-969c3e9dbd0d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SLGV103",
+            "uri": "http://psi.udir.no/kl06/SLGV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SLGV103",
+            "tittel": "Markedsføring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fd9a1e4e-bf7d-413b-9fc0-9ad51473fa7e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SLGV104",
+            "uri": "http://psi.udir.no/kl06/SLGV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/SLGV104",
+            "tittel": "Salg",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fca5e88f-9f8b-4c86-9c83-972ee3c468e0",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TBYV100",
+            "uri": "http://psi.udir.no/kl06/TBYV100",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/TBYV100",
+            "tittel": "Inngang til modulstrukturert fag- og yrkesopplæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:210a0460-d28f-48c0-9eab-673906ffe220",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TBYV101",
+            "uri": "http://psi.udir.no/kl06/TBYV101",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/TBYV101",
+            "tittel": "Materialhåndtering, risiko og HMS",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:42711ca6-9240-46e8-8c1f-bf0af797a816",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TBYV102",
+            "uri": "http://psi.udir.no/kl06/TBYV102",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/TBYV102",
+            "tittel": "Maskinering, dokumentasjon og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3cb2b971-66c9-4580-ba35-80157e9e1100",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TBYV103",
+            "uri": "http://psi.udir.no/kl06/TBYV103",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/TBYV103",
+            "tittel": "Overflatebehandling",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5593ec24-461e-48f3-bd3d-f96ccdeefd0a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TBYV104",
+            "uri": "http://psi.udir.no/kl06/TBYV104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/TBYV104",
+            "tittel": "Sammensetting og kundebehandling",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b996edc1-1880-4cd4-ab6d-be1c3dfac6f4",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TMF3104",
+            "uri": "http://psi.udir.no/kl06/TMF3104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/TMF3104",
+            "tittel": "Tømrerfaget, skriftlig-muntlig, forsøk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4f45753e-353d-4718-abc5-9930452a01b1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "VAL0043",
+            "uri": "http://psi.udir.no/kl06/VAL0043",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/VAL0043",
+            "tittel": "Programmering",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2019-07-31T00:00:00"
+            },
+            "id": "uuid:542fa0e0-9f86-4dee-8852-75de0d314d0d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "VAL0046",
+            "uri": "http://psi.udir.no/kl06/VAL0046",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/VAL0046",
+            "tittel": "Praktisk håndverksfag",
+            "gyldighet": {
+                "gyldig-fra": "2019-05-09T00:00:00",
+                "gyldig-til": "2020-07-31T00:00:00"
+            },
+            "id": "uuid:60abb61a-8cb3-47ca-8fd5-61ab067170fb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "VAL0063",
+            "uri": "http://psi.udir.no/kl06/VAL0063",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/VAL0063",
+            "tittel": "Valgfag tegnspråk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:45213069-f430-4c35-9f24-a0cb3c8f2b2e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "YFO2001",
+            "uri": "http://psi.udir.no/kl06/YFO2001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/YFO2001",
+            "tittel": "Yrkesfaglig opphenting",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f4c6bb3b-9ce2-4668-a4c7-b702ba5ee8a1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "YRK3104",
+            "uri": "http://psi.udir.no/kl06/YRK3104",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/YRK3104",
+            "tittel": "Yrkessjåførfaget, skriftlig-muntlig, forsøk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5c9d52a1-b7ed-45a6-a41a-775903405ff3",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "AGR3Z01",
+            "uri": "http://psi.udir.no/kl06/AGR3Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/AGR3Z01",
+            "tittel": "Landbruksfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b5457730-8c6c-41b3-89fe-dd1aaa1e17db",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "ARB1Z01",
+            "uri": "http://psi.udir.no/kl06/ARB1Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/ARB1Z01",
+            "tittel": "Arbeidslivsfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0426e257-0211-4878-a379-ad322d41294a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GAR3Z01",
+            "uri": "http://psi.udir.no/kl06/GAR3Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/GAR3Z01",
+            "tittel": "Gartnerfaget",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:968ba197-d674-4556-ac01-356837233484",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "IDT3Z01",
+            "uri": "http://psi.udir.no/kl06/IDT3Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/IDT3Z01",
+            "tittel": "IKT-driftsteknikerfaget",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:998475b3-5f6c-446c-a4b9-2adc3b31c1cb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "ITU3Z01",
+            "uri": "http://psi.udir.no/kl06/ITU3Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/ITU3Z01",
+            "tittel": "IKT-tjenesteutviklerfaget",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:472ab35f-0de0-48c0-83a9-8d124d94f94d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "LGA3Z01",
+            "uri": "http://psi.udir.no/kl06/LGA3Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/LGA3Z01",
+            "tittel": "Produksjon, miljø og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:5fb05b66-6ca3-4624-98ec-966ac289e14c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA4Z01",
+            "uri": "http://psi.udir.no/kl06/LGA4Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/LGA4Z01",
+            "tittel": "Forvaltning og drift",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:6222905b-ca05-4bf9-a2ac-67ffa1bd75bc",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA5Z01",
+            "uri": "http://psi.udir.no/kl06/LGA5Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/LGA5Z01",
+            "tittel": "Landbruk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:dd3b1810-4fcf-4f41-948f-c6dd82ddbfcc",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA6Z01",
+            "uri": "http://psi.udir.no/kl06/LGA6Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/LGA6Z01",
+            "tittel": "Gartnernæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e2e6e5e1-bf6a-48cf-bdd7-09731cccf6b0",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MAT7Z01",
+            "uri": "http://psi.udir.no/kl06/MAT7Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MAT7Z01",
+            "tittel": "Fordypning i matematikk 8.-10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f31e03b1-d8a1-4660-ad0f-403ea2756d6e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MAT7Z02",
+            "uri": "http://psi.udir.no/kl06/MAT7Z02",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MAT7Z02",
+            "tittel": "Fordypning i matematikk 8. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2015-08-01T00:00:00",
+                "gyldig-til": "2016-07-31T00:00:00"
+            },
+            "id": "uuid:ad6a8604-cda3-4dc2-b0f3-c73d2fff0b67",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "MAT7Z03",
+            "uri": "http://psi.udir.no/kl06/MAT7Z03",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MAT7Z03",
+            "tittel": "Fordypning i matematikk, 9. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2015-08-01T00:00:00",
+                "gyldig-til": "2016-07-31T00:00:00"
+            },
+            "id": "uuid:fe904c3e-751a-4928-a920-b23f31827d80",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "MAT7Z04",
+            "uri": "http://psi.udir.no/kl06/MAT7Z04",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MAT7Z04",
+            "tittel": "Fordypning i matematikk 10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2015-08-01T00:00:00",
+                "gyldig-til": "2016-07-31T00:00:00"
+            },
+            "id": "uuid:33cf9e2c-6bba-45d2-93d6-da442c743c98",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "MIR3Z01",
+            "uri": "http://psi.udir.no/kl06/MIR3Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MIR3Z01",
+            "tittel": "Maritim innredning",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0d1e52fb-6ff3-4108-961b-3ce42dbfd6f8",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2Z01",
+            "uri": "http://psi.udir.no/kl06/MPT2Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MPT2Z01",
+            "tittel": "Produksjon",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:710c084b-ccdd-4d5c-bac7-1e03bb0cd8c1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2Z02",
+            "uri": "http://psi.udir.no/kl06/MPT2Z02",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MPT2Z02",
+            "tittel": "Bransje- og materiallære",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fac24180-373e-462c-83de-c6a01205517a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2Z03",
+            "uri": "http://psi.udir.no/kl06/MPT2Z03",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/MPT2Z03",
+            "tittel": "Dokumentasjon og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4a888417-b8c0-4b75-93f2-44a85107ba23",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PHF1Z01",
+            "uri": "http://psi.udir.no/kl06/PHF1Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/PHF1Z01",
+            "tittel": "Praktisk håndverksfag",
+            "gyldighet": {
+                "gyldig-fra": "2019-05-09T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:9b056479-ab1d-419f-ac50-94c661e5fa39",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "POK2Z01",
+            "uri": "http://psi.udir.no/kl06/POK2Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/POK2Z01",
+            "tittel": "Produksjon",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:2863fa75-9cc1-4e1a-9a5e-62e8f8c44f81",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "POK2Z02",
+            "uri": "http://psi.udir.no/kl06/POK2Z02",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/POK2Z02",
+            "tittel": "Materiallære",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:d97a57dc-31c2-442c-b2e8-e3349932e24a",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "POK2Z03",
+            "uri": "http://psi.udir.no/kl06/POK2Z03",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/POK2Z03",
+            "tittel": "Dokumentasjon og kvalitet",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:7e68fbf1-c8c4-47cd-b114-d059304d99b5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "PRG1Z01",
+            "uri": "http://psi.udir.no/kl06/PRG1Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/PRG1Z01",
+            "tittel": "Programmering",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:f2a93dae-75b2-47ab-9c92-577686166b7c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "PRM1Z01",
+            "uri": "http://psi.udir.no/kl06/PRM1Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/PRM1Z01",
+            "tittel": "Programmering og modellering X",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0acd11a0-9be8-417c-90ed-5db7f7f1530d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "YFO2Z01",
+            "uri": "http://psi.udir.no/kl06/YFO2Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/YFO2Z01",
+            "tittel": "Yrkesfaglig opphenting, vg2 klima, energi og miljøteknikk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3af32865-fafe-4d54-b7c7-cd8b7684f28e",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "tilknyttede-laereplaner": [
+        {
+            "kode": "AGR3-01",
+            "uri": "http://psi.udir.no/kl06/AGR3-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/AGR3-01",
+            "tittel": "Forsøkslæreplan for Vg3/opplæring i bedrift - landbruksfag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4011e684-842b-4cff-ae6d-e200efcfebb2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ARB1-01",
+            "uri": "http://psi.udir.no/kl06/ARB1-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/ARB1-01",
+            "tittel": "Læreplan for forsøk med arbeidslivsfag på ungdomstrinnet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e4c6a76c-b152-4984-a1a2-3482439a2959",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "GAR3-01",
+            "uri": "http://psi.udir.no/kl06/GAR3-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/GAR3-01",
+            "tittel": "Forsøkslæreplan for Vg3/opplæring i bedrift - gartnernæring",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:0aaea950-85b0-4d3b-a76e-83842c1c112f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA3-01",
+            "uri": "http://psi.udir.no/kl06/LGA3-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/LGA3-01",
+            "tittel": "Læreplan i produksjon, miljø og kvalitet – felles programfag i utdanningsprogrammet for Naturbruk, programområde for landbruk og gartnernæring. Forsøk.",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:619dde70-b2cb-4292-942d-26718e50cf48",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA4-01",
+            "uri": "http://psi.udir.no/kl06/LGA4-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/LGA4-01",
+            "tittel": "Læreplan i forvaltning og drift – felles programfag i utdanningsprogrammet for Naturbruk, programområde for landbruk og gartnernæring. Forsøk.",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:9626f6fc-cf18-4ffc-82d5-80d7cbbea996",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA5-01",
+            "uri": "http://psi.udir.no/kl06/LGA5-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/LGA5-01",
+            "tittel": "Læreplan i landbruk – valgfritt programfag i utdanningsprogrammet for Naturbruk, programområde for landbruk og gartnernæring. Forsøk.",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:227105c1-fb5c-4527-ba38-fd8874f34c83",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "LGA6-01",
+            "uri": "http://psi.udir.no/kl06/LGA6-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/LGA6-01",
+            "tittel": "Læreplan i gartnernæring – valgfritt programfag i utdanningsprogrammet for Naturbruk, programområde for landbruk og gartnernæring. Forsøk.",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:69475376-e19c-4638-a6e6-be4f168ca44d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MIR3-01",
+            "uri": "http://psi.udir.no/kl06/MIR3-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/MIR3-01",
+            "tittel": "Forsøkslæreplan i maritim innredning Vg3/opplæring i bedrift",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:67967022-766d-49a0-8125-10a5a06e04a7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "MPT2-01",
+            "uri": "http://psi.udir.no/kl06/MPT2-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/MPT2-01",
+            "tittel": "Programområde for maritim produksjonsteknikk - Læreplan i felles programfag Vg2 - forsøk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:53b12897-6b78-4332-9fc9-cfbd35d17bd1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "POK2-01",
+            "uri": "http://psi.udir.no/kl06/POK2-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/POK2-01",
+            "tittel": "Programområde for plast og komposittfaget - læreplan i felles programfag Vg2 - forsøk",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:19d92f53-1a64-4fea-b844-e420a502e827",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRG1-01",
+            "uri": "http://psi.udir.no/kl06/PRG1-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/PRG1-01",
+            "tittel": "Forsøkslæreplan i valgfag programmering",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:43fa2625-c442-412b-8a7f-6bde631cd743",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "PRM1-01",
+            "uri": "http://psi.udir.no/kl06/PRM1-01",
+            "url-data": "https://data.udir.no/kl06/v201906/laereplaner/PRM1-01",
+            "tittel": "Forsøkslæreplan i programmering og modellering X - programfag i utdanningsprogram for studiespesialisering",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:c13537bb-fd37-495f-8731-b111a026624d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "tilknyttede-programomraader": [
+        {
+            "kode": "NAAGR3----",
+            "uri": "http://psi.udir.no/kl06/NAAGR3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/NAAGR3----",
+            "tittel": "Landbruk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8c959877-0941-4d95-89bf-d9bb4d3baea7",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "NAGAR3----",
+            "uri": "http://psi.udir.no/kl06/NAGAR3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/NAGAR3----",
+            "tittel": "Gartnerfaget",
+            "gyldighet": {
+                "gyldig-fra": "2014-08-01T00:00:00",
+                "gyldig-til": "2022-07-31T00:00:00"
+            },
+            "id": "uuid:eb59ff1b-3172-4ea8-a756-6174cc9a7ccf",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "SSIDT3----",
+            "uri": "http://psi.udir.no/kl06/SSIDT3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/SSIDT3----",
+            "tittel": "IKT-driftsteknikerfaget",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:7170fdc0-d946-4ff9-844b-b90e4560218b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "SSITU3----",
+            "uri": "http://psi.udir.no/kl06/SSITU3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/SSITU3----",
+            "tittel": "IKT-tjenesteutviklerfaget",
+            "gyldighet": {
+                "gyldig-fra": "2017-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:06963e80-2589-4951-baf1-8024a3d2c450",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TPMIR3----",
+            "uri": "http://psi.udir.no/kl06/TPMIR3----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/TPMIR3----",
+            "tittel": "Maritim innredning",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:1b42dad3-c556-45be-8bc6-0999d18fa0eb",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TPMPT2----",
+            "uri": "http://psi.udir.no/kl06/TPMPT2----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/TPMPT2----",
+            "tittel": "Maritim produksjonsteknikk",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:fcca8a1c-1918-4d91-89f5-92450670faed",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "TPPOK2----",
+            "uri": "http://psi.udir.no/kl06/TPPOK2----",
+            "url-data": "https://data.udir.no/kl06/v201906/programomraader/TPPOK2----",
+            "tittel": "Plast og kompositt",
+            "gyldighet": {
+                "gyldig-fra": "2016-08-01T00:00:00",
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:fe132eae-d317-4add-9771-c35aaccd3596",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "kan-knyttes-til-fag": true,
+    "kan-knyttes-til-laereplan": true,
+    "kan-knyttes-til-programomraade": true,
+    "kortform": [],
+    "gyldig-fra": null,
+    "gyldig-til": null,
+    "rekkefoelge": 5
+}

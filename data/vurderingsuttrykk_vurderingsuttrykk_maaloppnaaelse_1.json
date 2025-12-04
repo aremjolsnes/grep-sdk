@@ -1,0 +1,64 @@
+{
+    "id": "uuid:35e22c7f-3672-4a6e-aa04-27e364e26ca7",
+    "kode": "vurderingsuttrykk_maaloppnaaelse",
+    "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_maaloppnaaelse",
+    "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_maaloppnaaelse",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Måloppnåelse"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Måloppnåelse"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2024-07-02T10:08:39.519639",
+    "tillatte-uttrykk": [
+        {
+            "kode": "karakter_lm",
+            "uri": "http://psi.udir.no/kl06/karakter_lm",
+            "url-data": "https://data.udir.no/kl06/v201906/karakterer/karakter_lm",
+            "tittel": "Lav måloppnåelse",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:cbb5e2a4-9a02-4777-9877-c6be20a5b372",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/karakter",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "karakter_mm",
+            "uri": "http://psi.udir.no/kl06/karakter_mm",
+            "url-data": "https://data.udir.no/kl06/v201906/karakterer/karakter_mm",
+            "tittel": "Middels måloppnåelse",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:727e4721-d0f0-4785-89ba-cd3a3cacab36",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/karakter",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "karakter_hm",
+            "uri": "http://psi.udir.no/kl06/karakter_hm",
+            "url-data": "https://data.udir.no/kl06/v201906/karakterer/karakter_hm",
+            "tittel": "Høy måloppnåelse",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3d45f0a4-e168-4cac-bf27-116435b8cd32",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/karakter",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "kortform": [],
+    "gyldig-fra": "2024-08-01T00:00:00",
+    "gyldig-til": null,
+    "rekkefoelge": 9
+}

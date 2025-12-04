@@ -1,0 +1,362 @@
+{
+    "id": "uuid:d14625f3-a20c-4d12-9860-0ab9ad0a0fdd",
+    "kode": "ADI2003",
+    "uri": "http://psi.udir.no/kl06/ADI2003",
+    "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ADI2003",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Tverrfaglig eksamen anleggsgartner- og idrettsanleggsfag"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Interdisciplinary Examination for Landscape Gardeners and Sports Facilities Operators"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Tverrfagleg eksamen anleggsgartnar- og idrettsanleggsfag"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Tverrfaglig eksamen anleggsgartner- og idrettsanleggsfag"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Fágaidrasttideaddji eksámen ráhkadusšaddogárde- ja valáštallanrusttetfágat"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+    "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt",
+    "sist-endret": "2023-01-03T14:04:41.2624399",
+    "merkelapper": [
+        {
+            "kode": "tverrfaglig_eksamen",
+            "uri": "http://psi.udir.no/kl06/tverrfaglig_eksamen",
+            "url-data": "https://data.udir.no/kl06/v201906/merkelapper/tverrfaglig_eksamen",
+            "tittel": "Tverrfaglig eksamen",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/kl06/tverrfaglig_eksamen",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "vurderingsordning": [
+        {
+            "trekkordning": {
+                "kode": "trekkordning_3",
+                "uri": "http://psi.udir.no/kl06/trekkordning_3",
+                "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_3",
+                "tittel": "Obligatorisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/trekkordning_3",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "type-eksamensordning": {
+                "kode": "eksamensordning_11",
+                "uri": "http://psi.udir.no/kl06/eksamensordning_11",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_11",
+                "tittel": "Tverrfaglig praktisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/eksamensordning_11",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "vurderingsuttrykk": {
+                "kode": "vurderingsuttrykk_tall",
+                "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_tall",
+                "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_tall",
+                "tittel": "Tall",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/vurderingsform/tall",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "eksamensform-paa-vitnemaalet": {
+                "kode": "eksamensform_4",
+                "uri": "http://psi.udir.no/kl06/eksamensform_4",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_4",
+                "tittel": "Praktisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/eksamensform/vitnemaal/praktisk",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "elevtype": "http://psi.udir.no/ontologi/eksamen_vurdering_elev",
+            "standpunktvurdering": false,
+            "modulvurdering": false,
+            "halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO": false,
+            "hoeyeste-nivaa": false
+        },
+        {
+            "trekkordning": {
+                "kode": "trekkordning_3",
+                "uri": "http://psi.udir.no/kl06/trekkordning_3",
+                "url-data": "https://data.udir.no/kl06/v201906/trekkordninger/trekkordning_3",
+                "tittel": "Obligatorisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/trekkordning_3",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "type-eksamensordning": {
+                "kode": "eksamensordning_22",
+                "uri": "http://psi.udir.no/kl06/eksamensordning_22",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger/eksamensordning_22",
+                "tittel": "Skriftlig og tverrfaglig praktisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/kl06/eksamensordning_22",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "vurderingsuttrykk": {
+                "kode": "vurderingsuttrykk_tall",
+                "uri": "http://psi.udir.no/kl06/vurderingsuttrykk_tall",
+                "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk/vurderingsuttrykk_tall",
+                "tittel": "Tall",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/vurderingsform/tall",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "eksamensform-paa-vitnemaalet": {
+                "kode": "eksamensform_4",
+                "uri": "http://psi.udir.no/kl06/eksamensform_4",
+                "url-data": "https://data.udir.no/kl06/v201906/eksamensformer/eksamensform_4",
+                "tittel": "Praktisk",
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "http://psi.udir.no/eksamensform/vitnemaal/praktisk",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+                "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+            },
+            "elevtype": "http://psi.udir.no/ontologi/eksamen_vurdering_privatist",
+            "standpunktvurdering": false,
+            "modulvurdering": false,
+            "halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO": false,
+            "hoeyeste-nivaa": false
+        }
+    ],
+    "opplaeringsfag": [
+        {
+            "kode": "ADI2Z01",
+            "uri": "http://psi.udir.no/kl06/ADI2Z01",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/ADI2Z01",
+            "tittel": "Nyanlegg",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:33ab6917-0db3-4e57-ac7e-a6eae3c2c064",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "ADI2Z02",
+            "uri": "http://psi.udir.no/kl06/ADI2Z02",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/ADI2Z02",
+            "tittel": "Drift og vedlikehold",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": "2021-07-31T00:00:00"
+            },
+            "id": "uuid:84ca2517-6dd8-4ae5-a7d4-3cc0cfa0a9c5",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilleggseksamen-ikke-normalt-loep": [],
+    "benyttes-sammen-med": [
+        {
+            "kode": "ADI2001",
+            "uri": "http://psi.udir.no/kl06/ADI2001",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ADI2001",
+            "tittel": "Nyanlegg",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:22f38a2a-e0eb-4d3e-bb0d-c16a997e9c64",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "kode": "ADI2002",
+            "uri": "http://psi.udir.no/kl06/ADI2002",
+            "url-data": "https://data.udir.no/kl06/v201906/fagkoder/ADI2002",
+            "tittel": "Drift og vedlikehold",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:2feef118-dd7a-4cd0-91bc-cd1ea6bdb50f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ],
+    "spraaknivaa": null,
+    "erstatter": [],
+    "erstattes-av": [],
+    "omfang-totalt": null,
+    "omfang-vitnemaal": null,
+    "omfang-til-naa": null,
+    "naar-kan-man-ta-eksamen": {
+        "foerste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vår 2008"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vår 2008"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_vaar_2008",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2008",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        },
+        "siste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Høst 2022"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Høst 2022"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_hoest_2022",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_hoest_2022",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        }
+    },
+    "naar-gis-det-undervisning": {
+        "foerste-semester": null,
+        "siste-semester": {
+            "beskrivelse": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vår 2021"
+                },
+                {
+                    "spraak": "nob",
+                    "verdi": "Vår 2021"
+                }
+            ],
+            "uri": "http://psi.udir.no/kl06/semester_vaar_2021",
+            "url-data": "https://data.udir.no/kl06/v201906/semester/semester_vaar_2021",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/semester"
+        }
+    },
+    "sensur": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Lokal"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Lokal"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/sensur_lokal",
+        "url-data": "https://data.udir.no/kl06/v201906/sensur/sensur_lokal",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/sensur"
+    },
+    "oppgave": {
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Lokal"
+            },
+            {
+                "spraak": "nob",
+                "verdi": "Lokal"
+            }
+        ],
+        "uri": "http://psi.udir.no/kl06/oppgave_lokal",
+        "url-data": "https://data.udir.no/kl06/v201906/oppgave/oppgave_lokal",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/oppgave"
+    },
+    "tilleggsopplysninger": [],
+    "bygger-paa-fag": [],
+    "gyldig-fra": "2008-01-01T00:00:00",
+    "gyldig-til": "2022-12-31T00:00:00",
+    "iso-639-2-kode": null,
+    "fagtype": {
+        "kode": "fagtype_felles_programfag",
+        "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
+        "url-data": "https://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
+        "tittel": "Felles programfag",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/felles_programfag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "opplaeringsnivaa": {
+        "kode": "opplaeringsnivaa_videregaaende",
+        "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+        "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
+        "tittel": "Videregående opplæring",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Tverrfaglig eksamen"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Interdisciplinary Examination"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Tverrfagleg eksamen"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Tverrfaglig eksamen"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Fágaidrasttideaddji eksámen"
+        }
+    ]
+}

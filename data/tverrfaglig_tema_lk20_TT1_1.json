@@ -1,0 +1,41 @@
+{
+    "lenke-til-beskrivelse": null,
+    "rekkefoelge": 1,
+    "id": "4fbd99bd-0e3f-48b7-9de2-86086c50d5fc",
+    "kode": "TT1",
+    "uri": "http://psi.udir.no/kl06/TT1",
+    "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Folkehelse og livsmestring"
+        },
+        {
+            "spraak": "eng",
+            "verdi": "Health and life skills"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Folkehelse og livsmeistring"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Folkehelse og livsmestring"
+        },
+        {
+            "spraak": "sma",
+            "verdi": "Almetjehealsoe jïh jieledehaalveme"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Álbmotdearvvasvuohta ja eallimis birgen"
+        },
+        {
+            "spraak": "smj",
+            "verdi": "Álmmukvarresvuohta ja bierggim"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2020-06-22T07:41:14.7501365"
+}

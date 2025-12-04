@@ -1,0 +1,256 @@
+{
+    "id": "89899e67-bb82-4c4a-85eb-084f37d86a41",
+    "kode": "KV370",
+    "uri": "http://psi.udir.no/kl06/KV370",
+    "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV370",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Kompetansemål og vurdering administrasjon "
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Kompetansemål og vurdering administrasjon "
+            }
+        ],
+        "forskrift": true
+    },
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "Administrasjon"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Administrasjon"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+    "rekkefoelge": 1,
+    "forklaring": [],
+    "status": "https://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2025-08-19T17:16:15.86",
+    "kompetansemaal-overskrift": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Kompetansemål etter administrasjon"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Kompetansemål etter administrasjon"
+            }
+        ],
+        "forskrift": true
+    },
+    "kompetansemaal-ingress": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Mål for opplæringa er at eleven skal kunne"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Mål for opplæringa er at eleven skal kunne"
+            }
+        ],
+        "forskrift": true
+    },
+    "kompetansemaal": [
+        {
+            "kode": "KM3906",
+            "uri": "http://psi.udir.no/kl06/KM3906",
+            "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3906",
+            "tittel": "planleggje, gjennomføre, dokumentere og vurdere aktiviseringsprosessar tilpassa ulike brukarar frå ulike kulturar og brukargrupper",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "b4136897-219d-405d-b22b-e487f96ce28b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "KM3908",
+            "uri": "http://psi.udir.no/kl06/KM3908",
+            "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3908",
+            "tittel": "setje mål for aktiviseringsarbeidet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "b7403126-2ad3-434b-a8de-5105b8ee23fc",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "KM3903",
+            "uri": "http://psi.udir.no/kl06/KM3903",
+            "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3903",
+            "tittel": "drøfte kva frivillig arbeid har å seie og korleis frivillige og ulike kulturtilbod kan brukast i aktiviseringsarbeidet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "c2f132d8-0b08-4659-b2ca-21ea927dc739",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "KM3905",
+            "uri": "http://psi.udir.no/kl06/KM3905",
+            "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3905",
+            "tittel": "gjere greie for kva verknad aktivitetar har på den fysiske og mentale helsa til brukarane",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "c39cf4d6-6f38-4716-a404-182e356815bd",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "KM3918",
+            "uri": "http://psi.udir.no/kl06/KM3918",
+            "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3918",
+            "tittel": "berekne forbruk, setje opp budsjett og føre rekneskap over kostnader knytte til aktiviseringsarbeidet",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "0535d4d5-13ca-47d6-a664-e3bccff66278",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        },
+        {
+            "kode": "KM3904",
+            "uri": "http://psi.udir.no/kl06/KM3904",
+            "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3904",
+            "tittel": "reflektere over særpreg og avgrensingar som gjeld aktivitørfaget som helsefag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "4f2deddf-df43-41c7-8c4f-150b3e53312b",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "underveisvurdering": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Undervegsvurdering"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Undervegsvurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p>Undervegsvurderinga skal bidra til å fremje læring og til å utvikle kompetanse. Elevane viser og utviklar kompetanse i administrasjon når dei bruker kunnskapar, ferdigheiter og kritisk tenking til å løyse arbeidsoppgåver i programfaget.</p><p>Læraren skal leggje til rette for elevmedverknad og stimulere til lærelyst gjennom varierte arbeidsoppgåver. Læraren kan gi arbeidsoppgåver som dekkjer fleire av eller alle programfaga. Læraren skal vere i dialog med elevane om utviklinga deira i administrasjon. Elevane skal få høve til å uttrykkje kva dei opplever at dei meistrar, og reflektere over eiga fagleg utvikling. Læraren skal gi rettleiing om vidare læring og tilpasse opplæringa slik at elevane kan bruke rettleiinga for å utvikle kompetansen sin i programfaget.</p>"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "<p>Undervegsvurderinga skal bidra til å fremje læring og til å utvikle kompetanse. Elevane viser og utviklar kompetanse i administrasjon når dei bruker kunnskapar, ferdigheiter og kritisk tenking til å løyse arbeidsoppgåver i programfaget.</p><p>Læraren skal leggje til rette for elevmedverknad og stimulere til lærelyst gjennom varierte arbeidsoppgåver. Læraren kan gi arbeidsoppgåver som dekkjer fleire av eller alle programfaga. Læraren skal vere i dialog med elevane om utviklinga deira i administrasjon. Elevane skal få høve til å uttrykkje kva dei opplever at dei meistrar, og reflektere over eiga fagleg utvikling. Læraren skal gi rettleiing om vidare læring og tilpasse opplæringa slik at elevane kan bruke rettleiinga for å utvikle kompetansen sin i programfaget.</p>"
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": []
+    },
+    "standpunktvurdering": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Standpunktvurdering"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Standpunktvurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "<p>Standpunktkarakteren skal vere uttrykk for den samla kompetansen eleven har i administrasjon ved avslutninga av opplæringa i programfaget. Læraren skal planleggje og leggje til rette for at eleven får vist kompetansen sin i programfaget på varierte måtar. Med utgangspunkt i kompetansemåla skal læraren vurdere korleis eleven viser forståing, evne til refleksjon og kritisk tenking, og korleis eleven meistrar utfordringar og løyser oppgåver i ulike samanhengar. Læraren skal setje karakter i administrasjon basert på kompetansen eleven viser ved å planleggje, gjennomføre, vurdere og dokumentere eige fagleg arbeid.</p>"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "<p>Standpunktkarakteren skal vere uttrykk for den samla kompetansen eleven har i administrasjon ved avslutninga av opplæringa i programfaget. Læraren skal planleggje og leggje til rette for at eleven får vist kompetansen sin i programfaget på varierte måtar. Med utgangspunkt i kompetansemåla skal læraren vurdere korleis eleven viser forståing, evne til refleksjon og kritisk tenking, og korleis eleven meistrar utfordringar og løyser oppgåver i ulike samanhengar. Læraren skal setje karakter i administrasjon basert på kompetansen eleven viser ved å planleggje, gjennomføre, vurdere og dokumentere eige fagleg arbeid.</p>"
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": []
+    },
+    "etter-fag": [
+        {
+            "kode": "AKT2Z05",
+            "uri": "http://psi.udir.no/kl06/AKT2Z05",
+            "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag/AKT2Z05",
+            "tittel": "Administrasjon",
+            "gyldighet": {
+                "gyldig-fra": "2021-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:c29fd178-2c53-4010-9fe4-77f7374ff65f",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "etter-aarstrinn": [
+        {
+            "kode": "vg2",
+            "uri": "http://psi.udir.no/kl06/vg2",
+            "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg2",
+            "tittel": "Videregående trinn 2",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/vg2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "benyttes-paa-aarstrinn": [
+        {
+            "kode": "vg2",
+            "uri": "http://psi.udir.no/kl06/vg2",
+            "url-data": "https://data.udir.no/kl06/v201906/aarstrinn/vg2",
+            "tittel": "Videregående trinn 2",
+            "gyldighet": {
+                "gyldig-fra": "2021-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/vg2",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+        }
+    ],
+    "tilhoerer-laereplan": {
+        "kode": "AKT02-04",
+        "uri": "http://psi.udir.no/kl06/AKT02-04",
+        "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20/AKT02-04",
+        "tittel": "Læreplan i vg2 aktivitør",
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "21436307-b5cd-46aa-b8b8-01508678683b",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "https://data.udir.no/kl06/v201906/status/status_publisert"
+    }
+}

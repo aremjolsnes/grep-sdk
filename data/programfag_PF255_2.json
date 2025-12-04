@@ -1,0 +1,62 @@
+{
+    "id": "uuid:7038b242-4dcb-42f9-b5fb-a7d48bf16422",
+    "kode": "PF255",
+    "uri": "http://psi.udir.no/kl06/PF255",
+    "url-data": "https://data.udir.no/kl06/v201906/programfag/PF255",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Antikkens kultur"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Antikkens kultur"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+    "beskrivelse": [],
+    "underliggende-hovedomraader": [
+        {
+            "rekkefoelge": 1,
+            "kode": "HO1669",
+            "uri": "http://psi.udir.no/kl06/HO1669",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1669",
+            "tittel": "Gresk og romersk kultur",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:4aac468e-b94e-4362-980f-a0c2669dc98c",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "rekkefoelge": 2,
+            "kode": "HO1671",
+            "uri": "http://psi.udir.no/kl06/HO1671",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1671",
+            "tittel": "Språkkunnskap",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3ab1be33-4f5f-4da8-8b03-ceb6bc464d7d",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        },
+        {
+            "rekkefoelge": 3,
+            "kode": "HO1670",
+            "uri": "http://psi.udir.no/kl06/HO1670",
+            "url-data": "https://data.udir.no/kl06/v201906/hovedomraader/HO1670",
+            "tittel": "Antikken i dag",
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:b3819674-3d1c-47a5-9c9e-109fb86db1cf",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+            "status": "https://data.udir.no/kl06/v201906/status/status_utgaatt"
+        }
+    ]
+}
