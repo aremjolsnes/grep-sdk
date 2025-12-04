@@ -189,3 +189,7 @@ test_bypass.js
 # data/*.json
 # !data/lol.json
 # !data/kompetansemaalsett.json
+java_sdk/jdk/
+java_sdk/.gradle/
+**/bin/
+**/obj/

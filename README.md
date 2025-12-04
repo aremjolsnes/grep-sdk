@@ -1,68 +1,110 @@
 # @udir/grep-sdk 📚
-## Utviklerpakken for Grep-data fra Utdanningsdirektoratet.
+## Developer SDK for Grep data from the Norwegian Directorate for Education and Training (Udir).
 
-grep-sdk fjerner gjettingen ved integrasjon mot Utdanningsdirektoratets Grep-database (LK20 og LK06). Biblioteket gir deg ferdige datamodeller, automatisk dokumentasjon i koden (IntelliSense) og typesikker kommunikasjon med API-et.
-Hvorfor bruke denne? 🚀
+![Build Status](https://github.com/Utdanningsdirektoratet/grep-sdk/actions/workflows/release.yml/badge.svg)
 
-Før måtte du slå opp i [Grep Wiki](https://grepwiki.udir.no) for å forstå feltnavnene i JSON-responsen. Nå får du svaret rett i editoren.
-    ✅ Full Typesikkerhet: Vi vet forskjellen på Kompetansemaal og Kjerneelement slik at du slipper runtime-feil.
-    ✅ Rik Dokumentasjon: Definisjoner fra Grep-ontologien vises som hjelpetekst når du holder musen over felter i koden.
-    ✅ Universell Støtte: Håndterer både Fagfornyelsen (LK20) og Kunnskapsløftet (LK06) med automatisk fallback.
+`grep-sdk` removes the guesswork when integrating with the Norwegian Directorate for Education and Training's Grep database (LK20 and LK06). The library provides ready-made data models, automatic code documentation (IntelliSense), and type-safe communication with the API.
 
-### 📦 Installasjon
-#### Node.js / TypeScript
+### Why use this? 🚀
+
+Previously, you had to look up the [Grep Wiki](https://grepwiki.udir.no) to understand the field names in the JSON response. Now you get the answer right in your editor.
+
+-   ✅ **Full Type Safety**: We know the difference between `Kompetansemaal` and `Kjerneelement` so you avoid runtime errors.
+-   ✅ **Rich Documentation**: Definitions from the Grep ontology appear as help text when you hover over fields in the code.
+-   ✅ **Universal Support**: Handles both the Knowledge Promotion (LK20) and the Knowledge Promotion Reform (LK06) with automatic fallback.
+
+---
+
+## 📦 Installation
+
+### Node.js / TypeScript
 ```Bash
 npm install @udir/grep-sdk
 ```
 
-#### Python
+### Python
 ```Bash
 pip install udir-grep
 ```
 
-## 💻 Bruk
+### .NET / C#
+Add the project reference or install the package:
+```Bash
+dotnet add package Udir.GrepSdk
+```
+*(See [dotnet_sdk/README.md](dotnet_sdk/README.md) for details)*
+
+### Java
+repositories {
+    maven { url = uri("https://maven.pkg.github.com/Utdanningsdirektoratet/grep-sdk") }
+}
+
+dependencies {
+    implementation 'no.udir.grep:java_sdk:0.9.5'
+}
+*(See [java_sdk/README.md](java_sdk/README.md) for details)*
+
+---
+
+## 💻 Usage
+
 ### TypeScript (Node.js)
-Klienten sjekker automatisk om koden tilhører LK20 eller LK06.
+The client automatically checks if the code belongs to LK20 or LK06.
 ```TypeScript
 import { GrepClient } from '@udir/grep-sdk';
 
 const client = new GrepClient();
 
-async function hentPlan() {
-  // Henter Matematikk (LK20)
+async function fetchPlan() {
+  // Fetches Mathematics (LK20)
   const plan = await client.getLaereplan("MAT01-05");
   
-  console.log(`Tittel: ${plan.tittel.nob}`);
+  console.log(`Title: ${plan.tittel.nob}`);
   console.log(`Type: ${plan['grep-type']}`); // .../laereplan_lk20
 
-  // Fallback: Henter gammel RLE-plan (LK06)
-  const gammelPlan = await client.getLaereplan("RLE1-02");
+  // Fallback: Fetches old RLE plan (LK06)
+  const oldPlan = await client.getLaereplan("RLE1-02");
 }
-
 ```
 
 ### Python
-SDK-en bruker Pydantic for validering og typesikring.
+The SDK uses Pydantic for validation and type safety.
 ```Python
 from udir_grep import GrepClient
 
 client = GrepClient()
 
-# Henter Matematikk (LK20)
+# Fetches Mathematics (LK20)
 plan = client.get_laereplan("MAT01-05")
 
-# Merk: Feltnavn med bindestrek blir underscore i Python
-print(f"Tittel: {plan.tittel['nob']}")
+# Note: Field names with hyphens become underscores in Python
+print(f"Title: {plan.tittel['nob']}")
 print(f"Type: {plan.grep_type}")
-
 ```
-## Dekning
-SDK-en gir dekning av alle 44 objekttyper i Grep, inkludert:
-- Læreplaner, Kompetansemålsett og Kompetansemål
-- Kjerneelementer og Tverrfaglige temaer
-- Vurderingsordninger og Eksamensformer
-- Utdanningsprogram og Programområder
-- Fagkoder
 
-## Lisens
+### .NET / C#
+```C#
+using Udir.GrepSdk;
+
+var client = new GrepClient();
+var plan = await client.GetLaereplanAsync("MAT01-05");
+```
+
+### Java
+```Java
+GrepClient client = new GrepClient();
+Object plan = client.getLaereplan("MAT01-05").get();
+```
+
+---
+
+## Coverage
+The SDK provides coverage of all 44 object types in Grep, including:
+- Curricula (Læreplaner), Competence Aim Sets (Kompetansemålsett), and Competence Aims (Kompetansemål)
+- Core Elements (Kjerneelementer) and Interdisciplinary Topics (Tverrfaglige temaer)
+- Assessment Arrangements (Vurderingsordninger) and Exam Forms (Eksamensformer)
+- Education Programmes (Utdanningsprogram) and Programme Areas (Programområder)
+- Subject Codes (Fagkoder)
+
+## License
 MIT © Utdanningsdirektoratet
