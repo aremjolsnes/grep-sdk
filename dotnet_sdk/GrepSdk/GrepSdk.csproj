@@ -5,10 +5,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>Udir.GrepSdk</PackageId>
-    <Version>0.9.7</Version>
-    <Authors>Utdanningsdirektoratet</Authors>
-    <Company>Utdanningsdirektoratet</Company>
+    <PackageId>Aremjolsnes.GrepSdk</PackageId>
+    <Version>0.9.8</Version>
+    <Authors>Are Mjølsnes</Authors>
+    <Company>Are Mjølsnes</Company>
     <Description>Utviklerpakke for Grep (LK20/LK06)</Description>
   </PropertyGroup>
 

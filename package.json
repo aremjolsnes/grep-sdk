@@ -1,6 +1,6 @@
 {
-  "name": "@udir/grep-sdk",
-  "version": "0.9.7",
+  "name": "@aremjolsnes/grep-sdk",
+  "version": "0.9.8",
   "description": "Offisiell SDK for Grep (KL06) – databasen for Kunnskapsløftet.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,7 +19,7 @@
     "kunnskapsløftet",
     "sdk"
   ],
-  "author": "Utdanningsdirektoratet",
+  "author": "Are Mjølsnes",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.0.0",

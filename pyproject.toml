@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "udir-grep"
-version = "0.9.7"
+name = "aremjolsnes-grep-sdk"
+version = "0.9.8"
 description = "Offisiell Python SDK for Grep (Kunnskapsløftet)"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -13,7 +13,7 @@ dependencies = [
     "pydantic>=2.0.0"
 ]
 authors = [
-  { name = "Utdanningsdirektoratet", email = "post@udir.no" },
+  { name = "Are Mjølsnes", email = "post@aremjolsnes.no" },
 ]
 
 [tool.hatch.build.targets.wheel]
