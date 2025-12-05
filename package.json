@@ -1,6 +1,6 @@
 {
   "name": "@aremjolsnes/grep-sdk",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "description": "Offisiell SDK for Grep (KL06) – databasen for Kunnskapsløftet.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

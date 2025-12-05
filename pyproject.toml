@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "aremjolsnes-grep-sdk"
-version = "0.9.8"
+version = "0.9.9"
 description = "Offisiell Python SDK for Grep (Kunnskapsløftet)"
 readme = "README.md"
 requires-python = ">=3.8"
