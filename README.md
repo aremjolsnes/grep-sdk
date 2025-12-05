@@ -1,7 +1,7 @@
-# @udir/grep-sdk 📚
+# @aremjolsnes/grep-sdk 📚
 ## Developer SDK for Grep data from the Norwegian Directorate for Education and Training (Udir).
 
-![Build Status](https://github.com/Utdanningsdirektoratet/grep-sdk/actions/workflows/release.yml/badge.svg)
+![Build Status](https://github.com/aremjolsnes/grep-sdk/actions/workflows/release.yml/badge.svg)
 
 `grep-sdk` removes the guesswork when integrating with the Norwegian Directorate for Education and Training's Grep database (LK20 and LK06). The library provides ready-made data models, automatic code documentation (IntelliSense), and type-safe communication with the API.
 
@@ -19,28 +19,28 @@ Previously, you had to look up the [Grep Wiki](https://grepwiki.udir.no) to unde
 
 ### Node.js / TypeScript
 ```Bash
-npm install @udir/grep-sdk
+npm install @aremjolsnes/grep-sdk
 ```
 
 ### Python
 ```Bash
-pip install udir-grep
+pip install aremjolsnes-grep-sdk
 ```
 
 ### .NET / C#
 Add the project reference or install the package:
 ```Bash
-dotnet add package Udir.GrepSdk
+dotnet add package Aremjolsnes.GrepSdk
 ```
 *(See [dotnet_sdk/README.md](dotnet_sdk/README.md) for details)*
 
 ### Java
 repositories {
-    maven { url = uri("https://maven.pkg.github.com/Utdanningsdirektoratet/grep-sdk") }
+    maven { url = uri("https://maven.pkg.github.com/aremjolsnes/grep-sdk") }
 }
 
 dependencies {
-    implementation 'no.udir.grep:java_sdk:0.9.5'
+    implementation 'com.github.aremjolsnes:java_sdk:0.9.10'
 }
 *(See [java_sdk/README.md](java_sdk/README.md) for details)*
 
@@ -51,7 +51,7 @@ dependencies {
 ### TypeScript (Node.js)
 The client automatically checks if the code belongs to LK20 or LK06.
 ```TypeScript
-import { GrepClient } from '@udir/grep-sdk';
+import { GrepClient } from '@aremjolsnes/grep-sdk';
 
 const client = new GrepClient();
 
@@ -70,7 +70,7 @@ async function fetchPlan() {
 ### Python
 The SDK uses Pydantic for validation and type safety.
 ```Python
-from udir_grep import GrepClient
+from aremjolsnes_grep_sdk import GrepClient
 
 client = GrepClient()
 
@@ -84,7 +84,7 @@ print(f"Type: {plan.grep_type}")
 
 ### .NET / C#
 ```C#
-using Udir.GrepSdk;
+using Aremjolsnes.GrepSdk;
 
 var client = new GrepClient();
 var plan = await client.GetLaereplanAsync("MAT01-05");
@@ -107,4 +107,4 @@ The SDK provides coverage of all 44 object types in Grep, including:
 - Subject Codes (Fagkoder)
 
 ## License
-MIT © Utdanningsdirektoratet
+MIT © Are Mjølsnes

@@ -6,14 +6,14 @@ A .NET SDK for the Norwegian Directorate for Education and Training (Udir) Grep 
 
 Install the package from NuGet:
 ```bash
-dotnet add package Udir.GrepSdk
+dotnet add package Aremjolsnes.GrepSdk
 ```
 
 ## Usage
 
 ```csharp
-using Udir.GrepSdk;
-using Udir.GrepSdk.Models;
+using Aremjolsnes.GrepSdk;
+using Aremjolsnes.GrepSdk.Models;
 
 var client = new GrepClient();
 

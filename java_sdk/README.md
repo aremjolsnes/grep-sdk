@@ -9,11 +9,11 @@ Add the dependency to your `build.gradle`:
 ```groovy
 repositories {
     mavenCentral()
-    maven { url = uri("https://maven.pkg.github.com/Utdanningsdirektoratet/grep-sdk") }
+    maven { url = uri("https://maven.pkg.github.com/aremjolsnes/grep-sdk") }
 }
 
 dependencies {
-    implementation 'no.udir.grep:java_sdk:0.9.5'
+    implementation 'com.github.aremjolsnes:java_sdk:0.9.10'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
     implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 }
@@ -22,9 +22,9 @@ dependencies {
 ## Usage
 
 ```java
-import no.udir.grep.GrepClient;
-import no.udir.grep.models.LaereplanLk20;
-import no.udir.grep.models.Laereplan;
+import com.github.aremjolsnes.GrepClient;
+import com.github.aremjolsnes.models.LaereplanLk20;
+import com.github.aremjolsnes.models.Laereplan;
 
 public class Main {
     public static void main(String[] args) throws Exception {
