@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Aremjolsnes.GrepSdk</PackageId>
-    <Version>0.9.9</Version>
+    <Version>0.9.10</Version>
     <Authors>Are Mjølsnes</Authors>
     <Company>Are Mjølsnes</Company>
     <Description>Utviklerpakke for Grep (LK20/LK06)</Description>
